@@ -1,0 +1,60 @@
+{
+    "PassiveAggressive": {
+        "accepted_prefixes": [
+            "hasDot",
+            "isAscii",
+            "inNounChunk",
+            "externalpart_in_dict",
+            "isTitle",
+            "isPlural",
+            "NextIsComma"
+        ],
+        "selection_dev_f1": 67.1,
+        "final_devel_f1": 66.7,
+        "final_test_f1": 66.3,
+        "model_path": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/models/best_model.PassiveAggressive",
+        "devel_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_PassiveAggressive_devel.out",
+        "devel_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_PassiveAggressive_devel.stats",
+        "test_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_PassiveAggressive_test.out",
+        "test_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_PassiveAggressive_test.stats"
+    },
+    "SGD": {
+        "accepted_prefixes": [
+            "hasDot",
+            "hasComma",
+            "isCompound",
+            "inNounChunk",
+            "lenToken",
+            "pre3Prev=",
+            "pre3Prev",
+            "lemma"
+        ],
+        "selection_dev_f1": 67.6,
+        "final_devel_f1": 67.5,
+        "final_test_f1": 67.0,
+        "model_path": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/models/best_model.SGD",
+        "devel_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SGD_devel.out",
+        "devel_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SGD_devel.stats",
+        "test_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SGD_test.out",
+        "test_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SGD_test.stats"
+    },
+    "LinearSVM": {
+        "accepted_prefixes": [
+            "hasDot",
+            "isCompound",
+            "inNounChunk",
+            "B-NP",
+            "E-NP",
+            "hasInternalCap",
+            "shape="
+        ],
+        "selection_dev_f1": 67.3,
+        "final_devel_f1": 67.3,
+        "final_test_f1": 66.8,
+        "model_path": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/models/best_model.LinearSVM",
+        "devel_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_LinearSVM_devel.out",
+        "devel_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_LinearSVM_devel.stats",
+        "test_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_LinearSVM_test.out",
+        "test_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_LinearSVM_test.stats"
+    }
+}

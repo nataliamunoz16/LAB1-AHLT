@@ -1,0 +1,48 @@
+{
+    "CRF": {
+        "accepted_prefixes": [
+            "isInsideParentheses",
+            "isStopword",
+            "TopPre",
+            "TopSuf",
+            "dep="
+        ],
+        "selection_dev_f1": 69.3,
+        "final_devel_f1": 69.3,
+        "final_test_f1": 67.7,
+        "model_path": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/models/best_model.CRF",
+        "devel_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_CRF_devel.out",
+        "devel_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_CRF_devel.stats",
+        "test_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_CRF_test.out",
+        "test_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_CRF_test.stats"
+    },
+    "MEM": {
+        "accepted_prefixes": [
+            "hasDot",
+            "prev_bigram_is_",
+            "formlowerPrev"
+        ],
+        "selection_dev_f1": 66.8,
+        "final_devel_f1": 66.8,
+        "final_test_f1": 67.3,
+        "model_path": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/models/best_model.MEM",
+        "devel_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_MEM_devel.out",
+        "devel_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_MEM_devel.stats",
+        "test_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_MEM_test.out",
+        "test_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_MEM_test.stats"
+    },
+    "SVM": {
+        "accepted_prefixes": [
+            "inNounChunk",
+            "lemsuf"
+        ],
+        "selection_dev_f1": 67.3,
+        "final_devel_f1": 67.3,
+        "final_test_f1": 67.3,
+        "model_path": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/models/best_model.SVM",
+        "devel_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SVM_devel.out",
+        "devel_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SVM_devel.stats",
+        "test_output": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SVM_test.out",
+        "test_stats": "/home/natalia/Escritorio/MAI/AHLT/labAHLT--1-/code/1.1.NERC-ML/results/best_SVM_test.stats"
+    }
+}

@@ -1,0 +1,2823 @@
+DDI-MedLine.d48.s0|0-20|Clostridium difficile|drug_n
+DDI-MedLine.d48.s0|110-116|Toxin A|drug_n
+DDI-MedLine.d48.s1|0-20|Clostridium difficile|drug_n
+DDI-MedLine.d48.s2|0-6|toxin A|drug_n
+DDI-MedLine.d48.s3|0-20|Diethyl pyrocarbonate|drug_n
+DDI-MedLine.d48.s3|94-100|Toxin A|drug_n
+DDI-MedLine.d48.s4|0-6|toxin A|drug_n
+DDI-MedLine.d48.s5|13-19|toxin A|drug_n
+DDI-MedLine.d48.s5|128-132|toxin|drug_n
+DDI-MedLine.d48.s6|15-35|diethyl pyrocarbonate|drug
+DDI-MedLine.d48.s7|54-60|Toxin A|drug_n
+DDI-MedLine.d48.s8|0-6|Toxin A|drug_n
+DDI-MedLine.d48.s8|93-99|Toxin A|drug_n
+DDI-MedLine.d48.s9|54-58|toxin|drug_n
+DDI-MedLine.d48.s10|0-6|Toxin A|drug_n
+DDI-MedLine.d48.s10|105-111|Toxin A|drug_n
+DDI-MedLine.d48.s11|0-6|Toxin A|drug_n
+DDI-MedLine.d48.s11|31-37|Toxin A|drug_n
+DDI-MedLine.d48.s11|159-165|Toxin A|drug_n
+DDI-MedLine.d62.s1|0-3|METH|drug
+DDI-MedLine.d62.s2|108-111|IEGs|drug_n
+DDI-MedLine.d62.s3|0-3|METH|drug
+DDI-MedLine.d62.s4|0-3|METH|drug
+DDI-MedLine.d62.s4|188-196|SCH-23390|drug
+DDI-MedLine.d62.s4|233-241|clozapine|drug
+DDI-MedLine.d62.s5|0-3|METH|drug
+DDI-MedLine.d62.s6|27-28|D1|drug
+DDI-MedLine.d62.s6|183-186|METH|drug
+DDI-MedLine.d106.s0|0-7|warfarin|drug
+DDI-MedLine.d106.s0|32-40|sedatives|drug
+DDI-MedLine.d106.s1|0-12|Phenobarbital|drug
+DDI-MedLine.d106.s1|42-26||drug
+DDI-MedLine.d106.s1|56-40||drug
+DDI-MedLine.d106.s1|77-57||drug
+DDI-MedLine.d106.s2|0-7|warfarin|drug
+DDI-MedLine.d106.s3|0-10|Prothrombin|drug
+DDI-MedLine.d106.s4|0-12|Anticoagulant|group
+DDI-MedLine.d106.s4|67-79|phenobarbital|drug
+DDI-MedLine.d106.s5|0-14|chloral hydrate|drug
+DDI-MedLine.d106.s5|128-31||drug
+DDI-MedLine.d106.s5|148-129||drug
+DDI-MedLine.d106.s6|0-11|Barbiturates|group
+DDI-MedLine.d106.s6|92-105|coumarin drugs|group
+DDI-MedLine.d106.s7|22-44|drugs from these groups|group
+DDI-MedLine.d106.s8|0-14|Chloral hydrate|drug
+DDI-MedLine.d106.s8|98-117|anticoagulant agents|group
+DDI-MedLine.d106.s9|0-14|Chloral hydrate|drug
+DDI-MedLine.d106.s9|143-163|anticoagulant therapy|group
+DDI-MedLine.d59.s0|0-8|Carbachol|drug
+DDI-MedLine.d59.s0|87-95|carbachol|drug
+DDI-MedLine.d59.s1|86-92|[(14)C]|drug
+DDI-MedLine.d59.s2|31-39|carbachol|drug
+DDI-MedLine.d59.s3|38-46|carbachol|drug
+DDI-MedLine.d59.s4|0-13|Cytochalasin D|drug_n
+DDI-MedLine.d59.s4|88-96|carbachol|drug
+DDI-MedLine.d59.s4|121-124|cAMP|drug
+DDI-MedLine.d59.s4|169-172|cAMP|drug
+DDI-MedLine.d59.s5|0-13|Cytochalasin D|drug_n
+DDI-MedLine.d59.s5|29-37|carbachol|drug
+DDI-MedLine.d59.s6|29-42|cytochalasin D|drug
+DDI-MedLine.d59.s7|42-47|Ca(2+)|drug
+DDI-MedLine.d59.s7|127-130|cAMP|drug
+DDI-MedLine.d59.s7|201-206|Ca(2+)|drug
+DDI-MedLine.d58.s0|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s1|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s2|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s3|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s3|119-128|nimodipine|drug
+DDI-MedLine.d58.s3|140-159|omega-conotoxin GVIA|drug
+DDI-MedLine.d58.s3|174-191|omega-agatoxin IVA|drug
+DDI-MedLine.d58.s4|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s5|25-36|microgram/ml|drug_n
+DDI-MedLine.d58.s6|0-9|Nimodipine|drug
+DDI-MedLine.d58.s7|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s7|213-222|nimodipine|drug_n
+DDI-MedLine.d58.s8|0-11|ginsenosides|drug_n
+DDI-MedLine.d58.s8|93-62||drug_n
+DDI-MedLine.d58.s8|193-199|ginseng|drug
+DDI-MedLine.d47.s0|0-9|buforin II|drug
+DDI-MedLine.d47.s0|43-23||drug
+DDI-MedLine.d47.s0|68-40||drug
+DDI-MedLine.d47.s0|109-64||drug
+DDI-MedLine.d47.s0|126-107||drug
+DDI-MedLine.d47.s0|146-167|Cryptosporidium parvum|drug_n
+DDI-MedLine.d47.s1|0-9|buforin II|drug_n
+DDI-MedLine.d47.s1|41-52|azithromycin|drug
+DDI-MedLine.d47.s2|0-9|Buforin II|drug
+DDI-MedLine.d47.s2|120-125|microM|drug_n
+DDI-MedLine.d47.s3|0-11|azithromycin|drug
+DDI-MedLine.d47.s4|0-9|Buforin II|drug
+DDI-MedLine.d47.s4|146-157|azithromycin|drug
+DDI-MedLine.d65.s0|0-16|Drug interactions|drug
+DDI-MedLine.d65.s1|0-37|Interactions between theraputic agents|group
+DDI-MedLine.d65.s3|94-105|interactions|drug
+DDI-MedLine.d65.s4|0-9|Guidelines|drug
+DDI-MedLine.d65.s4|162-168|pateint|drug
+DDI-MedLine.d65.s5|127-131|drugs|group
+DDI-MedLine.d74.s0|13-20|arginine|drug
+DDI-MedLine.d74.s1|33-48|Chinese hamsters|drug
+DDI-MedLine.d74.s2|0-11|theophylline|drug
+DDI-MedLine.d74.s2|30-41|theophylline|drug_n
+DDI-MedLine.d74.s3|0-11|Theophylline|drug
+DDI-MedLine.d74.s4|0-6|Glucose|drug
+DDI-MedLine.d74.s4|38-49|theophylline|drug
+DDI-MedLine.d74.s5|0-7|Arginine|drug
+DDI-MedLine.d74.s5|41-52|theophylline|drug
+DDI-MedLine.d74.s6|0-7|Arginine|drug
+DDI-MedLine.d74.s7|0-9|Pancreatic|drug_n
+DDI-MedLine.d74.s8|12-19|arginine|drug
+DDI-MedLine.d74.s9|125-132|arginine|drug
+DDI-MedLine.d74.s10|71-77|glucose|drug_n
+DDI-MedLine.d74.s11|112-123|theophylline|drug
+DDI-MedLine.d44.s0|0-9|Etofibrate|drug
+DDI-MedLine.d44.s1|0-40|Slow chylomicron intravascular catabolism|group
+DDI-MedLine.d44.s1|109-113|drugs|group
+DDI-MedLine.d44.s2|0-9|Etofibrate|drug
+DDI-MedLine.d44.s2|380-389|Etofibrate|drug
+DDI-MedLine.d44.s3|60-66|periods|drug_n
+DDI-MedLine.d44.s4|85-106|14C-cholesteryl oleate|drug_n
+DDI-MedLine.d44.s5|0-9|etofibrate|drug
+DDI-MedLine.d44.s6|0-9|Etofibrate|drug
+DDI-MedLine.d44.s7|0-9|etofibrate|drug
+DDI-MedLine.d44.s7|108-21||drug
+DDI-MedLine.d44.s7|130-104||drug
+DDI-MedLine.d44.s8|0-9|Etofibrate|drug
+DDI-MedLine.d44.s8|42-51|etofibrate|drug
+DDI-MedLine.d44.s8|138-141|drug|drug
+DDI-MedLine.d125.s0|0-6|gliftor|drug
+DDI-MedLine.d125.s0|50-74|(-)-erythro-fluorocitrate|drug_n
+DDI-MedLine.d125.s1|0-18|1,3-difluoroacetone|drug
+DDI-MedLine.d125.s1|81-87|Gliftor|brand
+DDI-MedLine.d125.s2|102-120|1,3-difluoroacetone|drug
+DDI-MedLine.d125.s3|18-36|1,3-difluoroacetone|drug
+DDI-MedLine.d125.s3|183-190|fluoride|drug
+DDI-MedLine.d125.s4|19-37|1,3-difluoroacetone|drug_n
+DDI-MedLine.d125.s4|201-223|1,3-difluoro-2-propanol|drug_n
+DDI-MedLine.d125.s5|0-22|1,3-difluoro-2-propanol|drug
+DDI-MedLine.d125.s5|187-45||drug
+DDI-MedLine.d125.s6|0-15|4-methylpyrazole|drug_n
+DDI-MedLine.d125.s6|83-105|1,3-difluoro-2-propanol|drug_n
+DDI-MedLine.d125.s6|138-162|(-)-erythro-fluorocitrate|drug_n
+DDI-MedLine.d125.s6|233-267|1,3-difluoro-2-propanol-intoxicated|drug_n
+DDI-MedLine.d125.s7|0-15|4-methylpyrazole|drug
+DDI-MedLine.d125.s7|147-148|-(|drug
+DDI-MedLine.d125.s8|0-15|4-methylpyrazole|drug_n
+DDI-MedLine.d125.s8|109-131|1,3-difluoro-2-propanol|drug
+DDI-MedLine.d125.s8|233-255|1,3-difluoro-2-propanol|drug
+DDI-MedLine.d86.s0|0-8|diltiazem|drug
+DDI-MedLine.d86.s0|95-22||drug
+DDI-MedLine.d86.s0|109-90||drug
+DDI-MedLine.d86.s1|0-8|sirolimus|drug
+DDI-MedLine.d86.s1|73-78|CYP3A4|drug
+DDI-MedLine.d86.s1|113-121|diltiazem|drug
+DDI-MedLine.d86.s2|0-40|Several clinically important interactions|group
+DDI-MedLine.d86.s2|100-104|drugs|group
+DDI-MedLine.d86.s3|0-8|sirolimus|drug
+DDI-MedLine.d86.s3|49-53|drugs|drug_n
+DDI-MedLine.d86.s5|0-8|sirolimus|drug
+DDI-MedLine.d86.s5|187-195|diltiazem|drug
+DDI-MedLine.d86.s5|257-265|sirolimus|drug
+DDI-MedLine.d86.s6|0-8|sirolimus|drug
+DDI-MedLine.d86.s6|108-116|sirolimus|drug
+DDI-MedLine.d86.s6|133-141|diltiazem|drug
+DDI-MedLine.d86.s7|0-8|diltiazem|drug
+DDI-MedLine.d86.s7|48-28||drug
+DDI-MedLine.d86.s7|155-52||drug
+DDI-MedLine.d86.s7|166-150||drug
+DDI-MedLine.d86.s7|190-170||drug
+DDI-MedLine.d86.s7|250-194||drug
+DDI-MedLine.d86.s7|299-245||drug
+DDI-MedLine.d86.s8|0-8|diltiazem|drug
+DDI-MedLine.d86.s8|43-51|sirolimus|drug
+DDI-MedLine.d86.s8|120-128|sirolimus|drug
+DDI-MedLine.d86.s9|0-8|sirolimus|drug
+DDI-MedLine.d86.s9|110-22||drug
+DDI-MedLine.d86.s9|120-105||drug
+DDI-MedLine.d86.s9|155-115||drug
+DDI-MedLine.d1.s0|1-9|Treatment|drug
+DDI-MedLine.d1.s1|26-55|erection-supporting medication|drug
+DDI-MedLine.d1.s1|163-192|erection-supporting medication|drug
+DDI-MedLine.d1.s2|164-175|paperhanging|drug_n
+DDI-MedLine.d1.s3|111-117|persons|drug_n
+DDI-MedLine.d1.s4|0-9|sildenafil|drug
+DDI-MedLine.d1.s4|97-106|sildenafil|drug
+DDI-MedLine.d1.s5|0-9|Sildenafil|drug
+DDI-MedLine.d1.s5|60-67|nitrates|drug
+DDI-MedLine.d1.s5|105-112|nitrates|drug
+DDI-MedLine.d1.s6|54-61|blockers|brand
+DDI-MedLine.d1.s7|0-27|Symptomatic (pharmaceutical)|group
+DDI-MedLine.d1.s9|0-16|erection disorder|drug
+DDI-MedLine.d1.s9|112-128|erection disorder|drug_n
+DDI-MedLine.d132.s0|0-46|Non-nucleoside reverse transcriptase inhibitors|group
+DDI-MedLine.d132.s1|27-72|non-nucleoside reverse transcriptase inhibitor|group
+DDI-MedLine.d132.s1|147-164|protease inhibitor|group
+DDI-MedLine.d132.s2|0-19|NNRTI-based regimens|group
+DDI-MedLine.d132.s2|54-61|PI-based|group
+DDI-MedLine.d132.s3|73-87|approved agents|drug
+DDI-MedLine.d132.s4|0-8|efavirenz|drug
+DDI-MedLine.d132.s4|174-23||drug
+DDI-MedLine.d132.s4|222-168||drug
+DDI-MedLine.d132.s5|0-9|Nevirapine|drug
+DDI-MedLine.d132.s5|37-46|nelfinavir|drug
+DDI-MedLine.d132.s6|0-9|nevirapine|drug
+DDI-MedLine.d132.s6|128-25||drug
+DDI-MedLine.d132.s6|142-124||drug
+DDI-MedLine.d132.s7|99-115|PI-based regimens|group
+DDI-MedLine.d132.s8|0-8|efavirenz|drug
+DDI-MedLine.d132.s8|15-23|indinavir|drug
+DDI-MedLine.d132.s9|0-4|NNRTI|drug
+DDI-MedLine.d132.s9|128-132|NNRTI|group
+DDI-MedLine.d132.s10|0-8|Efavirenz|drug
+DDI-MedLine.d132.s10|44-53|nelfinavir|drug
+DDI-MedLine.d132.s11|0-5|NNRTIs|group
+DDI-MedLine.d132.s11|107-117|drug events|drug
+DDI-MedLine.d132.s12|0-41|The majority of adverse events with NNRTIs|group
+DDI-MedLine.d23.s0|0-7|Ketamine|drug
+DDI-MedLine.d23.s1|0-7|ketamine|drug
+DDI-MedLine.d23.s1|41-53|pentobarbital|drug
+DDI-MedLine.d23.s1|70-76|ouabain|drug
+DDI-MedLine.d23.s1|163-169|ouabain|drug
+DDI-MedLine.d23.s1|177-184|ketamine|drug
+DDI-MedLine.d23.s1|226-238|pentobarbital|drug
+DDI-MedLine.d23.s2|0-6|ouabain|drug
+DDI-MedLine.d23.s2|76-82|Innovar|brand
+DDI-MedLine.d23.s2|141-147|fentayl|drug
+DDI-MedLine.d138.s0|0-0|n|drug
+DDI-MedLine.d138.s0|22-41|antidiuretic hormone|group
+DDI-MedLine.d138.s1|170-173|rats|drug_n
+DDI-MedLine.d138.s2|44-51|oxytocin|drug
+DDI-MedLine.d138.s2|73-83|vasopressin|drug
+DDI-MedLine.d138.s3|68-75|hormones|drug_n
+DDI-MedLine.d29.s0|0-9|Probenecid|drug
+DDI-MedLine.d29.s0|69-79|cloxacillin|drug
+DDI-MedLine.d29.s2|1-10|probenecid|drug
+DDI-MedLine.d29.s2|111-120|probenecid|drug
+DDI-MedLine.d29.s3|0-9|Probenecid|drug
+DDI-MedLine.d29.s3|54-64|cloxacillin|drug
+DDI-MedLine.d29.s3|103-113|cloxacillin|drug
+DDI-MedLine.d29.s3|253-262|probenecid|drug
+DDI-MedLine.d29.s4|0-10|cloxacillin|drug
+DDI-MedLine.d29.s4|29-38|probenecid|drug
+DDI-MedLine.d29.s5|10-16|Gibaldi|drug_n
+DDI-MedLine.d29.s6|0-10|cloxacillin|drug
+DDI-MedLine.d29.s7|134-143|probenecid|drug
+DDI-MedLine.d29.s8|41-50|probenecid|drug
+DDI-MedLine.d29.s8|74-84|cloxacillin|drug
+DDI-MedLine.d118.s0|0-8|Sirolimus|drug
+DDI-MedLine.d118.s1|0-34|Current immunosuppressive therapies|group
+DDI-MedLine.d118.s2|0-8|Sirolimus|drug
+DDI-MedLine.d118.s2|37-54|immunosuppressants|group
+DDI-MedLine.d118.s2|148-156|sirolimus|drug
+DDI-MedLine.d118.s2|231-242|cyclosporine|drug
+DDI-MedLine.d118.s3|0-8|sirolimus|drug
+DDI-MedLine.d118.s3|31-42|cyclosporine|drug
+DDI-MedLine.d118.s3|165-56||drug
+DDI-MedLine.d118.s3|181-163||drug
+DDI-MedLine.d118.s3|231-177||drug
+DDI-MedLine.d185.s0|0-11|ketoconazole|drug
+DDI-MedLine.d185.s0|72-83|panobinostat|drug
+DDI-MedLine.d185.s1|0-11|Panobinostat|drug
+DDI-MedLine.d185.s1|38-43|CYP3A4|group
+DDI-MedLine.d185.s2|0-11|Ketoconazole|drug
+DDI-MedLine.d185.s2|23-37|CYP3A inhibitor|group
+DDI-MedLine.d185.s2|92-103|panobinostat|drug
+DDI-MedLine.d185.s3|0-11|panobinostat|drug
+DDI-MedLine.d185.s4|0-11|ketoconazole|drug
+DDI-MedLine.d185.s5|0-11|panobinostat|drug
+DDI-MedLine.d185.s5|43-54|ketoconazole|drug
+DDI-MedLine.d185.s6|0-11|Panobinostat|drug
+DDI-MedLine.d185.s7|0-11|Ketoconazole|drug
+DDI-MedLine.d185.s7|33-44|ketoconazole|drug
+DDI-MedLine.d185.s7|106-117|panobinostat|drug
+DDI-MedLine.d185.s8|25-25|T|drug
+DDI-MedLine.d185.s9|0-11|panobinostat|drug
+DDI-MedLine.d185.s9|48-59|panobinostat|drug
+DDI-MedLine.d185.s9|104-109|CYP3A5|drug_n
+DDI-MedLine.d185.s9|120-125|CYP3A5|drug_n
+DDI-MedLine.d185.s10|62-68|related|drug_n
+DDI-MedLine.d185.s12|0-11|panobinostat|drug
+DDI-MedLine.d185.s12|18-33|CYP3A inhibitors|group
+DDI-MedLine.d185.s12|75-86|panobinostat|drug
+DDI-MedLine.d185.s13|0-11|panobinostat|drug
+DDI-MedLine.d185.s13|118-129|panobinostat|drug
+DDI-MedLine.d185.s13|190-201|panobinostat|drug
+DDI-MedLine.d180.s0|31-33|Nep|drug
+DDI-MedLine.d180.s1|0-18|3-Deazaneplanocin A|drug_n
+DDI-MedLine.d180.s1|28-33|AdoHcy|drug
+DDI-MedLine.d180.s2|0-1|it|drug
+DDI-MedLine.d180.s3|0-2|RNA|drug_n
+DDI-MedLine.d180.s3|24-28|DZNep|drug
+DDI-MedLine.d180.s4|0-4|ALOX5|drug_n
+DDI-MedLine.d180.s6|0-4|ALOX5|drug_n
+DDI-MedLine.d180.s6|87-91|DZNep|drug
+DDI-MedLine.d180.s7|0-4|ALOX5|drug_n
+DDI-MedLine.d180.s7|48-50|Nep|drug
+DDI-MedLine.d180.s8|32-36|ALOX5|drug_n
+DDI-MedLine.d180.s9|57-61|ALOX5|drug_n
+DDI-MedLine.d180.s10|0-4|Bcl-2|drug
+DDI-MedLine.d180.s10|28-32|DZNep|drug
+DDI-MedLine.d180.s10|62-83|Bcl-2 family inhibitor|drug_n
+DDI-MedLine.d180.s10|144-44||drug
+DDI-MedLine.d180.s11|0-4|DZNep|drug_n
+DDI-MedLine.d180.s11|64-65|MM|drug_n
+DDI-MedLine.d180.s11|79-80|MM|drug_n
+DDI-MedLine.d180.s12|0-4|DZNep|drug_n
+DDI-MedLine.d180.s12|93-99|ABT-737|drug_n
+DDI-MedLine.d180.s13|0-4|DZNep|drug
+DDI-MedLine.d181.s0|0-12|Levothyroxine|drug
+DDI-MedLine.d181.s1|0-6|Infacol|brand
+DDI-MedLine.d181.s2|0-9|Simeticone|drug
+DDI-MedLine.d181.s3|0-9|simeticone|drug
+DDI-MedLine.d181.s4|85-97|levothyroxine|drug
+DDI-MedLine.d181.s4|155-91||drug
+DDI-MedLine.d181.s5|17-29|levothyroxine|drug
+DDI-MedLine.d181.s6|42-48|Infacol|drug
+DDI-MedLine.d181.s6|78-90|levothyroxine|drug
+DDI-MedLine.d181.s8|0-8|thyroxine|drug
+DDI-MedLine.d181.s8|74-23||drug
+DDI-MedLine.d181.s9|141-148|sequelae|drug_n
+DDI-MedLine.d169.s0|0-6|Calcium|drug
+DDI-MedLine.d169.s1|0-6|Calcium|drug
+DDI-MedLine.d169.s1|83-89|nonheme|group
+DDI-MedLine.d169.s2|197-215|single-meal studies|drug_n
+DDI-MedLine.d169.s3|0-6|calcium|drug
+DDI-MedLine.d169.s3|60-66|calcium|drug
+DDI-MedLine.d169.s4|0-3|Iron|drug_n
+DDI-MedLine.d169.s4|98-101|iron|drug_n
+DDI-MedLine.d169.s4|128-146|radioactive tracers|drug_n
+DDI-MedLine.d169.s5|0-6|Calcium|drug
+DDI-MedLine.d169.s5|77-91|ferrous sulfate|drug
+DDI-MedLine.d169.s6|0-6|calcium|drug_n
+DDI-MedLine.d169.s6|91-94|CRBC|drug
+DDI-MedLine.d169.s7|0-6|Calcium|drug
+DDI-MedLine.d169.s7|28-43|calcium chloride|drug
+DDI-MedLine.d169.s7|64-71|minerals|group
+DDI-MedLine.d169.s8|0-1|Ca|drug_n
+DDI-MedLine.d169.s9|0-1|Ca|drug_n
+DDI-MedLine.d169.s9|58-61|heme|drug_n
+DDI-MedLine.d169.s10|53-59|calcium|drug
+DDI-MedLine.d169.s11|115-121|calcium|drug
+DDI-MedLine.d179.s0|0-8|Sunitinib|drug
+DDI-MedLine.d179.s1|0-8|sunitinib|drug
+DDI-MedLine.d179.s2|0-8|sunitinib|drug
+DDI-MedLine.d179.s2|65-73|sunitinib|drug
+DDI-MedLine.d179.s3|0-15|NSCLC cell lines|group
+DDI-MedLine.d179.s3|59-40||drug
+DDI-MedLine.d179.s3|97-59||drug
+DDI-MedLine.d179.s3|110-92||drug
+DDI-MedLine.d179.s5|0-8|Sunitinib|drug
+DDI-MedLine.d179.s5|118-126|docetaxel|drug
+DDI-MedLine.d179.s6|0-8|sunitinib|drug
+DDI-MedLine.d179.s6|75-22||drug
+DDI-MedLine.d179.s6|89-70||drug
+DDI-MedLine.d179.s7|0-8|docetaxel|drug
+DDI-MedLine.d179.s7|22-30|sunitinib|drug
+DDI-MedLine.d179.s8|0-8|docetaxel|drug
+DDI-MedLine.d179.s8|140-22||drug
+DDI-MedLine.d179.s8|217-135||drug
+DDI-MedLine.d179.s10|0-8|Sunitinib|drug
+DDI-MedLine.d179.s10|166-174|docetaxel|drug
+DDI-MedLine.d179.s10|188-196|sunitinib|drug
+DDI-MedLine.d179.s10|213-221|sunitinib|drug
+DDI-MedLine.d179.s10|235-243|docetaxel|drug
+DDI-MedLine.d159.s0|0-17|Acetyl-l-carnitine|drug
+DDI-MedLine.d159.s1|61-81|1,2:3,4-diepoxybutane|drug
+DDI-MedLine.d159.s2|142-144|DEB|drug_n
+DDI-MedLine.d159.s3|0-2|DEB|drug
+DDI-MedLine.d159.s3|209-209|N|drug
+DDI-MedLine.d159.s4|58-69|antioxidants|drug
+DDI-MedLine.d159.s5|161-163|DEB|drug
+DDI-MedLine.d159.s6|0-12|(alpha-lipoic|drug
+DDI-MedLine.d159.s6|111-128|acetyl-l-carnitine|drug
+DDI-MedLine.d159.s7|0-11|Collectively|group
+DDI-MedLine.d159.s7|69-71|DEB|drug
+DDI-MedLine.d159.s7|236-238|DEB|drug
+DDI-MedLine.d164.s0|0-8|Lapatinib|drug
+DDI-MedLine.d164.s0|112-115|HER2|drug
+DDI-MedLine.d164.s1|0-8|lapatinib|drug
+DDI-MedLine.d164.s1|24-32|Herceptin|brand
+DDI-MedLine.d164.s1|92-100|lapatinib|drug
+DDI-MedLine.d164.s1|126-134|Herceptin|brand
+DDI-MedLine.d164.s2|0-8|Lapatinib|drug
+DDI-MedLine.d164.s2|25-33|Herceptin|brand
+DDI-MedLine.d164.s2|94-102|Herceptin|brand
+DDI-MedLine.d164.s3|0-8|lapatinib|drug
+DDI-MedLine.d164.s3|127-135|Herceptin|drug
+DDI-MedLine.d164.s4|0-8|Herceptin|drug
+DDI-MedLine.d164.s4|39-19||drug
+DDI-MedLine.d164.s4|106-34||drug
+DDI-MedLine.d164.s4|136-101||drug
+DDI-MedLine.d164.s4|212-131||drug
+DDI-MedLine.d164.s5|0-8|Lapatinib|drug
+DDI-MedLine.d164.s5|44-52|Herceptin|drug
+DDI-MedLine.d164.s5|68-76|Herceptin|drug
+DDI-MedLine.d193.s0|0-9|Ticagrelor|drug
+DDI-MedLine.d193.s0|50-60|clopidogrel|drug
+DDI-MedLine.d193.s1|0-9|ticagrelor|drug
+DDI-MedLine.d193.s1|21-31|AstraZeneca|brand
+DDI-MedLine.d193.s1|43-59|antiplatelet drug|drug
+DDI-MedLine.d193.s2|0-10|clopidogrel|drug
+DDI-MedLine.d193.s2|25-33|prasugrel|drug
+DDI-MedLine.d193.s3|0-10|Clopidogrel|drug
+DDI-MedLine.d43.s1|105-119|chemical agents|group
+DDI-MedLine.d43.s3|98-101|cell|drug_n
+DDI-MedLine.d43.s6|0-17|diethylnitrosamine|drug
+DDI-MedLine.d43.s7|189-201|phenobarbital|drug
+DDI-MedLine.d43.s8|91-98|C57BL/6N|group
+DDI-MedLine.d43.s8|155-164|carcinogen|drug
+DDI-MedLine.d43.s9|84-102|chemical carcinogen|drug
+DDI-MedLine.d43.s11|118-127|tumor type|drug_n
+DDI-MedLine.d100.s0|0-36|Influence of calcium-channel blockers|group
+DDI-MedLine.d100.s3|168-179|calcium ions|drug_n
+DDI-MedLine.d100.s4|0-31|Adenosine 3':5'-cyclic phosphate|drug_n
+DDI-MedLine.d100.s5|0-28|Slow-channel calcium blockers|group
+DDI-MedLine.d100.s5|39-47|verapamil|drug
+DDI-MedLine.d100.s5|78-58||drug
+DDI-MedLine.d100.s7|0-15|Calcium blockers|group
+DDI-MedLine.d100.s8|0-12|These effects|group
+DDI-MedLine.d100.s8|25-32|blockers|group
+DDI-MedLine.d73.s0|0-3|MPTP|drug_n
+DDI-MedLine.d73.s1|56-59|MPTP|drug
+DDI-MedLine.d73.s1|144-158|methamphetamine|drug
+DDI-MedLine.d73.s2|0-3|MPTP|drug
+DDI-MedLine.d73.s2|122-130|parpyline|drug
+DDI-MedLine.d73.s3|83-93|amphetamine|drug
+DDI-MedLine.d73.s3|147-157|apomorphine|drug
+DDI-MedLine.d73.s4|0-14|Methamphetamine|drug
+DDI-MedLine.d73.s4|22-25|MPTP|drug
+DDI-MedLine.d73.s4|107-115|pargyline|drug
+DDI-MedLine.d73.s5|110-118|pargyline|drug
+DDI-MedLine.d31.s4|80-84|aging|drug_n
+DDI-MedLine.d31.s5|84-87|drug|drug
+DDI-DrugBank.d449.s0|0-39|Co-administration with antifungal agents|group
+DDI-DrugBank.d449.s0|49-60|ketoconazole|drug
+DDI-DrugBank.d449.s1|0-9|Nafazodone|drug
+DDI-DrugBank.d449.s1|38-22||drug
+DDI-DrugBank.d449.s1|59-63|Xanax|brand
+DDI-DrugBank.d449.s2|0-9|Fluoxetine|drug
+DDI-DrugBank.d449.s2|32-41|sertraline|drug
+DDI-DrugBank.d449.s2|91-52||drug
+DDI-DrugBank.d8.s0|0-6|ALFENTA|drug
+DDI-DrugBank.d8.s0|114-120|ALFENTA|drug
+DDI-DrugBank.d8.s0|164-178|CNS depressants|group
+DDI-DrugBank.d8.s1|0-35|Postoperative respiratory depression|group
+DDI-DrugBank.d8.s1|75-80|agents|group
+DDI-DrugBank.d8.s2|61-66|agents|drug_n
+DDI-DrugBank.d8.s3|0-6|ALFENTA|drug
+DDI-DrugBank.d8.s3|157-158|60|drug
+DDI-DrugBank.d8.s3|179-185|ALFENTA|drug
+DDI-DrugBank.d8.s3|238-244|ALFENTA|drug
+DDI-DrugBank.d8.s3|272-278|ALFENTA|drug
+DDI-DrugBank.d8.s4|0-9|Cimetidine|drug
+DDI-DrugBank.d8.s4|36-42|ALFENTA|drug
+DDI-DrugBank.d8.s5|18-24|ALFENTA|drug
+DDI-DrugBank.d8.s5|109-115|ALFENTA|drug
+DDI-DrugBank.d8.s6|0-36|Perioperative administration of drugs|group
+DDI-DrugBank.d416.s0|0-11|Sulfonamides|drug
+DDI-DrugBank.d416.s0|27-41|thiazolesulfone|drug
+DDI-DrugBank.d416.s0|147-158|Sulfonamides|drug
+DDI-DrugBank.d416.s0|174-188|thiazolesulfone|drug
+DDI-DrugBank.d416.s2|0-9|Probenecid|drug
+DDI-DrugBank.d416.s2|69-71|PAH|drug_n
+DDI-DrugBank.d416.s3|0-9|probenecid|drug
+DDI-DrugBank.d416.s3|31-40|probenecid|drug
+DDI-DrugBank.d22.s0|0-18|Aminosalicylic acid|drug
+DDI-DrugBank.d22.s0|47-53|digoxin|brand
+DDI-DrugBank.d22.s1|0-6|digoxin|drug
+DDI-DrugBank.d22.s1|41-59|aminosalicylic acid|drug
+DDI-DrugBank.d22.s1|78-84|digoxin|drug
+DDI-DrugBank.d22.s2|0-18|Aminosalicylic acid|drug
+DDI-DrugBank.d22.s2|56-58|B12|drug
+DDI-DrugBank.d22.s3|33-35|B12|drug
+DDI-DrugBank.d22.s3|61-79|aminosalicylic acid|drug
+DDI-DrugBank.d318.s0|0-84|When administered concurrently, the following drugs may interact with amphotericin B:|group
+DDI-DrugBank.d318.s1|0-20|Antineoplastic agents|group
+DDI-DrugBank.d318.s1|30-45|nitrogen mustard|drug
+DDI-DrugBank.d318.s2|0-14|Corticosteroids|group
+DDI-DrugBank.d318.s3|66-79|amphotericin B|drug
+DDI-DrugBank.d318.s5|0-19|Digitalis glycosides|group
+DDI-DrugBank.d318.s5|85-12||group
+DDI-DrugBank.d318.s6|0-8|potassium|drug
+DDI-DrugBank.d318.s7|0-10|Flucytosine|drug
+DDI-DrugBank.d318.s7|130-140|flucytosine|drug
+DDI-DrugBank.d318.s8|0-9|Imidazoles|group
+DDI-DrugBank.d318.s8|19-30|ketoconazole|drug
+DDI-DrugBank.d318.s8|58-42||drug
+DDI-DrugBank.d318.s8|72-56||drug
+DDI-DrugBank.d318.s8|163-172|imidazoles|group
+DDI-DrugBank.d318.s8|187-196|imidazoles|group
+DDI-DrugBank.d318.s9|89-96|patients|drug_n
+DDI-DrugBank.d318.s10|0-28|Other nephrotoxic medications|group
+DDI-DrugBank.d318.s10|46-60|aminoglycosides|drug
+DDI-DrugBank.d318.s10|94-74||drug
+DDI-DrugBank.d318.s11|109-119|medications|group
+DDI-DrugBank.d318.s12|0-24|Skeletal muscle relaxants|group
+DDI-DrugBank.d318.s12|99-123|skeletal muscle relaxants|group
+DDI-DrugBank.d318.s12|132-143|tubocurarine|drug
+DDI-DrugBank.d318.s13|0-8|potassium|drug
+DDI-DrugBank.d318.s14|0-21|Leukocyte transfusions|drug
+DDI-DrugBank.d318.s14|101-114|amphotericin B|drug
+DDI-DrugBank.d357.s0|0-15|5HT3 Antagonists|group
+DDI-DrugBank.d357.s0|90-100|apomorphine|drug
+DDI-DrugBank.d357.s0|124-134|ondansetron|drug
+DDI-DrugBank.d357.s0|160-170|apomorphine|drug
+DDI-DrugBank.d357.s0|190-210|5HT3 antagonist class|group
+DDI-DrugBank.d357.s0|237-247|ondansetron|drug
+DDI-DrugBank.d357.s0|276-260||drug
+DDI-DrugBank.d357.s0|288-272||drug
+DDI-DrugBank.d357.s0|306-286||drug
+DDI-DrugBank.d357.s1|0-27|Antihypertensive Medications|group
+DDI-DrugBank.d357.s1|156-44||group
+DDI-DrugBank.d357.s1|188-168||group
+DDI-DrugBank.d357.s3|0-19|Dopamine Antagonists|group
+DDI-DrugBank.d357.s3|28-38|apomorphine|drug
+DDI-DrugBank.d357.s3|83-102|dopamine antagonists|group
+DDI-DrugBank.d357.s3|181-194|metoclopramide|drug
+DDI-DrugBank.d357.s3|231-236|APOKYN|brand
+DDI-DrugBank.d357.s4|54-65|neuroleptics|group
+DDI-DrugBank.d357.s5|0-9|Prolonging|drug
+DDI-DrugBank.d357.s5|32-42|Apomorphine|drug
+DDI-DrugBank.d357.s5|121-158|drugs that prolong the QT/QTc interval|group
+DDI-DrugBank.d357.s6|0-2|N/A|drug
+DDI-DrugBank.d357.s6|44-49|APOKYN|brand
+DDI-DrugBank.d253.s0|0-30|Beta-adrenergic blocking agents|group
+DDI-DrugBank.d253.s1|0-30|Beta-adrenergic blocking agents|group
+DDI-DrugBank.d253.s1|91-100|arbutamine|drug
+DDI-DrugBank.d253.s2|0-20|Antiarrhythmic agents|group
+DDI-DrugBank.d253.s2|55-64|flecainide|drug
+DDI-DrugBank.d253.s2|94-75||drug
+DDI-DrugBank.d253.s3|0-14|Antidepressants|group
+DDI-DrugBank.d253.s3|47-68|anticholinergic agents|group
+DDI-DrugBank.d105.s0|0-13|Anticoagulants|group
+DDI-DrugBank.d105.s0|166-172|aspirin|drug
+DDI-DrugBank.d509.s0|0-6|ABILIFY|drug
+DDI-DrugBank.d509.s0|42-53|aripiprazole|drug
+DDI-DrugBank.d509.s0|85-91|ABILIFY|drug
+DDI-DrugBank.d509.s2|0-1|1-|drug
+DDI-DrugBank.d509.s2|35-46|aripiprazole|drug
+DDI-DrugBank.d509.s2|99-121|antihypertensive agents|group
+DDI-DrugBank.d509.s3|0-6|ABILIFY|drug
+DDI-DrugBank.d509.s4|0-11|Aripiprazole|drug
+DDI-DrugBank.d509.s5|0-11|aripiprazole|drug
+DDI-DrugBank.d509.s5|46-57|aripiprazole|drug
+DDI-DrugBank.d509.s6|0-21|Both CYP3A4 and CYP2D6|group
+DDI-DrugBank.d509.s6|43-54|aripiprazole|drug
+DDI-DrugBank.d509.s7|0-5|Agents|group
+DDI-DrugBank.d509.s7|19-24|CYP3A4|group
+DDI-DrugBank.d509.s7|86-43||drug
+DDI-DrugBank.d509.s8|0-19|Inhibitors of CYP3A4|group
+DDI-DrugBank.d509.s8|56-61|CYP2D6|group
+DDI-DrugBank.d509.s8|92-37||drug
+DDI-DrugBank.d509.s8|107-69||drug
+DDI-DrugBank.d509.s9|0-11|Ketoconazole|drug
+DDI-DrugBank.d509.s9|34-45|ketoconazole|drug
+DDI-DrugBank.d509.s10|0-11|ketoconazole|drug
+DDI-DrugBank.d509.s11|0-11|Ketoconazole|drug
+DDI-DrugBank.d509.s11|79-28||drug
+DDI-DrugBank.d509.s11|97-77||drug
+DDI-DrugBank.d509.s11|118-95||drug
+DDI-DrugBank.d509.s12|0-11|itraconazole|drug
+DDI-DrugBank.d509.s13|0-11|erythromycin|drug
+DDI-DrugBank.d509.s14|0-11|aripiprazole|drug
+DDI-DrugBank.d509.s14|52-67|CYP3A4 inhibitor|drug_n
+DDI-DrugBank.d509.s15|0-8|Quinidine|drug
+DDI-DrugBank.d509.s15|72-80|quinidine|drug
+DDI-DrugBank.d509.s15|130-135|CYP2D6|group
+DDI-DrugBank.d509.s16|0-11|Aripiprazole|drug
+DDI-DrugBank.d509.s16|72-97|concomitant administration|drug
+DDI-DrugBank.d509.s16|130-110||drug
+DDI-DrugBank.d509.s17|0-37|Other significant inhibitors of CYP2D6|group
+DDI-DrugBank.d509.s17|48-57|fluoxetine|drug
+DDI-DrugBank.d509.s18|0-11|aripiprazole|drug
+DDI-DrugBank.d509.s18|52-57|CYP2D6|drug_n
+DDI-DrugBank.d509.s19|0-12|Carbamazepine|drug
+DDI-DrugBank.d509.s19|35-47|carbamazepine|drug
+DDI-DrugBank.d509.s19|72-85|CYP3A4 inducer|group
+DDI-DrugBank.d509.s19|236-247|aripiprazole|drug
+DDI-DrugBank.d509.s20|0-12|Carbamazepine|drug
+DDI-DrugBank.d509.s20|28-39|aripiprazole|drug
+DDI-DrugBank.d509.s20|50-61|aripiprazole|drug
+DDI-DrugBank.d509.s22|0-12|Carbamazepine|drug
+DDI-DrugBank.d509.s22|49-29||drug
+DDI-DrugBank.d509.s23|0-9|famotidine|drug
+DDI-DrugBank.d509.s23|39-20||drug
+DDI-DrugBank.d509.s23|111-32||drug
+DDI-DrugBank.d509.s24|0-11|Aripiprazole|drug
+DDI-DrugBank.d509.s25|0-11|aripiprazole|drug
+DDI-DrugBank.d509.s26|0-11|Aripiprazole|drug
+DDI-DrugBank.d509.s27|0-6|Alcohol|drug
+DDI-DrugBank.d509.s27|53-64|aripiprazole|drug
+DDI-DrugBank.d509.s28|0-6|ABILIFY|drug
+DDI-DrugBank.d509.s28|105-111|ABILIFY|drug
+DDI-DrugBank.d109.s0|0-11|Ketoconazole|drug
+DDI-DrugBank.d109.s0|62-5||drug
+DDI-DrugBank.d73.s0|0-28|Catecholamine-depleting drugs|group
+DDI-DrugBank.d73.s0|103-122|beta-blocking agents|group
+DDI-DrugBank.d73.s1|43-50|TENORMIN|brand
+DDI-DrugBank.d73.s2|0-23|Calcium channel blockers|group
+DDI-DrugBank.d73.s2|74-81|TENORMIN|brand
+DDI-DrugBank.d73.s3|0-12|Beta blockers|group
+DDI-DrugBank.d73.s3|89-97|clonidine|drug
+DDI-DrugBank.d73.s4|41-52|beta blocker|brand
+DDI-DrugBank.d73.s4|120-128|clonidine|drug
+DDI-DrugBank.d73.s5|13-21|clonidine|drug
+DDI-DrugBank.d73.s5|123-131|clonidine|drug
+DDI-DrugBank.d73.s6|0-38|Prostaglandin Synthase Inhibiting Drugs|group
+DDI-DrugBank.d73.s6|112-124|beta blockers|group
+DDI-DrugBank.d73.s7|0-7|Atenolol|drug
+DDI-DrugBank.d73.s7|70-19||drug
+DDI-DrugBank.d73.s7|83-64||drug
+DDI-DrugBank.d73.s8|0-6|Aspirin|drug
+DDI-DrugBank.d73.s8|13-25|beta blockers|group
+DDI-DrugBank.d73.s8|134-140|aspirin|drug
+DDI-DrugBank.d73.s9|13-25|beta blockers|group
+DDI-DrugBank.d73.s10|56-66|epinephrine|drug
+DDI-DrugBank.d489.s0|0-9|cimetidine|drug
+DDI-DrugBank.d489.s0|37-21||drug
+DDI-DrugBank.d489.s0|57-37||drug
+DDI-DrugBank.d489.s1|0-6|Kerlone|drug
+DDI-DrugBank.d489.s1|22-34|anticoagulant|group
+DDI-DrugBank.d489.s1|106-113|warfarin|drug
+DDI-DrugBank.d489.s2|0-28|Catecholamine-depleting drugs|group
+DDI-DrugBank.d489.s2|37-45|reserpine|drug
+DDI-DrugBank.d489.s2|92-111|beta-blocking agents|group
+DDI-DrugBank.d489.s3|24-62|beta-adrenergic receptor blocking agent|group
+DDI-DrugBank.d489.s3|71-92|catecholamine depletor|group
+DDI-DrugBank.d489.s4|0-12|Beta-blockers|group
+DDI-DrugBank.d489.s4|108-120|beta-blockers|group
+DDI-DrugBank.d489.s4|167-178|beta-blocker|group
+DDI-DrugBank.d489.s4|261-26||drug
+DDI-DrugBank.d489.s5|0-23|Oral Calcium Antagonists|group
+DDI-DrugBank.d489.s6|0-10|Hypotension|group
+DDI-DrugBank.d489.s6|116-146|beta-adrenergic blocking agents|group
+DDI-DrugBank.d489.s7|0-18|Calcium antagonists|group
+DDI-DrugBank.d489.s7|27-36|nifedipine|drug
+DDI-DrugBank.d489.s7|63-47||drug
+DDI-DrugBank.d489.s7|306-58||drug
+DDI-DrugBank.d489.s7|319-301||drug
+DDI-DrugBank.d489.s8|0-12|beta-blockers|drug
+DDI-DrugBank.d489.s8|53-65|beta-blockers|drug
+DDI-DrugBank.d489.s8|140-152|beta-blockers|drug
+DDI-DrugBank.d489.s9|0-12|beta-blockers|drug
+DDI-DrugBank.d489.s9|239-251|beta-blockers|drug
+DDI-DrugBank.d489.s10|56-66|epinephrine|drug
+DDI-DrugBank.d497.s0|0-4|AZOPT|brand
+DDI-DrugBank.d497.s0|121-148|carbonic anhydrase inhibitor|drug
+DDI-DrugBank.d497.s1|0-11|brinzolamide|drug
+DDI-DrugBank.d497.s1|97-108|brinzolamide|drug
+DDI-DrugBank.d497.s2|39-67|carbonic anhydrase inhibitors|group
+DDI-DrugBank.d497.s2|135-144|salicylate|drug
+DDI-DrugBank.d497.s3|94-98|AZOPT|brand
+DDI-DrugBank.d153.s0|60-70|epinephrine|drug
+DDI-DrugBank.d153.s0|125-152|monoamine oxidase inhibitors|group
+DDI-DrugBank.d153.s1|0-30|Congestive Heart Failure Agents|group
+DDI-DrugBank.d153.s3|0-16|Vasopressor Drugs|group
+DDI-DrugBank.d153.s4|0-13|Phenothiazines|group
+DDI-DrugBank.d153.s4|93-103|epinephrine|drug
+DDI-DrugBank.d213.s0|0-5|Iodine|drug
+DDI-DrugBank.d213.s0|64-22||drug
+DDI-DrugBank.d213.s0|84-61||drug
+DDI-DrugBank.d213.s0|129-87||drug
+DDI-DrugBank.d213.s1|0-6|Digoxin|drug
+DDI-DrugBank.d213.s1|88-105|antithyroid agents|group
+DDI-DrugBank.d213.s3|0-17|Antithyroid agents|group
+DDI-DrugBank.d213.s3|142-152|Carbimazole|drug
+DDI-DrugBank.d213.s4|26-39|anticoagulants|group
+DDI-DrugBank.d213.s5|55-67|anticoagulant|group
+DDI-DrugBank.d520.s0|0-20|Nephrotoxic compounds|drug
+DDI-DrugBank.d520.s0|63-73|Carboplatin|drug
+DDI-DrugBank.d269.s0|0-19|Inhibitors of CYP2D6|group
+DDI-DrugBank.d269.s1|67-76|carvedilol|drug
+DDI-DrugBank.d269.s1|120-128|quinidine|drug
+DDI-DrugBank.d269.s1|156-140||drug
+DDI-DrugBank.d269.s1|172-152||drug
+DDI-DrugBank.d269.s1|293-169||drug
+DDI-DrugBank.d269.s2|0-2|2D6|drug_n
+DDI-DrugBank.d269.s2|38-46|dizziness|drug
+DDI-DrugBank.d269.s2|132-135|R(+)|drug
+DDI-DrugBank.d269.s3|0-29|Catecholamine-depleting Agents|group
+DDI-DrugBank.d269.s3|137-145|reserpine|drug
+DDI-DrugBank.d269.s4|0-8|Clonidine|drug
+DDI-DrugBank.d269.s4|41-49|clonidine|drug
+DDI-DrugBank.d269.s4|68-88|b-blocking properties|group
+DDI-DrugBank.d269.s5|44-64|b-blocking properties|group
+DDI-DrugBank.d269.s5|120-135|b-blocking agent|group
+DDI-DrugBank.d269.s6|0-8|Clonidine|drug
+DDI-DrugBank.d269.s7|0-11|Cyclosporine|drug
+DDI-DrugBank.d269.s7|46-57|cyclosporine|drug
+DDI-DrugBank.d269.s8|38-49|cyclosporine|drug
+DDI-DrugBank.d269.s9|0-27|On the average for the group|group
+DDI-DrugBank.d269.s9|42-53|cyclosporine|drug
+DDI-DrugBank.d269.s10|0-11|Cyclosporine|drug
+DDI-DrugBank.d269.s10|109-122|concentrations|drug
+DDI-DrugBank.d269.s10|194-138||drug
+DDI-DrugBank.d269.s10|234-190||drug
+DDI-DrugBank.d269.s11|0-6|Digoxin|drug
+DDI-DrugBank.d269.s11|64-70|digoxin|drug
+DDI-DrugBank.d269.s12|0-6|digoxin|drug
+DDI-DrugBank.d269.s13|0-6|digoxin|drug
+DDI-DrugBank.d269.s13|44-50|digoxin|drug
+DDI-DrugBank.d269.s13|112-116|COREG|brand
+DDI-DrugBank.d269.s14|0-44|Inducers and Inhibitors of Hepatic Metabolism|drug
+DDI-DrugBank.d269.s14|102-54||drug
+DDI-DrugBank.d269.s15|0-9|Cimetidine|drug
+DDI-DrugBank.d269.s16|0-23|Calcium Channel Blockers|group
+DDI-DrugBank.d269.s16|128-132|COREG|brand
+DDI-DrugBank.d269.s16|158-166|diltiazem|drug
+DDI-DrugBank.d269.s17|0-13|NONE_MENTIONED|drug
+DDI-DrugBank.d269.s17|41-61|b-blocking properties|group
+DDI-DrugBank.d269.s17|152-160|verapamil|group
+DDI-DrugBank.d269.s18|0-6|Insulin|group
+DDI-DrugBank.d269.s18|58-28||group
+DDI-DrugBank.d269.s18|127-52||group
+DDI-DrugBank.d269.s18|139-118||group
+DDI-DrugBank.d269.s19|30-36|insulin|drug
+DDI-DrugBank.d269.s19|46-58|hypoglycemics|group
+DDI-DrugBank.d339.s0|0-12|Carbamazepine|drug
+DDI-DrugBank.d339.s0|24-36|carbamazepine|drug
+DDI-DrugBank.d339.s0|97-102|SUPRAX|brand
+DDI-DrugBank.d339.s1|0-12|Carbamazepine|drug
+DDI-DrugBank.d339.s1|79-91|carbamazepine|drug
+DDI-DrugBank.d339.s2|0-7|Warfarin|drug
+DDI-DrugBank.d339.s2|130-137|cefixime|drug
+DDI-DrugBank.d339.s3|0-12|nitroprusside|drug
+DDI-DrugBank.d339.s3|39-55|nitroferricyanide|drug
+DDI-DrugBank.d339.s4|0-5|Suprax|drug
+DDI-DrugBank.d339.s4|78-86|Clinitest|brand
+DDI-DrugBank.d339.s5|91-99|Clinistix|brand
+DDI-DrugBank.d339.s5|107-114|Tes-Tape|brand
+DDI-DrugBank.d339.s6|24-34|Coombs test|group
+DDI-DrugBank.d339.s6|96-106|antibiotics|drug
+DDI-DrugBank.d172.s0|0-8|celecoxib|drug
+DDI-DrugBank.d172.s0|51-59|celecoxib|drug
+DDI-DrugBank.d172.s1|0-8|Celecoxib|drug
+DDI-DrugBank.d172.s2|0-8|celecoxib|drug
+DDI-DrugBank.d172.s2|47-49|2C9|drug_n
+DDI-DrugBank.d172.s3|0-8|celecoxib|drug
+DDI-DrugBank.d172.s4|0-8|celecoxib|drug
+DDI-DrugBank.d172.s5|69-73|drugs|group
+DDI-DrugBank.d172.s6|0-8|celecoxib|drug
+DDI-DrugBank.d172.s6|67-77|fluconazole|drug
+DDI-DrugBank.d172.s7|0-35|Nonsteroidal anti-inflammatory drugs|group
+DDI-DrugBank.d172.s7|63-98|nonsteroidal anti-inflammatory drugs|group
+DDI-DrugBank.d172.s7|154-163|furosemide|drug
+DDI-DrugBank.d172.s8|0-8|celecoxib|drug
+DDI-DrugBank.d172.s8|61-69|glyburide|drug
+DDI-DrugBank.d172.s8|99-83||drug
+DDI-DrugBank.d172.s8|113-97||drug
+DDI-DrugBank.d172.s8|124-108||drug
+DDI-DrugBank.d172.s8|141-121||drug
+DDI-DrugBank.d172.s9|0-13|ACE inhibitors|group
+DDI-DrugBank.d172.s9|88-116|Angiotensin Converting Enzyme|group
+DDI-DrugBank.d172.s10|66-73|CELEBREX|brand
+DDI-DrugBank.d172.s10|94-107|ACE-inhibitors|group
+DDI-DrugBank.d172.s11|0-9|Furosemide|drug
+DDI-DrugBank.d172.s11|130-139|furosemide|drug
+DDI-DrugBank.d172.s13|0-6|Aspirin|drug
+DDI-DrugBank.d172.s13|44-50|aspirin|drug
+DDI-DrugBank.d172.s14|52-59|CELEBREX|brand
+DDI-DrugBank.d172.s14|153-160|CELEBREX|brand
+DDI-DrugBank.d172.s15|0-7|CELEBREX|drug
+DDI-DrugBank.d172.s15|33-39|aspirin|brand
+DDI-DrugBank.d172.s16|0-10|Fluconazole|drug
+DDI-DrugBank.d172.s16|43-53|fluconazole|drug
+DDI-DrugBank.d172.s16|103-111|celecoxib|drug
+DDI-DrugBank.d172.s17|0-8|celecoxib|drug
+DDI-DrugBank.d172.s17|37-47|fluconazole|drug
+DDI-DrugBank.d172.s18|0-7|CELEBREX|drug
+DDI-DrugBank.d172.s18|83-93|fluconazole|drug
+DDI-DrugBank.d172.s19|0-6|Lithium|drug
+DDI-DrugBank.d172.s19|69-75|lithium|drug
+DDI-DrugBank.d172.s19|141-147|lithium|drug
+DDI-DrugBank.d172.s19|219-225|lithium|drug
+DDI-DrugBank.d172.s20|0-6|Lithium|drug
+DDI-DrugBank.d172.s20|51-58|CELEBREX|brand
+DDI-DrugBank.d172.s21|0-11|Methotrexate|drug
+DDI-DrugBank.d172.s21|78-89|methotrexate|drug
+DDI-DrugBank.d172.s21|177-188|methotrexate|drug
+DDI-DrugBank.d172.s22|0-7|Warfarin|drug
+DDI-DrugBank.d172.s22|66-73|warfarin|drug
+DDI-DrugBank.d172.s22|153-160|warfarin|drug
+DDI-DrugBank.d172.s23|0-8|celecoxib|drug
+DDI-DrugBank.d172.s23|52-59|warfarin|drug
+DDI-DrugBank.d172.s24|0-7|CELEBREX|drug
+DDI-DrugBank.d172.s24|61-68|CELEBREX|drug
+DDI-DrugBank.d141.s0|0-22|Immunosuppressive Drugs|group
+DDI-DrugBank.d141.s0|65-70|Niacin|drug
+DDI-DrugBank.d141.s0|102-86||drug
+DDI-DrugBank.d141.s0|116-47||group
+DDI-DrugBank.d141.s1|0-6|ANTACID|group
+DDI-DrugBank.d141.s1|117-123|antacid|group
+DDI-DrugBank.d141.s2|0-9|CIMETlDINE|drug
+DDI-DrugBank.d141.s2|89-98|cimetidine|drug
+DDI-DrugBank.d141.s3|0-13|Cholestyramine|drug
+DDI-DrugBank.d141.s3|66-79|cholestyramine|drug
+DDI-DrugBank.d141.s5|0-13|Cholestyramine|drug
+DDI-DrugBank.d141.s5|76-37||drug
+DDI-DrugBank.d141.s5|133-76||drug
+DDI-DrugBank.d141.s5|233-138||drug
+DDI-DrugBank.d141.s5|327-231||drug
+DDI-DrugBank.d141.s6|0-18|cerivastatin sodium|drug
+DDI-DrugBank.d141.s6|79-97|cerivastatin sodium|drug
+DDI-DrugBank.d141.s6|120-133|cholestyramine|drug
+DDI-DrugBank.d141.s6|234-252|cerivastatin sodium|drug
+DDI-DrugBank.d141.s7|0-6|DIGOXIN|drug
+DDI-DrugBank.d141.s7|16-22|digoxin|drug
+DDI-DrugBank.d141.s7|35-41|digoxin|drug
+DDI-DrugBank.d141.s7|118-136|cerivastatin sodium|drug_n
+DDI-DrugBank.d141.s8|0-11|Cerivastatin|drug
+DDI-DrugBank.d141.s8|82-88|digoxin|drug
+DDI-DrugBank.d141.s9|0-7|WARFARIN|drug
+DDI-DrugBank.d141.s9|31-38|warfarin|drug
+DDI-DrugBank.d141.s9|190-197|warfarin|drug
+DDI-DrugBank.d141.s10|0-2|AUC|drug
+DDI-DrugBank.d141.s10|38-11||drug
+DDI-DrugBank.d141.s10|46-27||drug
+DDI-DrugBank.d141.s10|61-35||drug
+DDI-DrugBank.d141.s10|117-55||drug
+DDI-DrugBank.d141.s11|0-7|Warfarin|drug
+DDI-DrugBank.d141.s11|68-24||drug
+DDI-DrugBank.d141.s12|0-11|Erythromycin|drug
+DDI-DrugBank.d141.s12|61-72|cerivastatin|drug_n
+DDI-DrugBank.d141.s12|176-187|erythromycin|drug
+DDI-DrugBank.d141.s13|133-146|ACE inhibitors|group
+DDI-DrugBank.d141.s13|178-160||group
+DDI-DrugBank.d141.s13|204-186||group
+DDI-DrugBank.d141.s13|219-197||group
+DDI-DrugBank.d287.s0|0-9|Cevimeline|drug
+DDI-DrugBank.d287.s1|0-37|Drugs with parasympathomimetic effects|group
+DDI-DrugBank.d287.s1|70-79|cevimeline|drug
+DDI-DrugBank.d287.s2|0-9|Cevimeline|drug
+DDI-DrugBank.d287.s2|68-72|drugs|drug_n
+DDI-DrugBank.d287.s3|0-4|Drugs|group
+DDI-DrugBank.d287.s3|20-25|CYP2D6|group
+DDI-DrugBank.d287.s3|91-100|cevimeline|drug
+DDI-DrugBank.d287.s4|0-9|Cevimeline|drug
+DDI-DrugBank.d287.s5|119-128|cevimeline|drug
+DDI-DrugBank.d255.s0|0-11|Chlorambucil|drug
+DDI-DrugBank.d255.s0|37-40|drug|drug
+DDI-DrugBank.d255.s0|60-71|chlorambucil|drug
+DDI-DrugBank.d110.s0|60-70|epinephrine|drug
+DDI-DrugBank.d110.s0|125-152|monoamine oxidase inhibitors|group
+DDI-DrugBank.d110.s0|199-179||group
+DDI-DrugBank.d110.s1|0-30|Congestive Heart Failure Agents|group
+DDI-DrugBank.d110.s1|49-58|amlodipine|drug
+DDI-DrugBank.d110.s1|99-110|other agents|group
+DDI-DrugBank.d110.s3|0-16|Vasopressor Drugs|group
+DDI-DrugBank.d110.s3|85-109|ergot-type oxytocic drugs|group
+DDI-DrugBank.d110.s5|0-13|Chloroprocaine|drug
+DDI-DrugBank.d110.s5|62-73| sulfonamide|drug
+DDI-DrugBank.d429.s0|0-7|Antacids|group
+DDI-DrugBank.d429.s0|34-41|Antacids|group
+DDI-DrugBank.d429.s0|92-18||drug
+DDI-DrugBank.d429.s1|0-5|agents|drug
+DDI-DrugBank.d429.s2|0-9|Cimetidine|drug
+DDI-DrugBank.d429.s2|66-21||drug
+DDI-DrugBank.d429.s3|0-9|cimetidine|drug
+DDI-DrugBank.d429.s4|0-9|Ampicillin|drug
+DDI-DrugBank.d429.s4|103-112|ampicillin|drug
+DDI-DrugBank.d429.s5|0-4|agent|drug
+DDI-DrugBank.d429.s5|84-94|chloroquine|drug
+DDI-DrugBank.d429.s6|0-10|Cyclosporin|drug
+DDI-DrugBank.d429.s6|35-45|chloroquine|drug
+DDI-DrugBank.d429.s6|87-97|cyclosporin|drug
+DDI-DrugBank.d429.s7|37-47|cyclosporin|drug
+DDI-DrugBank.d429.s7|89-99|chloroquine|drug
+DDI-DrugBank.d446.s0|0-15|Chlorotrianisene|drug
+DDI-DrugBank.d446.s0|75-87|bromocriptine|drug
+DDI-DrugBank.d446.s0|143-154|cyclosporine|drug
+DDI-DrugBank.d446.s0|206-213|warfarin|drug
+DDI-DrugBank.d245.s0|27-38|sulfonylurea|drug
+DDI-DrugBank.d245.s0|238-265|monoamine oxidase inhibitors|group
+DDI-DrugBank.d245.s1|56-64|DIABINESE|brand
+DDI-DrugBank.d245.s2|10-14|drugs|drug
+DDI-DrugBank.d245.s2|55-63|DIABINESE|brand
+DDI-DrugBank.d245.s3|0-12|Certain drugs|group
+DDI-DrugBank.d245.s4|0-10|These drugs|group
+DDI-DrugBank.d245.s4|72-85|phenothiazines|group
+DDI-DrugBank.d245.s4|138-146|phenytoin|drug
+DDI-DrugBank.d245.s4|219-227|isoniazid|drug
+DDI-DrugBank.d245.s5|56-64|DIABINESE|brand
+DDI-DrugBank.d245.s6|10-14|drugs|drug
+DDI-DrugBank.d245.s6|55-63|DIABINESE|brand
+DDI-DrugBank.d245.s7|0-11|Barbiturates|drug
+DDI-DrugBank.d245.s7|61-72|barbiturates|drug
+DDI-DrugBank.d245.s7|107-120|chlorpropamide|drug
+DDI-DrugBank.d245.s8|81-87|alcohol|drug
+DDI-DrugBank.d245.s9|0-14|Oral miconazole|drug
+DDI-DrugBank.d245.s10|95-104|miconazole|drug
+DDI-DrugBank.d171.s0|0-6|Tagamet|brand
+DDI-DrugBank.d171.s0|232-256|tricyclic antidepressants|group
+DDI-DrugBank.d171.s0|368-372|drugs|drug_n
+DDI-DrugBank.d171.s1|60-67|warfarin|drug
+DDI-DrugBank.d171.s2|0-6|Tagamet|drug
+DDI-DrugBank.d171.s2|136-142|Tagamet|drug
+DDI-DrugBank.d171.s3|0-8|Phenytoin|drug
+DDI-DrugBank.d171.s3|39-19||drug
+DDI-DrugBank.d171.s4|0-6|Tagamet|drug
+DDI-DrugBank.d171.s4|42-53|theophylline|drug
+DDI-DrugBank.d171.s6|0-11|Theophylline|drug
+DDI-DrugBank.d171.s6|44-55|theophylline|drug
+DDI-DrugBank.d171.s7|0-6|Tagamet|drug
+DDI-DrugBank.d171.s7|230-236|Tagamet|drug
+DDI-DrugBank.d171.s8|0-11|ketoconazole|drug
+DDI-DrugBank.d171.s8|60-71|ketoconazole|drug
+DDI-DrugBank.d171.s9|75-84|cimetidine|drug
+DDI-DrugBank.d171.s10|0-6|Tagamet|drug
+DDI-DrugBank.d171.s10|57-61|drugs|drug
+DDI-DrugBank.d171.s10|109-115|Tagamet|drug
+DDI-DrugBank.d237.s0|0-8|Cisapride|drug
+DDI-DrugBank.d237.s1|0-8|cisapride|drug
+DDI-DrugBank.d237.s1|123-131|cisapride|drug
+DDI-DrugBank.d237.s1|221-229|cisapride|drug
+DDI-DrugBank.d237.s2|0-10|Antibiotics|group
+DDI-DrugBank.d237.s2|52-65|clarithromycin|drug
+DDI-DrugBank.d237.s2|99-79||drug
+DDI-DrugBank.d237.s2|149-99||drug
+DDI-DrugBank.d237.s2|202-144||drug
+DDI-DrugBank.d237.s3|0-15|Anticholinergics|group
+DDI-DrugBank.d237.s3|55-79|anticholinergic compounds|group
+DDI-DrugBank.d237.s3|115-125|dicyclomine|drug
+DDI-DrugBank.d237.s3|186-194|cisapride|drug
+DDI-DrugBank.d237.s4|0-13|Anticoagulants|group
+DDI-DrugBank.d237.s4|65-19||group
+DDI-DrugBank.d237.s5|0-8|cisapride|drug
+DDI-DrugBank.d237.s5|126-134|cisapride|drug
+DDI-DrugBank.d237.s6|0-14|Antidepressants|group
+DDI-DrugBank.d237.s6|45-54|nefazodone|drug
+DDI-DrugBank.d237.s7|0-10|Antifungals|group
+DDI-DrugBank.d237.s7|56-66|fluconazole|drug
+DDI-DrugBank.d237.s7|105-80||drug
+DDI-DrugBank.d237.s7|153-103||drug
+DDI-DrugBank.d237.s7|206-148||drug
+DDI-DrugBank.d237.s8|0-16|oral ketoconazole|drug
+DDI-DrugBank.d237.s8|54-62|cisapride|drug
+DDI-DrugBank.d237.s8|115-123|cisapride|drug
+DDI-DrugBank.d237.s9|0-8|cisapride|drug
+DDI-DrugBank.d237.s10|0-22|H2 Receptor Antagonists|group
+DDI-DrugBank.d237.s10|125-34||drug
+DDI-DrugBank.d237.s10|210-120||drug
+DDI-DrugBank.d237.s11|0-9|cimetidine|drug
+DDI-DrugBank.d237.s11|63-24||drug
+DDI-DrugBank.d237.s12|0-18|Protease Inhibitors|group
+DDI-DrugBank.d237.s12|49-57|indinavir|drug
+DDI-DrugBank.d237.s12|121-71||drug
+DDI-DrugBank.d237.s12|173-116||drug
+DDI-DrugBank.d237.s13|0-4|Other|group
+DDI-DrugBank.d237.s13|49-57|cisapride|drug
+DDI-DrugBank.d237.s13|92-100|cisapride|drug
+DDI-DrugBank.d237.s14|0-8|Cisapride|drug
+DDI-DrugBank.d237.s14|138-145|Class IA|group
+DDI-DrugBank.d237.s14|156-164|quinidine|drug
+DDI-DrugBank.d237.s14|201-209|Class III|group
+DDI-DrugBank.d237.s14|220-181||drug
+DDI-DrugBank.d237.s15|37-49|amitriptyline|drug
+DDI-DrugBank.d237.s16|85-95|maprotiline|drug
+DDI-DrugBank.d237.s17|54-63|sertindole|drug
+DDI-DrugBank.d237.s18|0-9|astemizole|drug
+DDI-DrugBank.d237.s18|35-19||drug
+DDI-DrugBank.d237.s18|53-33||drug
+DDI-DrugBank.d237.s19|23-27|drugs|drug
+DDI-DrugBank.d237.s20|0-8|cisapride|drug
+DDI-DrugBank.d237.s21|44-44|s|drug
+DDI-DrugBank.d237.s22|53-62|reassessed|drug_n
+DDI-DrugBank.d464.s0|0-6|Codeine|drug
+DDI-DrugBank.d464.s0|34-52|narcotic analgesics|group
+DDI-DrugBank.d464.s0|76-89|phenothiazines|group
+DDI-DrugBank.d464.s0|136-150|CNS depressants|group
+DDI-DrugBank.d464.s0|163-169|alcohol|drug
+DDI-DrugBank.d464.s1|5-8|s.c.|drug_n
+DDI-DrugBank.d464.s2|0-10|combination|drug
+DDI-DrugBank.d464.s2|63-68|agents|drug
+DDI-DrugBank.d250.s0|0-24|Certain other antibiotics|group
+DDI-DrugBank.d250.s1|77-99|Coly-Mycin M Parenteral|brand
+DDI-DrugBank.d250.s2|0-26|Curariform muscle relaxants|group
+DDI-DrugBank.d250.s2|70-74|drugs|group
+DDI-DrugBank.d250.s2|87-44||drug
+DDI-DrugBank.d250.s2|272-294|Coly-Mycin M Parenteral|brand
+DDI-DrugBank.d250.s3|0-17|Sodium cephalothin|drug
+DDI-DrugBank.d250.s3|53-75|Coly-Mycin M Parenteral|brand
+DDI-DrugBank.d250.s4|30-40|cephalothin|drug
+DDI-DrugBank.d317.s0|0-3|DRUG|drug
+DDI-DrugBank.d317.s1|0-10|prothrombin|drug
+DDI-DrugBank.d317.s1|54-34||drug
+DDI-DrugBank.d317.s2|10-23|platelet count|drug
+DDI-DrugBank.d317.s3|0-1|II|drug
+DDI-DrugBank.d317.s3|30-6||drug
+DDI-DrugBank.d317.s3|44-20||drug
+DDI-DrugBank.d317.s3|69-34||drug
+DDI-DrugBank.d317.s3|74-58||drug
+DDI-DrugBank.d317.s3|77-61||drug
+DDI-DrugBank.d317.s3|92-66||drug
+DDI-DrugBank.d317.s4|0-13|anti-factor Xa|drug
+DDI-DrugBank.d317.s4|67-31||drug
+DDI-DrugBank.d317.s4|86-67||drug
+DDI-DrugBank.d317.s4|114-88||drug
+DDI-DrugBank.d317.s5|20-29|fibrinogen|drug_n
+DDI-DrugBank.d317.s6|0-41|increased plasminogen antigen and activity|drug
+DDI-DrugBank.d317.s8|36-38|TBG|drug_n
+DDI-DrugBank.d317.s8|147-149|PBI|drug_n
+DDI-DrugBank.d317.s8|214-154||drug
+DDI-DrugBank.d317.s10|5-6|T4|drug
+DDI-DrugBank.d317.s10|17-18|T3|drug
+DDI-DrugBank.d317.s11|0-38|Patients on thyroid replacement therapy|group
+DDI-DrugBank.d317.s11|68-82|thyroid hormone|group
+DDI-DrugBank.d317.s13|63-93|corticosteroid binding globulin|drug_n
+DDI-DrugBank.d317.s13|102-129|sex hormone binding globulin|drug_n
+DDI-DrugBank.d317.s14|5-11|hormone|drug
+DDI-DrugBank.d317.s15|0-20|Other plasma proteins|group
+DDI-DrugBank.d317.s15|56-60|renin|drug
+DDI-DrugBank.d317.s15|73-91|alpha-1-antitrypsin|drug
+DDI-DrugBank.d317.s21|0-9|metyrapone|drug
+DDI-DrugBank.d439.s0|0-12|Corticotropin|drug
+DDI-DrugBank.d439.s0|66-81|diuretic therapy|group
+DDI-DrugBank.d101.s0|0-8|digitoxin|drug
+DDI-DrugBank.d101.s1|32-38|digoxin|drug
+DDI-DrugBank.d101.s2|0-8|digitoxin|drug
+DDI-DrugBank.d101.s2|29-37|digitoxin|drug
+DDI-DrugBank.d101.s3|0-10|flucytosine|drug
+DDI-DrugBank.d185.s0|0-9|ACZONE Gel|drug
+DDI-DrugBank.d185.s0|81-90|ACZONE Gel|drug
+DDI-DrugBank.d185.s0|148-176|trimethoprim/sulfamethoxazole|drug
+DDI-DrugBank.d185.s1|45-47|TMP|drug
+DDI-DrugBank.d185.s2|0-20|dapsone hydroxylamine|drug
+DDI-DrugBank.d185.s3|76-79|oral|drug
+DDI-DrugBank.d185.s4|41-48|rifampin|drug
+DDI-DrugBank.d185.s4|87-89|St.|brand
+DDI-DrugBank.d185.s5|0-15|Natural Products|drug
+DDI-DrugBank.d185.s5|25-39|St. John's wort|drug
+DDI-DrugBank.d185.s6|10-16|dapsone|drug
+DDI-DrugBank.d185.s6|60-72|pyrimethamine|drug
+DDI-DrugBank.d69.s0|0-9|Cerubidine|drug
+DDI-DrugBank.d69.s0|52-62|doxorubicin|drug
+DDI-DrugBank.d69.s1|0-9|Cerubidine|drug
+DDI-DrugBank.d69.s1|115-127|dioxidronibin|drug
+DDI-DrugBank.d69.s2|0-15|Cyclophosphamide|drug
+DDI-DrugBank.d69.s2|40-49|cerubidine|drug
+DDI-DrugBank.d69.s3|0-2|N/A|drug
+DDI-DrugBank.d69.s3|24-33|Cerubidine|drug
+DDI-DrugBank.d69.s4|0-22|Hepatotoxic medications|group
+DDI-DrugBank.d69.s4|43-54|methotrexate|drug
+DDI-DrugBank.d197.s0|0-14|cytochrome P450|drug_n
+DDI-DrugBank.d197.s0|176-190|cytochrome P450|group
+DDI-DrugBank.d197.s1|0-38|Anesthetics/Sedatives/Hypnotics/Opioids|group
+DDI-DrugBank.d197.s1|62-69|PRECEDEX|drug
+DDI-DrugBank.d197.s2|0-10|sevoflurane|drug
+DDI-DrugBank.d197.s2|38-22||drug
+DDI-DrugBank.d197.s2|48-32||drug
+DDI-DrugBank.d197.s2|64-44||drug
+DDI-DrugBank.d197.s3|40-54|dexmedetomidine|drug
+DDI-DrugBank.d197.s3|98-106|midazolam|drug
+DDI-DrugBank.d197.s4|81-88|PRECEDEX|drug
+DDI-DrugBank.d197.s4|116-123|PRECEDEX|drug
+DDI-DrugBank.d197.s5|0-21|Neuromuscular Blockers|group
+DDI-DrugBank.d197.s5|81-88|PRECEDEX|brand
+DDI-DrugBank.d197.s5|254-263|rocuronium|drug
+DDI-DrugBank.d181.s0|0-7|Oxytocin|drug
+DDI-DrugBank.d168.s0|0-8|This drug|drug
+DDI-DrugBank.d168.s0|120-130|medications|drug
+DDI-DrugBank.d168.s0|275-285|medications|drug
+DDI-DrugBank.d19.s0|0-9|Disulfiram|drug
+DDI-DrugBank.d19.s0|57-61|drugs|group
+DDI-DrugBank.d19.s0|167-171|drugs|group
+DDI-DrugBank.d19.s1|0-9|DISULFIRAM|drug
+DDI-DrugBank.d19.s1|67-75|PHENYTOIN|drug
+DDI-DrugBank.d19.s2|78-86|PHENYTOIN|drug
+DDI-DrugBank.d19.s2|152-160|PHENYTOIN|drug
+DDI-DrugBank.d19.s2|182-190|PHENYTOIN|drug
+DDI-DrugBank.d19.s4|0-8|Phenytoin|drug
+DDI-DrugBank.d19.s5|0-8|Phenytoin|drug
+DDI-DrugBank.d19.s6|49-62|anticoagulants|group
+DDI-DrugBank.d19.s6|91-100|disulfiram|drug
+DDI-DrugBank.d19.s6|109-118|disulfiram|drug
+DDI-DrugBank.d19.s7|16-24|isoniazid|drug
+DDI-DrugBank.d19.s7|31-40|disulfiram|drug
+DDI-DrugBank.d19.s8|0-9|disulfiram|drug
+DDI-DrugBank.d19.s9|0-9|Disulfiram|drug
+DDI-DrugBank.d19.s9|16-23|nitrites|drug
+DDI-DrugBank.d19.s9|117-126|disulfiram|drug
+DDI-DrugBank.d19.s9|143-150|nitrites|drug
+DDI-DrugBank.d19.s10|0-9|Disulfiram|drug
+DDI-DrugBank.d371.s0|0-7|TAXOTERE|drug
+DDI-DrugBank.d371.s0|89-96|TAXOTERE|drug
+DDI-DrugBank.d371.s1|0-8|docetaxel|drug
+DDI-DrugBank.d371.s1|157-168|cyclosporine|drug
+DDI-DrugBank.d371.s1|197-181||drug
+DDI-DrugBank.d371.s1|211-195||drug
+DDI-DrugBank.d371.s1|229-209||drug
+DDI-DrugBank.d371.s2|0-7|TAXOTERE|drug
+DDI-DrugBank.d371.s2|88-95|TAXOTERE|drug
+DDI-DrugBank.d367.s0|0-8|doxazosin|drug
+DDI-DrugBank.d367.s0|32-40|doxazosin|drug
+DDI-DrugBank.d367.s1|0-17|doxazosin mesylate|drug
+DDI-DrugBank.d367.s1|55-61|digoxin|drug
+DDI-DrugBank.d367.s1|87-71||drug
+DDI-DrugBank.d367.s1|100-82||drug
+DDI-DrugBank.d367.s2|75-79|drugs|drug_n
+DDI-DrugBank.d367.s3|0-17|Doxazosin mesylate|drug
+DDI-DrugBank.d367.s4|0-8|doxazosin|drug
+DDI-DrugBank.d367.s4|61-20||drug
+DDI-DrugBank.d367.s4|116-56||drug
+DDI-DrugBank.d367.s4|165-111||drug
+DDI-DrugBank.d367.s4|239-161||drug
+DDI-DrugBank.d367.s4|351-234||drug
+DDI-DrugBank.d367.s5|0-8|Doxazosin|drug
+DDI-DrugBank.d367.s5|60-68|doxazosin|drug
+DDI-DrugBank.d367.s6|95-117|concomitant medications|group
+DDI-DrugBank.d367.s8|0-17|Doxazosin mesylate|drug_n
+DDI-DrugBank.d367.s8|70-81|drug classes|group
+DDI-DrugBank.d367.s9|0-26|Analgesic/anti-inflammatory|group
+DDI-DrugBank.d367.s9|35-47|acetaminophen|drug
+DDI-DrugBank.d367.s9|72-56||drug
+DDI-DrugBank.d367.s9|84-65||drug
+DDI-DrugBank.d367.s9|106-90||drug
+DDI-DrugBank.d367.s9|117-101||drug
+DDI-DrugBank.d367.s11|0-10|Antibiotics|group
+DDI-DrugBank.d367.s11|19-30|erythromycin|drug
+DDI-DrugBank.d367.s11|63-44||drug
+DDI-DrugBank.d367.s11|81-65||drug
+DDI-DrugBank.d367.s13|0-13|Antihistamines|group
+DDI-DrugBank.d367.s13|22-37|chlorpheniramine|drug
+DDI-DrugBank.d367.s15|0-20|Cardiovascular agents|group
+DDI-DrugBank.d367.s15|29-36|atenolol|drug
+DDI-DrugBank.d367.s15|73-57||drug
+DDI-DrugBank.d367.s17|0-14|Corticosteroids|group
+DDI-DrugBank.d367.s19|0-22|Gastrointestinal agents|group
+DDI-DrugBank.d367.s19|31-38|antacids|drug
+DDI-DrugBank.d367.s21|0-12|Hypoglycemics|group
+DDI-DrugBank.d367.s23|0-26|Sedatives and tranquilizers|group
+DDI-DrugBank.d367.s23|35-42|diazepam|drug
+DDI-DrugBank.d367.s25|0-20|Cold and flu remedies|group
+DDI-DrugBank.d223.s0|0-28|Drugs Metabolized by P450 2D6|group
+DDI-DrugBank.d223.s0|165-184|Caucasian population|group
+DDI-DrugBank.d223.s1|0-7|P450 2D6|drug_n
+DDI-DrugBank.d223.s1|75-82|P450 2D6|drug_n
+DDI-DrugBank.d223.s2|0-16|Poor metabolizers|group
+DDI-DrugBank.d223.s2|69-93|tricyclic antidepressants|group
+DDI-DrugBank.d223.s3|163-165|TCA|drug
+DDI-DrugBank.d223.s4|0-6|isozyme|drug
+DDI-DrugBank.d223.s5|0-2|TCA|drug
+DDI-DrugBank.d223.s5|113-115|TCA|drug
+DDI-DrugBank.d223.s5|167-23||group
+DDI-DrugBank.d223.s6|4-8|drugs|drug
+DDI-DrugBank.d223.s7|0-9|cimetidine|drug
+DDI-DrugBank.d223.s7|66-80|antidepressants|group
+DDI-DrugBank.d223.s7|122-96||group
+DDI-DrugBank.d223.s7|146-156|propafenone|drug
+DDI-DrugBank.d223.s8|0-38|Selective serotonin reuptake inhibitors|group
+DDI-DrugBank.d223.s8|56-65|citalopram|drug
+DDI-DrugBank.d223.s8|95-79||drug
+DDI-DrugBank.d223.s8|107-91||drug
+DDI-DrugBank.d223.s8|123-103||drug
+DDI-DrugBank.d223.s9|20-23|SSRI|group
+DDI-DrugBank.d223.s9|156-16||group
+DDI-DrugBank.d223.s10|0-3|TCAs|group
+DDI-DrugBank.d223.s10|80-13||group
+DDI-DrugBank.d223.s10|101-68||group
+DDI-DrugBank.d223.s11|0-23|Of particular importance|drug
+DDI-DrugBank.d223.s11|72-74|TCA|drug_n
+DDI-DrugBank.d223.s11|120-129|fluoxetine|drug
+DDI-DrugBank.d223.s12|0-24|Tricyclic Antidepressants|group
+DDI-DrugBank.d223.s12|46-70|tricyclic antidepressants|group
+DDI-DrugBank.d223.s12|183-206|tricyclic antidepressant|group
+DDI-DrugBank.d223.s13|41-45|drugs|group
+DDI-DrugBank.d223.s13|98-121|tricyclic antidepressant|drug
+DDI-DrugBank.d223.s14|0-2|TCA|drug
+DDI-DrugBank.d223.s14|46-48|TCA|drug
+DDI-DrugBank.d223.s14|75-77|TCA|drug
+DDI-DrugBank.d223.s15|0-6|Doxepin|drug
+DDI-DrugBank.d223.s15|36-41|CYP2D6|drug_n
+DDI-DrugBank.d223.s15|79-54||drug_n
+DDI-DrugBank.d223.s16|0-33|Inhibitors or substrates of CYP2D6|group
+DDI-DrugBank.d223.s16|42-50|quinidine|drug
+DDI-DrugBank.d223.s16|109-113|SSRIs|drug
+DDI-DrugBank.d223.s16|158-164|doxepin|drug
+DDI-DrugBank.d223.s17|66-71|CYP2D6|drug_n
+DDI-DrugBank.d223.s18|0-6|doxepin|drug
+DDI-DrugBank.d223.s19|0-13|MAO Inhibitors|group
+DDI-DrugBank.d223.s19|112-116|drugs|group
+DDI-DrugBank.d223.s20|0-13|MAO inhibitors|group
+DDI-DrugBank.d223.s20|106-113|SINEQUAN|brand
+DDI-DrugBank.d223.s21|71-83|MAO inhibitor|group
+DDI-DrugBank.d223.s22|0-9|Cimetidine|drug
+DDI-DrugBank.d223.s22|149-173|tricyclic antidepressants|group
+DDI-DrugBank.d223.s23|0-23|Tricyclic antidepressant|drug
+DDI-DrugBank.d223.s23|182-191|cimetidine|drug
+DDI-DrugBank.d223.s24|0-24|Tricyclic antidepressants|drug
+DDI-DrugBank.d223.s24|121-130|cimetidine|drug
+DDI-DrugBank.d223.s25|0-24|Tricyclic antidepressants|drug
+DDI-DrugBank.d223.s25|87-111|tricyclic antidepressants|drug
+DDI-DrugBank.d223.s25|134-143|cimetidine|drug
+DDI-DrugBank.d223.s25|173-182|cimetidine|drug
+DDI-DrugBank.d223.s25|245-269|tricyclic antidepressants|drug
+DDI-DrugBank.d223.s26|0-6|Alcohol|drug
+DDI-DrugBank.d223.s26|41-47|alcohol|drug
+DDI-DrugBank.d223.s27|53-59|alcohol|drug
+DDI-DrugBank.d223.s28|0-9|Tolazamide|drug
+DDI-DrugBank.d223.s28|104-113|Tolazamide|drug
+DDI-DrugBank.d223.s28|156-162|doxepin|drug
+DDI-DrugBank.d44.s0|0-2|N/A|drug
+DDI-DrugBank.d44.s0|65-71|RAPTIVA|brand
+DDI-DrugBank.d44.s1|0-6|RAPTIVA|brand
+DDI-DrugBank.d44.s1|38-60|immunosuppressive drugs|group
+DDI-DrugBank.d44.s2|0-8|Acellular|group
+DDI-DrugBank.d44.s2|80-86|RAPTIVA|brand
+DDI-DrugBank.d44.s3|0-10|Lymphocytes|drug
+DDI-DrugBank.d44.s3|55-64|lymphocyte|drug
+DDI-DrugBank.d44.s3|153-159|RAPTIVA|drug
+DDI-DrugBank.d531.s0|0-8|Efavirenz|drug
+DDI-DrugBank.d531.s0|43-48|CYP3A4|group
+DDI-DrugBank.d531.s1|0-14|Other compounds|group
+DDI-DrugBank.d531.s1|112-118|SUSTIVA|brand
+DDI-DrugBank.d531.s2|0-8|efavirenz|drug
+DDI-DrugBank.d531.s2|37-45|efavirenz|drug
+DDI-DrugBank.d531.s2|109-117|efavirenz|drug
+DDI-DrugBank.d531.s3|0-8|efavirenz|drug
+DDI-DrugBank.d531.s3|127-130|drug|drug_n
+DDI-DrugBank.d531.s4|0-10|these drugs|drug
+DDI-DrugBank.d531.s5|0-4|Drugs|group
+DDI-DrugBank.d531.s5|19-24|CYP3A4|group
+DDI-DrugBank.d531.s5|40-52|phenobarbital|drug
+DDI-DrugBank.d531.s5|78-62||drug
+DDI-DrugBank.d531.s5|136-73||drug
+DDI-DrugBank.d531.s6|0-67|NB: Table 5 summarizes drug interactions with <brand>SUSTIVA</brand>|drug
+DDI-DrugBank.d531.s6|46-52|SUSTIVA|brand
+DDI-DrugBank.d531.s7|0-61|Table 5a: Drugs That Should Not Be Coadministered With SUSTIVA|drug
+DDI-DrugBank.d531.s8|0-9|Drug Class|group
+DDI-DrugBank.d531.s9|0-55|Drugs Within Class Not To Be Coadministered With SUSTIVA|group
+DDI-DrugBank.d531.s10|0-13|Antihistamines|group
+DDI-DrugBank.d531.s10|68-30||group
+DDI-DrugBank.d531.s10|83-65||group
+DDI-DrugBank.d531.s11|0-9|astemizole|drug
+DDI-DrugBank.d531.s11|36-20||drug
+DDI-DrugBank.d531.s11|47-31||drug
+DDI-DrugBank.d531.s11|58-42||drug
+DDI-DrugBank.d531.s11|77-61||drug
+DDI-DrugBank.d531.s12|0-28|Established Drug Interactions|group
+DDI-DrugBank.d531.s17|0-9|Atazanavir|drug
+DDI-DrugBank.d531.s18|0-9|Atazanavir|drug
+DDI-DrugBank.d531.s19|0-9|Atazanavir|drug
+DDI-DrugBank.d531.s19|17-25|ritonavir|drug
+DDI-DrugBank.d531.s19|39-45|SUSTIVA|brand
+DDI-DrugBank.d531.s19|97-103|SUSTIVA|brand
+DDI-DrugBank.d531.s19|158-167|atazanavir|drug
+DDI-DrugBank.d531.s19|184-192|ritonavir|drug
+DDI-DrugBank.d531.s19|205-211|SUSTIVA|brand
+DDI-DrugBank.d531.s20|0-2|N/A|drug
+DDI-DrugBank.d531.s20|18-27|atazanavir|drug
+DDI-DrugBank.d531.s21|0-28|Established Drug Interactions|group
+DDI-DrugBank.d531.s25|0-13|Clarithromycin|drug
+DDI-DrugBank.d531.s26|0-13|clarithromycin|drug
+DDI-DrugBank.d531.s27|0-6|SUSTIVA|drug
+DDI-DrugBank.d531.s28|0-6|unknown|drug_n
+DDI-DrugBank.d531.s29|0-6|SUSTIVA|drug
+DDI-DrugBank.d531.s29|102-25||drug
+DDI-DrugBank.d531.s29|114-95||drug
+DDI-DrugBank.d531.s30|0-6|SUSTIVA|drug
+DDI-DrugBank.d531.s30|31-37|SUSTIVA|drug
+DDI-DrugBank.d531.s30|70-83|clarithromycin|drug
+DDI-DrugBank.d531.s31|0-29|Alternatives to clarithromycin|group
+DDI-DrugBank.d531.s31|40-51|azithromycin|drug
+DDI-DrugBank.d531.s32|0-26|Other macrolide antibiotics|group
+DDI-DrugBank.d531.s32|37-48|erythromycin|drug
+DDI-DrugBank.d531.s32|93-99|SUSTIVA|brand
+DDI-DrugBank.d531.s34|0-4|14-OH|drug_n
+DDI-DrugBank.d531.s35|0-8|Indinavir|drug
+DDI-DrugBank.d531.s36|0-8|indinavir|drug
+DDI-DrugBank.d531.s37|0-8|indinavir|drug
+DDI-DrugBank.d531.s37|42-48|SUSTIVA|brand
+DDI-DrugBank.d531.s38|0-8|Indinavir|drug
+DDI-DrugBank.d531.s38|78-86|indinavir|drug
+DDI-DrugBank.d531.s38|106-112|SUSTIVA|brand
+DDI-DrugBank.d531.s39|0-8|Indinavir|drug
+DDI-DrugBank.d531.s39|70-76|SUSTIVA|brand
+DDI-DrugBank.d531.s39|103-111|indinavir|drug
+DDI-DrugBank.d531.s39|205-213|indinavir|drug
+DDI-DrugBank.d531.s40|0-12|NVP-Lopinavir|drug
+DDI-DrugBank.d531.s41|0-8|lopinavir|drug
+DDI-DrugBank.d531.s42|0-8|lopinavir|drug
+DDI-DrugBank.d531.s42|57-2||drug
+DDI-DrugBank.d531.s42|170-11||drug
+DDI-DrugBank.d531.s43|0-8|Methadone|drug
+DDI-DrugBank.d531.s44|0-8|methadone|drug
+DDI-DrugBank.d531.s45|121-129|methadone|drug
+DDI-DrugBank.d531.s46|0-8|Methadone|drug
+DDI-DrugBank.d531.s47|63-71|methadone|drug
+DDI-DrugBank.d531.s48|0-16|Ethinyl estradiol|drug
+DDI-DrugBank.d531.s49|0-16|ethinyl estradiol|drug_n
+DDI-DrugBank.d531.s50|35-41|Nefuven|drug
+DDI-DrugBank.d531.s50|60-68|efavirenz|drug
+DDI-DrugBank.d531.s52|0-8|efavirenz|drug
+DDI-DrugBank.d531.s52|47-55|efavirenz|drug
+DDI-DrugBank.d531.s53|0-8|Rifabutin|drug
+DDI-DrugBank.d531.s54|0-8|rifabutin|drug_n
+DDI-DrugBank.d531.s55|0-8|rifabutin|drug
+DDI-DrugBank.d531.s55|33-41|rifabutin|drug
+DDI-DrugBank.d531.s56|0-8|rifabutin|drug
+DDI-DrugBank.d531.s56|33-41|rifabutin|drug
+DDI-DrugBank.d531.s57|0-7|Rifampin|drug
+DDI-DrugBank.d531.s58|0-8|efavirenz|drug
+DDI-DrugBank.d531.s59|0-8|efavirenz|drug
+DDI-DrugBank.d531.s60|0-8|Ritonavir|drug
+DDI-DrugBank.d531.s61|0-8|ritonavir|drug_n
+DDI-DrugBank.d531.s62|0-10|Combination|group
+DDI-DrugBank.d531.s62|88-96|dizziness|drug
+DDI-DrugBank.d531.s62|120-104||drug
+DDI-DrugBank.d531.s63|0-6|SUSTIVA|drug
+DDI-DrugBank.d531.s63|84-20||drug
+DDI-DrugBank.d531.s63|120-77||drug
+DDI-DrugBank.d531.s64|0-8|efavirenz|drug
+DDI-DrugBank.d531.s65|0-9|Saquinavir|drug
+DDI-DrugBank.d531.s66|0-9|saquinavir|drug
+DDI-DrugBank.d531.s67|66-72|SUSTIVA|drug
+DDI-DrugBank.d531.s68|0-9|Sertraline|drug
+DDI-DrugBank.d531.s69|0-9|sertraline|drug
+DDI-DrugBank.d531.s70|0-9|sertraline|drug
+DDI-DrugBank.d531.s71|82-89|SUSTIVAB|brand
+DDI-DrugBank.d531.s72|0-13|Anticoagulants|group
+DDI-DrugBank.d531.s73|0-10|NB: SUSTIVA|drug
+DDI-DrugBank.d531.s74|0-14|Anticonvulsants|group
+DDI-DrugBank.d531.s74|41-25||drug
+DDI-DrugBank.d531.s74|52-36||drug
+DDI-DrugBank.d531.s75|0-8|efavirenz|drug
+DDI-DrugBank.d531.s75|60-68|efavirenz|drug
+DDI-DrugBank.d531.s76|0-13|Anticonvulsant|group
+DDI-DrugBank.d531.s77|0-10|Antifungals|group
+DDI-DrugBank.d531.s77|40-24||drug
+DDI-DrugBank.d531.s78|0-1|NB|drug
+DDI-DrugBank.d531.s78|33-39|SUSTIVA|drug
+DDI-DrugBank.d531.s78|74-84|antifungals|group
+DDI-DrugBank.d531.s79|0-16|NB: No Brand Name|drug
+DDI-DrugBank.d531.s79|81-92|itraconazole|drug
+DDI-DrugBank.d531.s80|0-27|Anti-HIV protease inhibitors|group
+DDI-DrugBank.d531.s82|0-9|Amprenavir|drug
+DDI-DrugBank.d531.s83|0-1|NB|drug
+DDI-DrugBank.d531.s83|67-76|amprenavir|drug
+DDI-DrugBank.d531.s84|0-46|Non-nucleoside reverse transcriptase inhibitors|group
+DDI-DrugBank.d531.s85|42-47|NNRTIs|drug_n
+DDI-DrugBank.d531.s86|0-14|St. John's wort|drug
+DDI-DrugBank.d531.s87|0-8|efavirenz|drug
+DDI-DrugBank.d531.s87|52-58|SUSTIVA|drug
+DDI-DrugBank.d531.s90|0-10|Other Drugs|group
+DDI-DrugBank.d531.s90|104-110|SUSTIVA|drug
+DDI-DrugBank.d531.s90|218-227|cetirizine|drug
+DDI-DrugBank.d531.s90|307-240||drug
+DDI-DrugBank.d531.s91|0-4|NRTIs|drug
+DDI-DrugBank.d531.s91|17-26|lamivudine|drug
+DDI-DrugBank.d531.s91|120-126|SUSTIVA|brand
+DDI-DrugBank.d531.s91|162-41||drug
+DDI-DrugBank.d531.s91|177-129||drug
+DDI-DrugBank.d531.s92|0-4|NRTIs|group
+DDI-DrugBank.d531.s92|49-57|efavirenz|drug
+DDI-DrugBank.d107.s0|252-260|enalapril|drug
+DDI-DrugBank.d107.s1|0-8|enalapril|drug
+DDI-DrugBank.d107.s1|83-23||drug
+DDI-DrugBank.d107.s1|96-78||drug
+DDI-DrugBank.d107.s1|230-93||drug
+DDI-DrugBank.d107.s1|243-225||drug
+DDI-DrugBank.d107.s3|0-8|Enalapril|drug
+DDI-DrugBank.d107.s4|0-37|Non-steroidal Anti-inflammatory Agents|group
+DDI-DrugBank.d107.s4|116-151|nonsteroidal anti-inflammatory drugs|group
+DDI-DrugBank.d107.s6|0-11|Indomethacin|drug
+DDI-DrugBank.d107.s6|90-96|VASOTEC|brand
+DDI-DrugBank.d107.s7|84-90|VASOTEC|brand
+DDI-DrugBank.d107.s8|0-5|NSAIDs|group
+DDI-DrugBank.d107.s8|51-64|ACE inhibitors|group
+DDI-DrugBank.d107.s9|66-71|NSAIDs|group
+DDI-DrugBank.d107.s9|92-105|ACE inhibitors|group
+DDI-DrugBank.d107.s10|0-26|Other Cardiovascular Agents|group
+DDI-DrugBank.d107.s10|56-37||drug
+DDI-DrugBank.d107.s11|0-8|Enalapril|drug
+DDI-DrugBank.d107.s11|46-54|digitalis|drug
+DDI-DrugBank.d107.s12|0-32|Agents Increasing Serum Potassium|group
+DDI-DrugBank.d107.s13|0-26|Potassium-sparing diuretics|group
+DDI-DrugBank.d107.s13|35-48|spironolactone|drug
+DDI-DrugBank.d107.s13|80-61||drug
+DDI-DrugBank.d107.s14|167-175|potassium|drug
+DDI-DrugBank.d107.s15|0-23|Potassium sparing agents|group
+DDI-DrugBank.d107.s15|95-103|enalapril|drug
+DDI-DrugBank.d107.s16|0-6|Lithium|drug
+DDI-DrugBank.d107.s16|66-72|lithium|drug
+DDI-DrugBank.d107.s16|144-157|ACE inhibitors|group
+DDI-DrugBank.d107.s17|0-8|Enalapril|drug
+DDI-DrugBank.d107.s17|36-42|lithium|drug
+DDI-DrugBank.d107.s17|78-86|enalapril|drug
+DDI-DrugBank.d107.s17|123-129|lithium|drug
+DDI-DrugBank.d395.s0|0-6|Bismuth|drug
+DDI-DrugBank.d395.s1|0-7|Enoxacin|drug
+DDI-DrugBank.d395.s2|0-7|Caffeine|drug
+DDI-DrugBank.d395.s3|0-7|Enoxacin|drug
+DDI-DrugBank.d395.s3|77-84|caffeine|drug
+DDI-DrugBank.d395.s3|123-130|caffeine|drug
+DDI-DrugBank.d395.s3|213-220|caffeine|drug
+DDI-DrugBank.d395.s4|0-7|Enoxacin|drug
+DDI-DrugBank.d395.s4|69-76|enoxacin|drug
+DDI-DrugBank.d395.s5|0-7|Caffeine|drug
+DDI-DrugBank.d395.s5|69-76|caffeine|drug
+DDI-DrugBank.d395.s5|100-107|enoxacin|drug
+DDI-DrugBank.d395.s6|0-11|Cyclosporine|drug
+DDI-DrugBank.d395.s6|39-50|cyclosporine|drug
+DDI-DrugBank.d395.s6|95-106|cyclosporine|drug
+DDI-DrugBank.d395.s7|0-6|Digoxin|drug
+DDI-DrugBank.d395.s7|47-16||drug
+DDI-DrugBank.d395.s8|0-6|digoxin|drug
+DDI-DrugBank.d395.s8|63-77|antidepressants|group
+DDI-DrugBank.d395.s8|119-93||group
+DDI-DrugBank.d395.s8|143-153|propafenone|drug
+DDI-DrugBank.d395.s9|0-37|Non-steroidal anti-inflammatory agents|group
+DDI-DrugBank.d395.s9|87-94|enoxacin|drug
+DDI-DrugBank.d395.s9|119-153|nonsteroidal anti-inflammatory drug|drug
+DDI-DrugBank.d395.s10|0-13|Animal studies|drug
+DDI-DrugBank.d395.s10|79-83|drugs|drug_n
+DDI-DrugBank.d395.s11|0-7|Fenbufen|drug
+DDI-DrugBank.d395.s12|0-9|Sucralfate|drug
+DDI-DrugBank.d395.s12|40-22||group
+DDI-DrugBank.d395.s13|29-38|quinolones|drug
+DDI-DrugBank.d395.s13|88-95|aluminum|drug_n
+DDI-DrugBank.d395.s14|5-15|sucrelafate|drug
+DDI-DrugBank.d395.s15|71-74|iron|drug
+DDI-DrugBank.d395.s16|0-3|Zinc|drug
+DDI-DrugBank.d395.s16|99-107|quinolone|drug_n
+DDI-DrugBank.d395.s17|0-7|Antacids|group
+DDI-DrugBank.d395.s17|93-100|enoxacin|drug
+DDI-DrugBank.d395.s18|0-7|Enoxacin|drug
+DDI-DrugBank.d395.s18|76-85|ranitidine|drug
+DDI-DrugBank.d395.s19|73-80|enoxacin|drug
+DDI-DrugBank.d395.s20|0-11|Theophylline|drug
+DDI-DrugBank.d395.s20|112-126|methylxanthines|drug_n
+DDI-DrugBank.d395.s21|0-7|Enoxacin|drug
+DDI-DrugBank.d395.s21|43-54|theophylline|drug
+DDI-DrugBank.d395.s22|0-11|Theophylline|drug
+DDI-DrugBank.d395.s22|68-79|theophylline|drug
+DDI-DrugBank.d395.s23|0-7|Warfarin|drug
+DDI-DrugBank.d395.s23|47-54|enoxacin|drug
+DDI-DrugBank.d395.s23|83-92|R-warfarin|drug
+DDI-DrugBank.d395.s23|129-136|warfarin|drug
+DDI-DrugBank.d395.s24|0-7|Enoxacin|drug
+DDI-DrugBank.d395.s24|120-127|enoxacin|drug
+DDI-DrugBank.d395.s25|0-7|warfarin|drug
+DDI-DrugBank.d395.s25|32-39|enoxacin|drug
+DDI-DrugBank.d395.s25|137-144|warfarin|drug
+DDI-DrugBank.d395.s25|169-176|enoxacin|drug
+DDI-DrugBank.d241.s0|0-5|FLOLAN|drug
+DDI-DrugBank.d241.s0|91-113|antihypertensive agents|group
+DDI-DrugBank.d241.s1|11-29|antiplatelet agents|group
+DDI-DrugBank.d241.s1|115-120|FLOLAN|drug
+DDI-DrugBank.d241.s2|41-46|FLOLAN|drug
+DDI-DrugBank.d241.s2|86-99|anticoagulants|group
+DDI-DrugBank.d241.s4|0-9|furosemide|drug
+DDI-DrugBank.d241.s5|0-6|digoxin|drug
+DDI-DrugBank.d241.s5|21-27|digoxin|drug
+DDI-DrugBank.d241.s5|52-58|digoxin|drug
+DDI-DrugBank.d241.s5|108-113|FLOLAN|drug_n
+DDI-DrugBank.d525.s0|0-9|Eprosartan|drug
+DDI-DrugBank.d525.s0|71-77|digoxin|drug
+DDI-DrugBank.d525.s0|107-114|warfarin|drug
+DDI-DrugBank.d525.s2|0-9|eprosartan|drug
+DDI-DrugBank.d525.s2|141-152|ketoconazole|drug
+DDI-DrugBank.d525.s2|271-168||drug
+DDI-DrugBank.d525.s3|0-9|Ranitidine|drug
+DDI-DrugBank.d525.s3|33-42|eprosartan|drug
+DDI-DrugBank.d525.s4|0-9|Eprosartan|drug
+DDI-DrugBank.d525.s4|97-113|thiazide diuretic|drug
+DDI-DrugBank.d525.s5|0-9|Eprosartan|drug
+DDI-DrugBank.d278.s0|0-9|Enoxaparin|drug
+DDI-DrugBank.d278.s0|113-124|eptifibatide|drug
+DDI-DrugBank.d152.s0|0-41|Certain endocrine and liver function tests|group
+DDI-DrugBank.d152.s0|62-100|estrogen-containing oral contraceptives|group
+DDI-DrugBank.d152.s1|67-74|estrogen|drug
+DDI-DrugBank.d152.s2|10-20|prothrombin|drug
+DDI-DrugBank.d152.s3|0-24|decreased antithrombin 3;|drug
+DDI-DrugBank.d152.s5|0-33|increased thyroid binding globulin|drug
+DDI-DrugBank.d152.s5|112-114|PBI|drug
+DDI-DrugBank.d152.s5|147-118||drug
+DDI-DrugBank.d152.s6|59-61|TBG|drug_n
+DDI-DrugBank.d152.s7|5-6|T4|drug
+DDI-DrugBank.d152.s8|0-11|pregnanediol|drug
+DDI-DrugBank.d152.s9|0-9|metyrapone|drug
+DDI-DrugBank.d152.s10|0-5|folate|drug
+DDI-DrugBank.d152.s11|0-58|increased serum triglyceride and phospholipid concentration|drug
+DDI-DrugBank.d359.s0|0-7|PEGANONE|drug
+DDI-DrugBank.d359.s1|0-7|PEGANONE|drug
+DDI-DrugBank.d359.s1|43-51|Phenurone|drug
+DDI-DrugBank.d359.s2|0-56|A two-way interaction between the hydantoin antiepileptic|group
+DDI-DrugBank.d359.s2|91-49||group
+DDI-DrugBank.d359.s3|0-8|Phenytoin|drug
+DDI-DrugBank.d359.s4|0-26|The coumarin anticoagulants|group
+DDI-DrugBank.d359.s4|111-119|phenytoin|drug
+DDI-DrugBank.d359.s5|74-81|ethotoin|drug
+DDI-DrugBank.d359.s5|91-113|coumarin anticoagulants|group
+DDI-DrugBank.d359.s6|0-7|PEGANONE|drug
+DDI-DrugBank.d219.s0|0-13|ACE-inhibitors|group
+DDI-DrugBank.d219.s0|87-100|ACE-inhibitors|group
+DDI-DrugBank.d219.s1|92-105|ACE-inhibitors|group
+DDI-DrugBank.d219.s2|0-7|Antacids|group
+DDI-DrugBank.d219.s2|44-51|antacids|group
+DDI-DrugBank.d219.s2|107-112|Lodine|drug
+DDI-DrugBank.d219.s3|9-16|antacids|group
+DDI-DrugBank.d219.s4|0-6|Aspirin|drug
+DDI-DrugBank.d219.s4|14-19|Lodine|brand
+DDI-DrugBank.d219.s4|42-48|aspirin|drug
+DDI-DrugBank.d219.s6|31-36|Lodine|brand
+DDI-DrugBank.d219.s7|0-11|Cyclosporine|drug
+DDI-DrugBank.d219.s7|40-20||drug
+DDI-DrugBank.d219.s7|54-38||drug
+DDI-DrugBank.d219.s7|210-46||drug
+DDI-DrugBank.d219.s7|224-208||drug
+DDI-DrugBank.d219.s7|233-217||drug
+DDI-DrugBank.d219.s8|0-13|Nephrotoxicity|drug
+DDI-DrugBank.d219.s8|31-42|cyclosporine|drug
+DDI-DrugBank.d219.s9|0-5|Lodine|drug
+DDI-DrugBank.d219.s9|21-26|NSAIDs|group
+DDI-DrugBank.d219.s9|165-169|drugs|group
+DDI-DrugBank.d219.s10|0-8|Diuretics|group
+DDI-DrugBank.d219.s10|100-18||drug
+DDI-DrugBank.d219.s10|114-96||drug
+DDI-DrugBank.d219.s11|0-5|Lodine|drug
+DDI-DrugBank.d219.s11|62-67|Lodine|drug
+DDI-DrugBank.d219.s11|106-115|furosemide|drug
+DDI-DrugBank.d219.s13|32-37|NSAIDs|group
+DDI-DrugBank.d219.s14|0-8|Glyburide|drug
+DDI-DrugBank.d219.s14|87-95|glyburide|drug
+DDI-DrugBank.d219.s15|0-6|Lithium|drug
+DDI-DrugBank.d219.s15|53-59|Lithium|drug
+DDI-DrugBank.d219.s15|93-99|Lithium|drug
+DDI-DrugBank.d219.s16|17-23|Lithium|drug
+DDI-DrugBank.d219.s17|89-93|NSAID|group
+DDI-DrugBank.d219.s18|0-5|NSAIDs|group
+DDI-DrugBank.d219.s18|114-17||drug
+DDI-DrugBank.d219.s19|0-13|Phenylbutazone|drug
+DDI-DrugBank.d219.s19|86-93|etodolac|drug
+DDI-DrugBank.d219.s20|0-7|etodolac|drug
+DDI-DrugBank.d219.s20|112-125|phenylbutazone|drug
+DDI-DrugBank.d219.s21|0-8|Phenytoin|drug
+DDI-DrugBank.d219.s21|100-18||drug
+DDI-DrugBank.d219.s22|0-7|Warfarin|drug
+DDI-DrugBank.d219.s22|25-32|warfarin|drug
+DDI-DrugBank.d219.s23|0-7|Warfarin|drug
+DDI-DrugBank.d219.s23|156-163|warfarin|drug
+DDI-DrugBank.d219.s23|261-268|warfarin|drug
+DDI-DrugBank.d219.s23|320-327|warfarin|drug
+DDI-DrugBank.d219.s24|0-7|warfarin|drug
+DDI-DrugBank.d219.s24|32-39|warfarin|drug
+DDI-DrugBank.d219.s24|59-64|Lodine|brand
+DDI-DrugBank.d219.s25|31-38|warfarin|drug
+DDI-DrugBank.d219.s25|113-116|drug|drug
+DDI-DrugBank.d219.s26|0-7|Etodolac|drug
+DDI-DrugBank.d219.s26|158-165|etodolac|drug
+DDI-DrugBank.d219.s27|0-5|Lodine|drug
+DDI-DrugBank.d219.s27|122-129|etodolac|drug
+DDI-DrugBank.d219.s28|0-5|Lodine|drug
+DDI-DrugBank.d219.s28|117-122|Lodine|drug
+DDI-DrugBank.d219.s29|0-8|Generally|drug_n
+DDI-DrugBank.d219.s31|0-5|Lodine|drug
+DDI-DrugBank.d219.s32|0-7|etodolac|drug
+DDI-DrugBank.d104.s0|0-11|Fenfluramine|drug
+DDI-DrugBank.d104.s0|49-70|antihypertensive drugs|group
+DDI-DrugBank.d104.s0|79-90|guanethidine|drug
+DDI-DrugBank.d104.s0|118-102||drug
+DDI-DrugBank.d104.s1|0-25|Other CNS depressant drugs|group
+DDI-DrugBank.d104.s1|74-85|fenfluramine|drug
+DDI-DrugBank.d546.s0|0-9|Fenoldopam|drug
+DDI-DrugBank.d546.s0|31-40|fenoldopam|drug
+DDI-DrugBank.d546.s1|7-11|drugs|drug
+DDI-DrugBank.d546.s2|0-9|fenoldopam|drug
+DDI-DrugBank.d546.s2|102-106|drugs|group
+DDI-DrugBank.d546.s3|77-90|alpha-blockers|group
+DDI-DrugBank.d546.s3|134-116||group
+DDI-DrugBank.d546.s3|154-132||group
+DDI-DrugBank.d776.s0|0-7|DIFLUCAN|drug
+DDI-DrugBank.d776.s0|107-114|DIFLUCAN|drug
+DDI-DrugBank.d776.s1|0-7|Nystatin|drug
+DDI-DrugBank.d776.s2|0-4|These|group
+DDI-DrugBank.d776.s2|51-63|hypoglycemics|group
+DDI-DrugBank.d776.s2|235-252|oral hypoglycemics|group
+DDI-DrugBank.d776.s2|325-332|DIFLUCAN|drug
+DDI-DrugBank.d776.s2|339-362|oral hypoglycemic agents|group
+DDI-DrugBank.d776.s3|0-2|N/A|drug
+DDI-DrugBank.d776.s3|82-89|DIFLUCAN|drug
+DDI-DrugBank.d776.s4|0-7|Nystatin|drug
+DDI-DrugBank.d776.s4|35-45|tolbutamide|drug
+DDI-DrugBank.d776.s4|76-56||drug
+DDI-DrugBank.d776.s5|0-4|Nafis|drug
+DDI-DrugBank.d776.s5|11-18|DIFLUCAN|drug
+DDI-DrugBank.d776.s5|62-98|sulfonylurea oral hypoglycemic agents|group
+DDI-DrugBank.d776.s5|180-191|sulfonylurea|group
+DDI-DrugBank.d776.s6|0-27|Coumarin-type anticoagulants|group
+DDI-DrugBank.d776.s6|98-105|DRYWFLAC|drug
+DDI-DrugBank.d776.s7|0-16|Azole antifungals|group
+DDI-DrugBank.d776.s7|63-79|azole antifungals|group
+DDI-DrugBank.d776.s7|261-271|fluconazole|drug
+DDI-DrugBank.d776.s8|0-7|DIFLUCAN|drug
+DDI-DrugBank.d776.s8|104-111|DIFLUCAN|drug
+DDI-DrugBank.d776.s10|0-8|Phenytoin|drug
+DDI-DrugBank.d776.s10|59-67|phenytoin|drug
+DDI-DrugBank.d776.s11|0-7|Nystatin|drug
+DDI-DrugBank.d776.s11|93-100|DIFLUCAN|drug
+DDI-DrugBank.d776.s13|0-11|Cyclosporine|drug
+DDI-DrugBank.d776.s13|50-61|cyclosporine|drug
+DDI-DrugBank.d776.s14|0-11|Cyclosporine|drug
+DDI-DrugBank.d776.s14|87-94|DIFLUCAN|brand
+DDI-DrugBank.d776.s15|1-3|See|drug
+DDI-DrugBank.d776.s16|0-7|Rifampin|drug
+DDI-DrugBank.d776.s16|72-77|NIFLAM|drug
+DDI-DrugBank.d776.s17|0-7|DIFLUCAN|drug
+DDI-DrugBank.d776.s17|102-109|DIFLUCAN|drug
+DDI-DrugBank.d776.s18|0-11|Theophylline|drug
+DDI-DrugBank.d776.s18|61-72|theophylline|drug
+DDI-DrugBank.d776.s19|0-7|DIFLUCAN|drug
+DDI-DrugBank.d776.s19|118-24||drug
+DDI-DrugBank.d776.s20|0-10|Terfenadine|drug
+DDI-DrugBank.d776.s20|145-155|antifungals|group
+DDI-DrugBank.d776.s20|177-187|terfenadine|drug
+DDI-DrugBank.d776.s21|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s21|49-59|fluconazole|drug
+DDI-DrugBank.d776.s22|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s22|90-23||drug
+DDI-DrugBank.d776.s22|120-87||drug
+DDI-DrugBank.d776.s23|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s23|47-57|terfenadine|drug
+DDI-DrugBank.d776.s24|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s24|48-58|terfenadine|drug
+DDI-DrugBank.d776.s25|0-8|Cisapride|drug
+DDI-DrugBank.d776.s25|103-113|fluconazole|drug
+DDI-DrugBank.d776.s26|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s26|34-42|cisapride|drug
+DDI-DrugBank.d776.s26|101-109|cisapride|drug
+DDI-DrugBank.d776.s27|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s27|17-25|cisapride|drug
+DDI-DrugBank.d776.s28|0-9|Astemizole|drug
+DDI-DrugBank.d776.s28|23-33|fluconazole|drug
+DDI-DrugBank.d776.s28|67-76|astemizole|drug
+DDI-DrugBank.d776.s29|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s29|99-109|Fluconazole|drug
+DDI-DrugBank.d776.s31|0-8|Rifabutin|drug
+DDI-DrugBank.d776.s31|66-76|fluconazole|drug
+DDI-DrugBank.d776.s32|0-8|rifabutin|drug
+DDI-DrugBank.d776.s33|0-9|Tacrolimus|drug
+DDI-DrugBank.d776.s33|74-84|fluconazole|drug
+DDI-DrugBank.d776.s34|0-9|tacrolimus|drug
+DDI-DrugBank.d776.s35|0-27|Short-acting Benzodiazepines|group
+DDI-DrugBank.d776.s35|63-71|midazolam|drug
+DDI-DrugBank.d776.s35|136-84||drug
+DDI-DrugBank.d776.s36|0-8|Midazolam|drug
+DDI-DrugBank.d776.s36|41-51|fluconazole|drug
+DDI-DrugBank.d776.s36|86-96|fluconazole|drug
+DDI-DrugBank.d776.s36|108-118|fluconazole|drug
+DDI-DrugBank.d776.s37|16-30|benzodiazepines|group
+DDI-DrugBank.d776.s37|122-132|fluconazole|drug
+DDI-DrugBank.d776.s38|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s38|146-162|ethinyl estradiol|drug
+DDI-DrugBank.d776.s39|68-84|ethinyl estradiol|drug
+DDI-DrugBank.d776.s41|0-10|Fluconazole|drug
+DDI-DrugBank.d776.s41|41-51|fluconazole|drug
+DDI-DrugBank.d776.s41|83-99|ethinyl estradiol|drug
+DDI-DrugBank.d776.s41|160-118||drug
+DDI-DrugBank.d776.s41|192-157||drug
+DDI-DrugBank.d776.s41|213-195||drug
+DDI-DrugBank.d776.s43|0-5|flucon|drug
+DDI-DrugBank.d78.s0|0-7|Antacids|group
+DDI-DrugBank.d78.s0|35-0||group
+DDI-DrugBank.d78.s0|54-32||group
+DDI-DrugBank.d78.s1|0-9|quinolones|drug
+DDI-DrugBank.d78.s1|29-38|quinolones|drug
+DDI-DrugBank.d78.s1|103-112|sucralfate|drug
+DDI-DrugBank.d78.s1|266-270|VIDEX|brand
+DDI-DrugBank.d78.s1|405-414|quinolones|drug
+DDI-DrugBank.d78.s2|72-84|grepafloxacin|drug
+DDI-DrugBank.d78.s3|0-7|Caffeine|drug
+DDI-DrugBank.d78.s3|36-20||drug
+DDI-DrugBank.d78.s3|62-71|quinolones|group
+DDI-DrugBank.d78.s3|104-35||drug
+DDI-DrugBank.d78.s3|117-98||drug
+DDI-DrugBank.d78.s4|6-15|stimulants|group
+DDI-DrugBank.d78.s5|112-119|caffeine|drug
+DDI-DrugBank.d78.s6|0-11|Theophylline|drug
+DDI-DrugBank.d78.s6|89-26||drug
+DDI-DrugBank.d78.s7|0-17|Serum theophylline|drug
+DDI-DrugBank.d78.s7|48-60|grepafloxacin|drug
+DDI-DrugBank.d78.s8|0-12|Grepafloxacin|drug
+DDI-DrugBank.d78.s8|83-29||drug
+DDI-DrugBank.d78.s8|225-82||drug
+DDI-DrugBank.d78.s9|0-7|Warfarin|drug
+DDI-DrugBank.d78.s9|32-39|warfarin|drug
+DDI-DrugBank.d78.s10|22-31|quinolones|group
+DDI-DrugBank.d78.s10|196-218|quinolone antimicrobial|group
+DDI-DrugBank.d78.s11|0-12|Grepafloxacin|drug
+DDI-DrugBank.d78.s11|123-134|Theophylline|drug
+DDI-DrugBank.d78.s11|172-184|grepafloxacin|drug
+DDI-DrugBank.d78.s11|230-200||drug
+DDI-DrugBank.d78.s11|253-229||drug
+DDI-DrugBank.d78.s12|126-131|C.P.A.|drug_n
+DDI-DrugBank.d78.s13|0-12|grepafloxacin|drug
+DDI-DrugBank.d78.s13|56-68|grepafloxacin|drug
+DDI-DrugBank.d78.s14|0-15|Other quinolones|group
+DDI-DrugBank.d78.s14|82-93|cyclosporine|drug
+DDI-DrugBank.d78.s15|0-10|Other drugs|group
+DDI-DrugBank.d78.s15|27-32|C.P.A.|drug_n
+DDI-DrugBank.d78.s16|0-10|terfenadine|drug
+DDI-DrugBank.d78.s16|38-22||drug
+DDI-DrugBank.d78.s16|49-33||drug
+DDI-DrugBank.d78.s16|64-44||drug
+DDI-DrugBank.d78.s17|137-139|CPA|drug
+DDI-DrugBank.d78.s18|0-12|grepafloxacin|drug
+DDI-DrugBank.d78.s18|76-81|C.P.A.|group
+DDI-DrugBank.d78.s18|125-137|grepafloxacin|drug
+DDI-DrugBank.d78.s19|0-35|Nonsteroidal Anti-inflammatory Drugs|group
+DDI-DrugBank.d78.s19|83-117|nonsteroidal anti inflammatory drug|group
+DDI-DrugBank.d78.s19|126-134|quinolone|group
+DDI-DrugBank.d78.s20|0-18|Antidiabetic Agents|group
+DDI-DrugBank.d78.s20|62-74|hyperglycemia|drug
+DDI-DrugBank.d78.s20|165-174|quinolones|group
+DDI-DrugBank.d78.s20|183-200|antidiabetic agent|group
+DDI-DrugBank.d78.s21|0-11|These agents|group
+DDI-DrugBank.d78.s21|90-103|coadministered|group
+DDI-DrugBank.d302.s0|0-11|guanethidine|drug
+DDI-DrugBank.d186.s0|261-267|lithium|drug
+DDI-DrugBank.d186.s0|274-279|HALDOL|brand
+DDI-DrugBank.d186.s1|81-87|lithium|drug
+DDI-DrugBank.d186.s2|172-177|appear|drug_n
+DDI-DrugBank.d186.s3|0-5|HALDOL|drug
+DDI-DrugBank.d186.s3|22-41|antipsychotic agents|group
+DDI-DrugBank.d186.s3|68-73|HALDOL|drug
+DDI-DrugBank.d186.s3|156-162|alcohol|drug
+DDI-DrugBank.d186.s4|0-10|Haloperidol|drug
+DDI-DrugBank.d186.s4|46-23||drug
+DDI-DrugBank.d186.s5|52-62|haloperidol|drug
+DDI-DrugBank.d186.s5|110-75||drug
+DDI-DrugBank.d186.s5|156-104||drug
+DDI-DrugBank.d186.s6|0-7|rifampin|drug
+DDI-DrugBank.d186.s6|72-79|rifampin|drug
+DDI-DrugBank.d514.s0|0-6|Opioids|group
+DDI-DrugBank.d514.s0|134-140|dosages|group
+DDI-DrugBank.d514.s1|62-67|heroin|drug
+DDI-DrugBank.d514.s2|0-5|Heroin|drug
+DDI-DrugBank.d514.s2|105-111|alcohol|drug
+DDI-DrugBank.d514.s2|138-145|diazepam|drug
+DDI-DrugBank.d514.s2|197-205|methadone|drug
+DDI-DrugBank.d514.s3|0-14|Benzodiazepines|group
+DDI-DrugBank.d514.s3|51-56|heroin|drug
+DDI-DrugBank.d514.s4|0-6|Cocaine|drug
+DDI-DrugBank.d514.s4|67-72|heroin|drug
+DDI-DrugBank.d17.s0|0-13|Anticoagulants|group
+DDI-DrugBank.d17.s1|1-7|Effects|drug
+DDI-DrugBank.d17.s1|54-71|thiazide diuretics|group
+DDI-DrugBank.d17.s2|0-17|dosage adjustments|drug
+DDI-DrugBank.d17.s3|0-19|Antigout medications|group
+DDI-DrugBank.d17.s4|49-57|uric acid|drug
+DDI-DrugBank.d17.s5|0-19|Antigout medications|group
+DDI-DrugBank.d17.s5|43-62|antigout medications|group
+DDI-DrugBank.d17.s6|0-27|Antihypertensive medications|group
+DDI-DrugBank.d17.s6|48-56|diazoxide|drug
+DDI-DrugBank.d17.s7|56-73|thiazide diuretics|group
+DDI-DrugBank.d17.s8|0-17|dosage adjustments|drug
+DDI-DrugBank.d17.s9|0-13|Amphotericin B|drug
+DDI-DrugBank.d17.s9|52-64|Corticotropin|brand
+DDI-DrugBank.d17.s10|1-24|Congestive heart failure|group
+DDI-DrugBank.d17.s10|38-55|thiazide diuretics|drug
+DDI-DrugBank.d17.s10|107-117|hypokalemia|group
+DDI-DrugBank.d17.s11|0-17|Cardiac glycosides|group
+DDI-DrugBank.d17.s12|1-18|Thiazide diuretics|drug
+DDI-DrugBank.d17.s12|41-58|thiazide diuretics|drug
+DDI-DrugBank.d17.s12|91-99|digitalis|drug
+DDI-DrugBank.d17.s13|0-9|Colestipol|drug
+DDI-DrugBank.d17.s14|1-3|May|drug
+DDI-DrugBank.d17.s14|48-65|thiazide diuretics|group
+DDI-DrugBank.d17.s15|0-9|colestipol|drug
+DDI-DrugBank.d17.s16|0-12|Hypoglycemics|group
+DDI-DrugBank.d17.s17|52-58|glucose|drug_n
+DDI-DrugBank.d17.s18|61-71|medications|group
+DDI-DrugBank.d17.s19|0-6|insulin|drug
+DDI-DrugBank.d17.s20|0-12|Lithium salts|drug_n
+DDI-DrugBank.d17.s21|1-14|Concurrent use|group
+DDI-DrugBank.d17.s21|95-101|lithium|drug
+DDI-DrugBank.d17.s22|0-10|Methenamine|drug
+DDI-DrugBank.d17.s23|1-18|Thiazide diuretics|drug
+DDI-DrugBank.d17.s24|0-36|Nonsteroidal anti-inflammatory agents|group
+DDI-DrugBank.d17.s25|1-16|In some patients|drug
+DDI-DrugBank.d17.s25|51-55|agent|drug
+DDI-DrugBank.d17.s25|165-173|diuretics|group
+DDI-DrugBank.d17.s26|0-17|hydroflumethiazide|drug
+DDI-DrugBank.d17.s27|0-13|Norepinephrine|drug
+DDI-DrugBank.d17.s28|1-9|Thiazides|group
+DDI-DrugBank.d17.s28|51-64|norepinephrine|drug
+DDI-DrugBank.d17.s30|0-11|Tubocurarine|drug
+DDI-DrugBank.d17.s31|0-13|Thiazide drugs|group
+DDI-DrugBank.d17.s31|50-61|tubocurarine|drug
+DDI-DrugBank.d17.s32|0-4|Blood|drug
+DDI-DrugBank.d17.s32|118-14||drug
+DDI-DrugBank.d17.s32|181-119||drug
+DDI-DrugBank.d17.s32|301-180||drug
+DDI-DrugBank.d17.s32|344-302||drug
+DDI-DrugBank.d17.s32|361-345||drug
+DDI-DrugBank.d17.s32|376-356||drug
+DDI-DrugBank.d17.s33|0-14|serum magnesium|drug
+DDI-DrugBank.d17.s33|104-112|decreased|drug
+DDI-DrugBank.d418.s0|0-2|N/A|drug
+DDI-DrugBank.d418.s0|65-72|Cyanokit|brand
+DDI-DrugBank.d308.s0|0-10|Hydroxyzine|drug
+DDI-DrugBank.d308.s0|116-124|narcotics|group
+DDI-DrugBank.d308.s0|171-182|barbiturates|drug
+DDI-DrugBank.d308.s1|86-96|hydroxyzine|drug
+DDI-DrugBank.d308.s2|0-5|Atarax|drug
+DDI-DrugBank.d308.s2|51-54|drug|drug
+DDI-DrugBank.d308.s2|185-190|Atarax|drug
+DDI-DrugBank.d308.s3|65-84|CNS depressant drugs|group
+DDI-DrugBank.d308.s3|120-126|alcohol|drug
+DDI-DrugBank.d515.s0|102-111|ifosfamide|drug
+DDI-DrugBank.d515.s0|125-134|ifosfamide|drug
+DDI-DrugBank.d515.s0|210-224|cytotoxic drugs|group
+DDI-DrugBank.d549.s0|0-30|In studies in normal volunteers|drug
+DDI-DrugBank.d549.s0|94-101|iloprost|drug
+DDI-DrugBank.d549.s0|114-123|nifedipine|drug
+DDI-DrugBank.d549.s0|153-134||drug
+DDI-DrugBank.d549.s1|0-7|Iliprost|drug
+DDI-DrugBank.d549.s1|82-104|antihypertensive agents|group
+DDI-DrugBank.d549.s2|0-7|Iliprost|drug
+DDI-DrugBank.d549.s2|129-142|anticoagulants|group
+DDI-DrugBank.d549.s3|24-31|iloprost|drug
+DDI-DrugBank.d549.s3|60-73|anticoagulants|group
+DDI-DrugBank.d549.s3|102-84||group
+DDI-DrugBank.d549.s3|122-104||group
+DDI-DrugBank.d549.s3|148-130||group
+DDI-DrugBank.d549.s3|160-142||group
+DDI-DrugBank.d549.s3|174-156||group
+DDI-DrugBank.d549.s3|207-189||group
+DDI-DrugBank.d549.s4|0-9|Ilio prost|drug
+DDI-DrugBank.d549.s4|52-58|digoxin|drug
+DDI-DrugBank.d549.s5|0-19|Acetylsalicylic acid|drug
+DDI-DrugBank.d549.s5|71-78|iloprost|drug
+DDI-DrugBank.d549.s6|0-7|iloprost|drug_n
+DDI-DrugBank.d549.s6|81-88|iloprost|drug_n
+DDI-DrugBank.d97.s0|0-8|Indinavir|drug
+DDI-DrugBank.d97.s0|57-62|CYP3A4|drug_n
+DDI-DrugBank.d97.s1|0-5|Niacin|drug
+DDI-DrugBank.d97.s1|53-58|CYP3A4|group
+DDI-DrugBank.d97.s2|0-8|Indinavir|drug
+DDI-DrugBank.d97.s2|28-33|CYP3A4|drug_n
+DDI-DrugBank.d97.s3|0-4|Drugs|group
+DDI-DrugBank.d97.s3|18-23|CYP3A4|group
+DDI-DrugBank.d97.s3|81-89|indinavir|drug
+DDI-DrugBank.d97.s3|138-146|indinavir|drug
+DDI-DrugBank.d97.s4|0-7|CRIXIVAN|drug
+DDI-DrugBank.d97.s4|30-37|CRIXIVAN|drug
+DDI-DrugBank.d97.s4|68-73|CYP3A4|group
+DDI-DrugBank.d97.s4|105-113|indinavir|drug
+DDI-DrugBank.d97.s4|168-176|indinavir|drug
+DDI-DrugBank.d97.s6|0-52|Drugs That Should Not Be Coadministered with CRIXIVAN|group
+DDI-DrugBank.d97.s7|0-8|Drug Name|drug
+DDI-DrugBank.d97.s8|0-14|Antiarrhythmics|group
+DDI-DrugBank.d97.s9|132-150|cardiac arrhythmias|drug
+DDI-DrugBank.d97.s10|0-16|Ergot derivatives|group
+DDI-DrugBank.d97.s10|51-35||drug
+DDI-DrugBank.d97.s10|63-47||drug
+DDI-DrugBank.d97.s10|75-59||drug
+DDI-DrugBank.d97.s11|0-2|N/A|drug
+DDI-DrugBank.d97.s12|0-8|midazolam|drug
+DDI-DrugBank.d97.s13|0-2|N/A|drug
+DDI-DrugBank.d97.s14|0-8|cisapride|drug
+DDI-DrugBank.d97.s15|132-150|cardiac arrhythmias|drug
+DDI-DrugBank.d97.s16|0-7|pimozide|drug
+DDI-DrugBank.d97.s17|122-140|cardiac arrhythmias|group
+DDI-DrugBank.d97.s18|0-14|St. John's wort|drug
+DDI-DrugBank.d97.s19|66-73|CRIXIVAN|brand
+DDI-DrugBank.d97.s19|94-112|protease inhibitors|group
+DDI-DrugBank.d97.s20|0-7|rifampin|drug
+DDI-DrugBank.d97.s21|66-73|CRIXIVAN|brand
+DDI-DrugBank.d97.s21|138-158|antiretroviral agents|group
+DDI-DrugBank.d97.s22|0-27|HMG-CoA Reductase inhibitors|group
+DDI-DrugBank.d97.s22|55-39||drug
+DDI-DrugBank.d97.s23|67-80|rhabdomyolysis|drug
+DDI-DrugBank.d97.s24|0-9|Atazanavir|drug
+DDI-DrugBank.d97.s25|0-7|CRIXIVAN|drug
+DDI-DrugBank.d97.s26|0-7|CRIXIVAN|drug
+DDI-DrugBank.d97.s26|112-22||drug
+DDI-DrugBank.d97.s28|0-62|Established and Other Potentially Significant Drug Interactions|group
+DDI-DrugBank.d97.s28|123-146|Drug Interaction Studies|group
+DDI-DrugBank.d97.s32|0-19|HIV Antiviral Agents|group
+DDI-DrugBank.d97.s33|0-10|Delavirdine|drug
+DDI-DrugBank.d97.s34|0-8|indinavir|drug
+DDI-DrugBank.d97.s35|0-7|NCRXIVAN|drug
+DDI-DrugBank.d97.s35|66-76|delavirdine|drug
+DDI-DrugBank.d97.s36|0-9|Didanosine|drug
+DDI-DrugBank.d97.s37|0-8|Indinavir|drug
+DDI-DrugBank.d97.s38|0-8|Efavirenz|drug
+DDI-DrugBank.d97.s39|0-8|indinavir|drug
+DDI-DrugBank.d97.s40|0-8|Indinavir|drug
+DDI-DrugBank.d97.s40|42-50|efavirenz|drug
+DDI-DrugBank.d97.s41|0-8|Indinavir|drug
+DDI-DrugBank.d97.s41|78-86|indinavir|drug
+DDI-DrugBank.d97.s41|106-114|efavirenz|drug
+DDI-DrugBank.d97.s42|0-9|Nelfinavir|drug
+DDI-DrugBank.d97.s43|0-8|indinavir|drug
+DDI-DrugBank.d97.s44|95-105|established|drug_n
+DDI-DrugBank.d97.s45|0-9|Nevirapine|drug
+DDI-DrugBank.d97.s46|0-8|indinavir|drug
+DDI-DrugBank.d97.s47|0-8|Indinavir|drug
+DDI-DrugBank.d97.s47|61-70|nevirapine|drug
+DDI-DrugBank.d97.s48|95-105|established|drug_n
+DDI-DrugBank.d97.s49|0-8|Ritonavir|drug
+DDI-DrugBank.d97.s50|0-8|indinavir|drug
+DDI-DrugBank.d97.s50|26-34|ritonavir|drug
+DDI-DrugBank.d97.s51|95-105|established|drug_n
+DDI-DrugBank.d97.s52|0-8|Indinavir|drug
+DDI-DrugBank.d97.s52|142-22||drug
+DDI-DrugBank.d97.s52|172-137||drug
+DDI-DrugBank.d97.s52|203-167||drug
+DDI-DrugBank.d97.s53|0-9|Saquinavir|drug
+DDI-DrugBank.d97.s54|0-9|saquinavir|drug
+DDI-DrugBank.d97.s55|95-105|established|drug_n
+DDI-DrugBank.d97.s56|0-11|Other Agents|group
+DDI-DrugBank.d97.s57|0-14|Antiarrhythmics|group
+DDI-DrugBank.d97.s57|40-24||drug
+DDI-DrugBank.d97.s57|51-7||group
+DDI-DrugBank.d97.s57|66-27||drug
+DDI-DrugBank.d97.s58|0-20|antiarrhythmic agents|group
+DDI-DrugBank.d97.s59|0-14|Antiarrhythmics|group
+DDI-DrugBank.d97.s59|98-112|antiarrhythmics|group
+DDI-DrugBank.d97.s59|139-146|CRIXIVAN|brand
+DDI-DrugBank.d97.s60|0-14|Anticonvulsants|group
+DDI-DrugBank.d97.s60|45-29||drug
+DDI-DrugBank.d97.s60|60-44||drug
+DDI-DrugBank.d97.s61|0-8|indinavir|drug
+DDI-DrugBank.d97.s63|0-7|NCRXIVAN|drug
+DDI-DrugBank.d97.s63|47-55|indinavir|drug
+DDI-DrugBank.d97.s64|0-23|Calcium Channel Blockers|group
+DDI-DrugBank.d97.s64|64-73|felodipine|drug
+DDI-DrugBank.d97.s64|101-85||drug
+DDI-DrugBank.d97.s65|0-14|dihydropyridine|drug_n
+DDI-DrugBank.d97.s66|0-6|Caution|drug
+DDI-DrugBank.d97.s67|0-13|Clarithromycin|drug
+DDI-DrugBank.d97.s68|0-13|clarithromycin|drug
+DDI-DrugBank.d97.s68|31-39|indinavir|drug
+DDI-DrugBank.d97.s69|95-105|established|drug_n
+DDI-DrugBank.d97.s70|0-2|N/A|drug
+DDI-DrugBank.d97.s70|35-46|atorvastatin|drug
+DDI-DrugBank.d97.s71|0-11|atorvastatin|drug
+DDI-DrugBank.d97.s72|0-11|Atorvastatin|drug
+DDI-DrugBank.d97.s72|133-143|pravastatin|drug
+DDI-DrugBank.d97.s72|175-156||drug
+DDI-DrugBank.d97.s72|208-215|CRIXIVAN|brand
+DDI-DrugBank.d97.s73|0-17|Immunosuppressants|group
+DDI-DrugBank.d97.s73|47-31||drug
+DDI-DrugBank.d97.s73|59-43||drug
+DDI-DrugBank.d97.s74|0-23|immunosuppressant agents|group
+DDI-DrugBank.d97.s75|0-7|Naproxen|drug
+DDI-DrugBank.d97.s76|0-11|Itraconazole|drug
+DDI-DrugBank.d97.s77|0-8|indinavir|drug
+DDI-DrugBank.d97.s78|0-25|Dose reduction of CRIXIVAN|drug
+DDI-DrugBank.d97.s78|85-96|itraconazole|drug
+DDI-DrugBank.d97.s79|0-11|Ketoconazole|drug
+DDI-DrugBank.d97.s80|0-8|indinavir|drug
+DDI-DrugBank.d97.s81|0-3|NONE|drug
+DDI-DrugBank.d97.s81|24-31|CRIXIVAN|brand
+DDI-DrugBank.d97.s82|0-8|Rifabutin|drug
+DDI-DrugBank.d97.s83|0-8|indinavir|drug
+DDI-DrugBank.d97.s83|26-34|rifabutin|drug
+DDI-DrugBank.d97.s84|170-177|CRIXIVAN|drug
+DDI-DrugBank.d97.s85|0-9|Sildenafil|drug
+DDI-DrugBank.d97.s86|0-9|sildenafil|drug
+DDI-DrugBank.d97.s87|0-9|Sildenafil|drug
+DDI-DrugBank.d97.s87|108-116|indinavir|drug
+DDI-DrugBank.d97.s88|0-8|Tadalafil|drug
+DDI-DrugBank.d97.s89|0-8|tadalafil|drug
+DDI-DrugBank.d97.s90|0-8|Tadalafil|drug
+DDI-DrugBank.d97.s90|107-115|indinavir|drug
+DDI-DrugBank.d97.s91|0-9|Vardenafil|drug
+DDI-DrugBank.d97.s92|0-9|vardenafil|drug
+DDI-DrugBank.d97.s93|0-9|Vardenafil|drug
+DDI-DrugBank.d97.s93|108-116|indinavir|drug
+DDI-DrugBank.d97.s96|2-9|decrease|drug_n
+DDI-DrugBank.d433.s0|0-18|N<drug_n>o</drug_n>|drug
+DDI-DrugBank.d433.s0|1-1|o|drug_n
+DDI-DrugBank.d433.s0|60-64|Rebif|brand
+DDI-DrugBank.d433.s1|0-4|Rebif|drug
+DDI-DrugBank.d433.s1|110-114|Rebif|drug
+DDI-DrugBank.d433.s2|0-4|Rebif|drug
+DDI-DrugBank.d433.s2|71-75|Rebif|drug
+DDI-DrugBank.d433.s2|219-223|Rebif|drug
+DDI-DrugBank.d227.s0|0-9|Isoflurane|drug
+DDI-DrugBank.d465.s0|0-19|isosorbide dinitrate|drug
+DDI-DrugBank.d465.s0|49-68|isosorbide dinitrate|drug
+DDI-DrugBank.d465.s0|106-117|vasodilators|group
+DDI-DrugBank.d465.s1|0-6|Alcohol|drug
+DDI-DrugBank.d163.s0|0-8|Vitamin A|drug
+DDI-DrugBank.d163.s0|42-48|Acutane|brand
+DDI-DrugBank.d163.s0|150-61||drug
+DDI-DrugBank.d163.s2|0-12|Tetracyclines|group
+DDI-DrugBank.d163.s2|42-49|Accutane|brand
+DDI-DrugBank.d163.s2|110-117|Accutane|brand
+DDI-DrugBank.d163.s2|267-67||group
+DDI-DrugBank.d163.s4|0-36|Micro-dosed Progesterone Preparations|group
+DDI-DrugBank.d163.s4|87-94|estrogen|drug
+DDI-DrugBank.d163.s4|148-155|Accutane|drug
+DDI-DrugBank.d163.s5|0-28|Other hormonal contraceptives|group
+DDI-DrugBank.d163.s5|114-141|combined oral contraceptives|group
+DDI-DrugBank.d163.s5|155-227|topical/injectable/implantable/insertable hormonal birth control products|group
+DDI-DrugBank.d163.s6|74-86|contraception|group
+DDI-DrugBank.d163.s7|0-22|Hormonal Contraceptives|group
+DDI-DrugBank.d163.s7|44-66|hormonal contraceptives|group
+DDI-DrugBank.d163.s7|113-120|Accutane|drug
+DDI-DrugBank.d163.s8|183-194|primary form|drug
+DDI-DrugBank.d163.s10|0-8|Phenytoin|drug
+DDI-DrugBank.d163.s10|72-80|phenytoin|drug
+DDI-DrugBank.d163.s11|0-11|isotretinoin|drug
+DDI-DrugBank.d163.s11|102-113|isotretinoin|drug
+DDI-DrugBank.d163.s12|0-8|Phenytoin|drug
+DDI-DrugBank.d163.s13|0-8|Phenytoin|drug
+DDI-DrugBank.d163.s13|149-21||drug
+DDI-DrugBank.d163.s13|163-144||drug
+DDI-DrugBank.d163.s14|0-10|these drugs|drug
+DDI-DrugBank.d163.s16|0-23|Systemic Corticosteroids|group
+DDI-DrugBank.d163.s16|35-49|corticosteroids|group
+DDI-DrugBank.d163.s17|121-136| corticosteroids|drug
+DDI-DrugBank.d163.s18|0-10|these drugs|drug
+DDI-DrugBank.d163.s19|100-122|hormonal contraceptives|group
+DDI-DrugBank.d163.s19|188-209|birth control products|group
+DDI-DrugBank.d163.s20|0-7|Accutane|drug
+DDI-DrugBank.d163.s21|0-10|Pregnancies|group
+DDI-DrugBank.d163.s21|43-74|combined hormonal contraceptives|group
+DDI-DrugBank.d163.s21|103-116|St. Johns Wort|drug_n
+DDI-DrugBank.d163.s22|0-7|Accutane|drug
+DDI-DrugBank.d163.s22|202-209|Accutane|drug
+DDI-DrugBank.d163.s23|0-7|Accutane|drug
+DDI-DrugBank.d163.s24|150-157|Accutane|drug
+DDI-DrugBank.d163.s25|18-27|amenorrhea|drug
+DDI-DrugBank.d163.s26|85-98|pregnancy test|drug
+DDI-DrugBank.d163.s27|88-99|prescription|drug
+DDI-DrugBank.d163.s30|21-27|alcohol|drug
+DDI-DrugBank.d163.s31|108-115|Accutane|drug
+DDI-DrugBank.d163.s32|0-7|Accutane|drug
+DDI-DrugBank.d163.s32|77-84|Accutane|drug
+DDI-DrugBank.d163.s34|105-113|hepatitis|drug
+DDI-DrugBank.d163.s34|256-263|Accutane|brand
+DDI-DrugBank.d163.s36|0-6|Glucose|drug
+DDI-DrugBank.d163.s36|33-40|Accutane|brand
+DDI-DrugBank.d163.s36|92-102|blood sugar|drug
+DDI-DrugBank.d163.s37|62-69|Accutane|drug
+DDI-DrugBank.d163.s39|0-7|Accutane|drug
+DDI-DrugBank.d163.s39|71-78|Accutane|drug
+DDI-DrugBank.d163.s41|46-59|rhabdomyolysis|drug
+DDI-DrugBank.d163.s42|0-2|CPK|drug
+DDI-DrugBank.d163.s44|49-53|trial|drug_n
+DDI-DrugBank.d81.s0|0-12|Nitroglycerin|drug
+DDI-DrugBank.d81.s0|25-34|isradipine|drug
+DDI-DrugBank.d81.s0|73-85|nitroglycerin|drug
+DDI-DrugBank.d81.s1|0-18|Hydrochlorothiazide|drug
+DDI-DrugBank.d81.s1|103-110|DynaCirc|brand
+DDI-DrugBank.d81.s1|129-147|hydrochlorothiazide|drug
+DDI-DrugBank.d81.s2|0-9|isradipine|drug
+DDI-DrugBank.d81.s2|98-33||drug
+DDI-DrugBank.d81.s2|121-94||drug
+DDI-DrugBank.d81.s2|203-126||drug
+DDI-DrugBank.d81.s3|0-10|Propranolol|drug
+DDI-DrugBank.d81.s3|78-88|propranolol|drug
+DDI-DrugBank.d81.s3|152-161|isradipine|drug
+DDI-DrugBank.d81.s4|0-10|propranolol|drug
+DDI-DrugBank.d81.s4|92-102|propranolol|drug
+DDI-DrugBank.d81.s5|39-48|isradipine|drug
+DDI-DrugBank.d81.s6|0-10|propranolol|drug
+DDI-DrugBank.d81.s6|213-223|propranolol|drug
+DDI-DrugBank.d81.s6|238-248|propranolol|drug
+DDI-DrugBank.d81.s7|0-9|Cimetidine|drug
+DDI-DrugBank.d81.s7|67-76|cimetidine|drug
+DDI-DrugBank.d81.s7|122-131|isradipine|drug
+DDI-DrugBank.d81.s7|172-181|isradipine|drug
+DDI-DrugBank.d81.s8|0-9|isradipine|drug
+DDI-DrugBank.d81.s8|65-74|cimetidine|drug
+DDI-DrugBank.d81.s9|0-9|Rifampicin|drug
+DDI-DrugBank.d81.s9|66-75|rifampicin|drug
+DDI-DrugBank.d81.s9|125-134|isradipine|drug
+DDI-DrugBank.d81.s9|163-172|isradipine|drug
+DDI-DrugBank.d81.s10|3-12|rifampicin|drug
+DDI-DrugBank.d81.s10|35-44|isradipine|drug
+DDI-DrugBank.d81.s10|197-206|isradipine|drug
+DDI-DrugBank.d81.s11|0-7|Warfarin|drug
+DDI-DrugBank.d81.s11|145-152|warfarin|drug
+DDI-DrugBank.d81.s11|193-200|warfarin|drug
+DDI-DrugBank.d81.s12|0-15|racemic warfarin|drug
+DDI-DrugBank.d81.s12|122-125|drug|drug_n
+DDI-DrugBank.d81.s13|0-6|Digoxin|drug
+DDI-DrugBank.d81.s13|43-50|DynaCirc|brand
+DDI-DrugBank.d81.s13|69-75|digoxin|drug
+DDI-DrugBank.d81.s13|175-181|digoxin|drug
+DDI-DrugBank.d81.s14|0-7|Fentanyl|drug
+DDI-DrugBank.d81.s14|65-72|fentanyl|drug
+DDI-DrugBank.d81.s14|111-122|beta blocker|group
+DDI-DrugBank.d81.s15|0-2|N/A|drug
+DDI-DrugBank.d95.s0|0-11|Cyclosporine|drug
+DDI-DrugBank.d95.s0|69-80|Cyclosporine|drug
+DDI-DrugBank.d95.s1|0-8|Ibuprofen|drug
+DDI-DrugBank.d95.s1|54-62|ibuprofen|drug
+DDI-DrugBank.d95.s2|0-15|Organic nitrates|group
+DDI-DrugBank.d95.s2|86-101|organic nitrates|group
+DDI-DrugBank.d95.s3|0-17|Sildenafil citrate|drug
+DDI-DrugBank.d95.s3|84-101|sildenafil citrate|drug
+DDI-DrugBank.d41.s0|0-13|Cholestyramine|drug
+DDI-DrugBank.d41.s0|59-26||drug
+DDI-DrugBank.d41.s0|87-59||drug
+DDI-DrugBank.d41.s0|221-81||drug
+DDI-DrugBank.d41.s1|0-16|Hepatotoxic Drugs|group
+DDI-DrugBank.d41.s1|56-66|leflunomide|drug
+DDI-DrugBank.d41.s1|96-117|hepatotoxic substances|group
+DDI-DrugBank.d41.s2|35-45|leflunomide|drug
+DDI-DrugBank.d41.s2|77-81|drugs|drug_n
+DDI-DrugBank.d41.s3|0-4|ARAVA|drug_n
+DDI-DrugBank.d41.s3|46-50|ARAVA|drug_n
+DDI-DrugBank.d41.s4|53-57|drugs|drug
+DDI-DrugBank.d41.s4|90-100|leflunomide|drug
+DDI-DrugBank.d41.s5|2-16|3-fold increase|drug_n
+DDI-DrugBank.d41.s6|56-60|drugs|drug
+DDI-DrugBank.d41.s6|93-103|leflunomide|drug
+DDI-DrugBank.d41.s9|0-5|NSAIDs|group
+DDI-DrugBank.d41.s9|107-116|diclofenac|drug
+DDI-DrugBank.d41.s11|48-53|NSAIDs|group
+DDI-DrugBank.d41.s12|0-10|Tolbutamide|drug
+DDI-DrugBank.d41.s12|112-122|tolbutamide|drug
+DDI-DrugBank.d41.s14|0-7|Rifampin|drug
+DDI-DrugBank.d41.s14|113-120|rifampin|drug
+DDI-DrugBank.d41.s15|0-4|ARAVA|drug
+DDI-DrugBank.d41.s15|35-39|ARAVA|drug
+DDI-DrugBank.d41.s15|154-158|ARAVA|drug
+DDI-DrugBank.d41.s16|0-7|Warfarin|drug
+DDI-DrugBank.d41.s16|72-79|warfarin|drug
+DDI-DrugBank.d252.s0|0-6|BETAGAN|drug
+DDI-DrugBank.d252.s0|117-123|BETAGAN|drug
+DDI-DrugBank.d252.s1|0-28|Catecholamine-depleting drugs|group
+DDI-DrugBank.d252.s1|38-46|reserpine|drug
+DDI-DrugBank.d252.s1|262-273|beta-blocker|group
+DDI-DrugBank.d252.s2|19-49|beta-adrenergic blocking agents|drug
+DDI-DrugBank.d252.s4|23-53|beta-adrenergic blocking agents|group
+DDI-DrugBank.d252.s5|0-30|Phenothiazine-related compounds|group
+DDI-DrugBank.d320.s0|0-9|Chirocaine|drug
+DDI-DrugBank.d320.s0|119-146|amide-type local anesthetics|drug
+DDI-DrugBank.d320.s0|181-185|drugs|drug
+DDI-DrugBank.d320.s1|0-15|In vitro studies|group
+DDI-DrugBank.d320.s1|86-100|levobupivacaine|drug
+DDI-DrugBank.d320.s1|147-128||drug
+DDI-DrugBank.d320.s2|0-9|Chirocaine|drug
+DDI-DrugBank.d320.s2|67-76|Chirocaine|drug
+DDI-DrugBank.d320.s2|154-163|Chirocaine|drug
+DDI-DrugBank.d320.s3|86-100|levobupivacaine|drug
+DDI-DrugBank.d320.s3|131-145|CYP3A4 inducers|group
+DDI-DrugBank.d320.s3|156-164|phenytoin|drug
+DDI-DrugBank.d320.s3|195-179||drug
+DDI-DrugBank.d320.s3|206-222|CYP3A4 inhibitors|group
+DDI-DrugBank.d320.s3|250-189||drug
+DDI-DrugBank.d320.s4|35-43|ritanovir|drug
+DDI-DrugBank.d320.s5|0-20|macrolide antibiotics|group
+DDI-DrugBank.d320.s5|28-39|erythromycin|drug
+DDI-DrugBank.d320.s6|0-30|and calcium channel antagonists|group
+DDI-DrugBank.d320.s6|40-48|verapamil|drug
+DDI-DrugBank.d320.s6|101-66||group
+DDI-DrugBank.d320.s7|0-14|Levobupivacaine|drug
+DDI-DrugBank.d320.s7|57-71|levobupivacaine|drug
+DDI-DrugBank.d320.s7|107-123|CYP3A4 inhibitors|group
+DDI-DrugBank.d320.s7|174-188|levobupivacaine|drug
+DDI-DrugBank.d454.s0|54-60|alcohol|drug
+DDI-DrugBank.d454.s2|51-80|anti-hypertensive drug therapy|group
+DDI-DrugBank.d454.s4|0-24|Tricyclic Antidepressants|group
+DDI-DrugBank.d454.s4|46-70|tricyclic antidepressants|group
+DDI-DrugBank.d454.s4|99-108|lofexidine|drug
+DDI-DrugBank.d30.s0|138-147|cimetidine|drug
+DDI-DrugBank.d30.s1|0-7|Rifampin|drug
+DDI-DrugBank.d30.s1|73-80|losartan|drug
+DDI-DrugBank.d30.s2|0-13|two inhibitors|drug
+DDI-DrugBank.d30.s2|48-53|humans|drug_n
+DDI-DrugBank.d30.s3|0-11|Ketoconazole|drug
+DDI-DrugBank.d30.s3|46-53|losartan|drug
+DDI-DrugBank.d30.s3|116-123|losartan|drug
+DDI-DrugBank.d30.s3|130-141|erythromycin|drug
+DDI-DrugBank.d30.s4|0-10|Fluconazole|drug
+DDI-DrugBank.d30.s4|95-102|losartan|drug
+DDI-DrugBank.d30.s5|0-7|losartan|drug
+DDI-DrugBank.d30.s5|27-34|P450 2C9|drug_n
+DDI-DrugBank.d30.s6|0-7|Losartan|drug
+DDI-DrugBank.d30.s7|0-7|losartan|drug
+DDI-DrugBank.d30.s7|52-59|losartan|drug
+DDI-DrugBank.d30.s8|0-59|As with other drugs that block angiotensin II or its effects|group
+DDI-DrugBank.d30.s8|116-129|spironolactone|drug
+DDI-DrugBank.d30.s8|158-142||drug
+DDI-DrugBank.d30.s9|0-7|Losartan|drug
+DDI-DrugBank.d30.s9|80-87|losartan|drug
+DDI-DrugBank.d30.s9|148-159|indomethacin|drug
+DDI-DrugBank.d530.s0|0-30|Non-selective monoamine oxidase|group
+DDI-DrugBank.d530.s0|61-78|phenelzine sulfate|drug
+DDI-DrugBank.d530.s0|123-103||drug
+DDI-DrugBank.d530.s1|0-14|L-phenylalanine|drug
+DDI-DrugBank.d530.s1|34-47|MAO inhibitors|group
+DDI-DrugBank.d530.s2|0-9|Selegiline|drug
+DDI-DrugBank.d530.s2|61-70|selegiline|drug
+DDI-DrugBank.d530.s3|0-16|Neuroleptic Drugs|group
+DDI-DrugBank.d530.s3|92-108|neuroleptic drugs|group
+DDI-DrugBank.d643.s0|0-8|melatonin|drug
+DDI-DrugBank.d643.s0|67-72|NSAIDs|group
+DDI-DrugBank.d643.s0|85-93|melatonin|drug
+DDI-DrugBank.d643.s0|104-114|fluvoxamine|drug
+DDI-DrugBank.d643.s0|141-149|melatonin|drug
+DDI-DrugBank.d643.s0|188-200|beta blockers|group
+DDI-DrugBank.d643.s0|216-224|melatonin|drug
+DDI-DrugBank.d643.s0|235-244|fluoxetine|drug
+DDI-DrugBank.d643.s0|330-338|melatonin|drug
+DDI-DrugBank.d643.s0|558-566|melatonin|drug
+DDI-DrugBank.d746.s0|0-6|ARAMINE|drug
+DDI-DrugBank.d746.s0|100-121|sympathomimetic amines|group
+DDI-DrugBank.d746.s1|0-27|Monoamine oxidase inhibitors|group
+DDI-DrugBank.d746.s2|71-71|s|drug_n
+DDI-DrugBank.d630.s0|0-12|Methazolamide|drug
+DDI-DrugBank.d630.s0|57-63|steroid|drug
+DDI-DrugBank.d630.s1|0-6|Aspirin|drug
+DDI-DrugBank.d630.s1|89-21||drug
+DDI-DrugBank.d630.s1|101-82||drug
+DDI-DrugBank.d630.s1|232-100||drug
+DDI-DrugBank.d756.s0|38-44|opioids|group
+DDI-DrugBank.d756.s0|95-109|levomepromazine|drug
+DDI-DrugBank.d756.s0|165-171|opioids|group
+DDI-DrugBank.d756.s1|0-7|Tramadol|drug
+DDI-DrugBank.d756.s1|36-43|Tramadol|drug
+DDI-DrugBank.d756.s2|0-14|Levomepromazine|drug
+DDI-DrugBank.d756.s2|128-142|levomepromazine|drug
+DDI-DrugBank.d756.s2|158-34||group
+DDI-DrugBank.d756.s2|177-157||group
+DDI-DrugBank.d756.s3|63-72|substances|drug_n
+DDI-DrugBank.d756.s4|0-14|levomepromazine|drug
+DDI-DrugBank.d756.s4|55-69|levomepromazine|drug
+DDI-DrugBank.d756.s5|24-38|levomepromazine|drug
+DDI-DrugBank.d756.s5|66-65||drug_n
+DDI-DrugBank.d756.s6|24-35|combinations|drug_n
+DDI-DrugBank.d756.s7|0-7|caffeine|drug
+DDI-DrugBank.d756.s7|35-60|ephedrine/amphetamine type|group
+DDI-DrugBank.d756.s7|101-115|levomepromazine|drug
+DDI-DrugBank.d756.s8|0-15|these substances|drug
+DDI-DrugBank.d756.s9|0-5|Coffee|drug
+DDI-DrugBank.d756.s9|92-19||drug
+DDI-DrugBank.d756.s10|21-28|antacids|group
+DDI-DrugBank.d756.s11|74-89|leveomepromazine|drug
+DDI-DrugBank.d736.s0|117-125|digitalis|drug
+DDI-DrugBank.d736.s1|0-10|Hypokalemia|group
+DDI-DrugBank.d736.s1|50-57|steroids|group
+DDI-DrugBank.d736.s2|0-6|Insulin|drug
+DDI-DrugBank.d736.s3|0-8|Thiazides|group
+DDI-DrugBank.d736.s3|50-63|norepinephrine|drug
+DDI-DrugBank.d736.s5|0-13|Thiazide drugs|group
+DDI-DrugBank.d736.s5|50-61|tubocurarine|drug
+DDI-DrugBank.d736.s6|0-6|Lithium|drug
+DDI-DrugBank.d736.s6|72-78|lithium|drug
+DDI-DrugBank.d736.s7|0-8|Thiazides|group
+DDI-DrugBank.d736.s7|55-76|antihypertensive drugs|group
+DDI-DrugBank.d736.s8|0-11|Potentiation|group
+DDI-DrugBank.d736.s8|70-74|drugs|group
+DDI-DrugBank.d706.s0|0-28|Catecholamine-depleting drugs|group
+DDI-DrugBank.d706.s0|37-45|reserpine|drug
+DDI-DrugBank.d706.s0|92-111|beta-blocking agents|group
+DDI-DrugBank.d706.s1|39-58|metoprolol succinate|drug
+DDI-DrugBank.d715.s0|0-5|DEMSER|drug
+DDI-DrugBank.d715.s0|148-152|drugs|group
+DDI-DrugBank.d715.s1|0-5|DEMSER|drug
+DDI-DrugBank.d640.s0|0-8|Diuretics|group
+DDI-DrugBank.d640.s0|75-82|diuretic|group
+DDI-DrugBank.d640.s0|97-110|ACE inhibitors|group
+DDI-DrugBank.d640.s1|0-6|UNIVASC|drug
+DDI-DrugBank.d640.s1|79-19||drug
+DDI-DrugBank.d640.s1|228-72||drug
+DDI-DrugBank.d640.s1|283-221||drug
+DDI-DrugBank.d640.s2|0-20|Potassium Supplements|group
+DDI-DrugBank.d640.s2|70-76|UNIVASC|brand
+DDI-DrugBank.d640.s3|0-33|Use of potassium-sparing diuretics|group
+DDI-DrugBank.d640.s3|43-56|spironolactone|drug
+DDI-DrugBank.d640.s3|85-69||drug
+DDI-DrugBank.d640.s3|99-119|potassium supplements|group
+DDI-DrugBank.d640.s3|140-153|ACE inhibitors|group
+DDI-DrugBank.d640.s4|38-43|agents|group
+DDI-DrugBank.d640.s5|0-18|Oral Anticoagulants|group
+DDI-DrugBank.d640.s5|46-53|warfarin|drug
+DDI-DrugBank.d640.s5|141-153|anticoagulant|group
+DDI-DrugBank.d640.s6|0-6|Lithium|drug
+DDI-DrugBank.d640.s6|25-31|lithium|drug
+DDI-DrugBank.d640.s6|56-62|lithium|drug
+DDI-DrugBank.d640.s6|149-155|lithium|drug
+DDI-DrugBank.d640.s7|0-10|These drugs|group
+DDI-DrugBank.d640.s7|84-90|lithium|drug
+DDI-DrugBank.d640.s8|40-46|lithium|drug
+DDI-DrugBank.d640.s9|0-11|Other Agents|group
+DDI-DrugBank.d640.s9|81-87|UNIVASC|brand
+DDI-DrugBank.d640.s9|158-167|cimetidine|drug
+DDI-DrugBank.d640.s10|0-6|UNIVASC|drug
+DDI-DrugBank.d640.s10|107-114|blockers|brand
+DDI-DrugBank.d580.s0|0-17|ASMANEX TWISTHALER|drug
+DDI-DrugBank.d580.s0|37-41|drugs|group
+DDI-DrugBank.d580.s1|0-11|ketoconazole|drug
+DDI-DrugBank.d580.s1|87-104|mometasone furoate|drug
+DDI-DrugBank.d739.s0|0-10|Montelukast|drug
+DDI-DrugBank.d739.s0|179-190|theophylline|drug
+DDI-DrugBank.d739.s1|48-55|warfarin|drug
+DDI-DrugBank.d739.s1|158-165|warfarin|drug
+DDI-DrugBank.d739.s2|0-89|did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin.|drug
+DDI-DrugBank.d739.s3|0-10|terfenadine|drug
+DDI-DrugBank.d739.s3|65-23||drug
+DDI-DrugBank.d739.s3|178-63||drug
+DDI-DrugBank.d739.s4|0-10|Montelukast|drug
+DDI-DrugBank.d739.s4|188-200|norethindrone|drug
+DDI-DrugBank.d739.s4|207-223|ethinyl estradiol|drug
+DDI-DrugBank.d739.s5|0-9|prednisone|drug
+DDI-DrugBank.d739.s5|113-25||drug
+DDI-DrugBank.d739.s5|127-109||drug
+DDI-DrugBank.d739.s5|180-125||drug
+DDI-DrugBank.d739.s5|206-176||drug
+DDI-DrugBank.d739.s6|0-12|Phenobarbital|drug
+DDI-DrugBank.d739.s6|70-80|montelukast|drug
+DDI-DrugBank.d739.s6|133-143|montelukast|drug
+DDI-DrugBank.d739.s7|0-10|montelukast|drug
+DDI-DrugBank.d739.s8|0-37|Potent cytochrome P450 enzyme inducers|group
+DDI-DrugBank.d739.s8|48-60|phenobarbital|drug
+DDI-DrugBank.d739.s8|113-72||drug
+DDI-DrugBank.d739.s9|0-10|Montelukast|drug
+DDI-DrugBank.d739.s10|0-10|montelukast|drug
+DDI-DrugBank.d739.s10|46-56|montelukast|drug
+DDI-DrugBank.d739.s10|209-221|norethindrone|drug
+DDI-DrugBank.d739.s10|228-244|ethinyl estradiol|drug
+DDI-DrugBank.d739.s11|0-10|Montelukast|drug
+DDI-DrugBank.d739.s11|76-80|drugs|group
+DDI-DrugBank.d739.s12|27-42|thyroid hormones|group
+DDI-DrugBank.d739.s13|0-12|Phenobarbital|drug
+DDI-DrugBank.d739.s13|70-80|montelukast|drug
+DDI-DrugBank.d739.s13|133-143|montelukast|drug
+DDI-DrugBank.d739.s14|0-10|montelukast|drug
+DDI-DrugBank.d739.s14|37-47|montelukast|drug
+DDI-DrugBank.d739.s15|0-37|Potent cytochrome P450 enzyme inducers|group
+DDI-DrugBank.d739.s15|48-60|phenobarbital|drug
+DDI-DrugBank.d739.s15|171-72||drug
+DDI-DrugBank.d346.s0|0-4|REVIA|drug
+DDI-DrugBank.d346.s0|56-60|REVIA|drug
+DDI-DrugBank.d346.s1|0-4|REVIA|drug
+DDI-DrugBank.d346.s1|77-81|REVIA|drug
+DDI-DrugBank.d346.s2|0-4|REVIA|drug
+DDI-DrugBank.d346.s2|81-19||drug
+DDI-DrugBank.d346.s3|31-42|thioridazine|drug
+DDI-DrugBank.d346.s3|113-124|thioridazine|drug
+DDI-DrugBank.d346.s4|0-20|Patients taking REVIA|drug
+DDI-DrugBank.d346.s4|80-84|cough|drug
+DDI-DrugBank.d346.s4|122-93||drug
+DDI-DrugBank.d346.s4|154-121||drug
+DDI-DrugBank.d346.s5|92-96|REVIA|brand
+DDI-DrugBank.d14.s0|28-40|nitroglycerin|drug
+DDI-DrugBank.d14.s0|78-89|vasodilators|group
+DDI-DrugBank.d14.s1|0-6|Alcohol|drug
+DDI-DrugBank.d14.s2|0-23|Calcium channel blockers|group
+DDI-DrugBank.d14.s2|128-44||group
+DDI-DrugBank.d14.s2|157-136||group
+DDI-DrugBank.d14.s3|0-15|Dose adjustments|drug
+DDI-DrugBank.d14.s3|27-41|class of agents|group
+DDI-DrugBank.d475.s0|0-9|nizatidine|drug
+DDI-DrugBank.d475.s0|55-64|nizatidine|drug
+DDI-DrugBank.d475.s1|0-9|Nizatidine|drug
+DDI-DrugBank.d475.s2|0-3|drug|drug
+DDI-DrugBank.d475.s3|0-6|Aspirin|drug
+DDI-DrugBank.d475.s3|84-21||drug
+DDI-DrugBank.d475.s3|151-77||drug
+DDI-DrugBank.d761.s0|0-6|Alcohol|drug
+DDI-DrugBank.d761.s0|287-294|orlistat|drug
+DDI-DrugBank.d761.s1|0-11|Cyclosporine|drug
+DDI-DrugBank.d761.s1|50-61|cyclosporine|drug
+DDI-DrugBank.d761.s1|174-185|cyclosporine|drug
+DDI-DrugBank.d761.s2|0-6|Digoxin|drug
+DDI-DrugBank.d761.s2|48-54|XENICAL|brand
+DDI-DrugBank.d761.s2|93-99|XENICAL|brand
+DDI-DrugBank.d761.s2|156-162|digoxin|drug
+DDI-DrugBank.d761.s3|0-44|Fat-soluble Vitamin Supplements and Analogues|group
+DDI-DrugBank.d761.s3|109-121|beta-carotene|drug
+DDI-DrugBank.d761.s3|182-188|XENICAL|brand
+DDI-DrugBank.d761.s4|0-6|XENICAL|drug
+DDI-DrugBank.d761.s4|34-34|E|drug
+DDI-DrugBank.d761.s5|0-7|Orlistat|drug
+DDI-DrugBank.d761.s5|43-51|vitamin D|drug
+DDI-DrugBank.d761.s5|104-62||drug
+DDI-DrugBank.d761.s6|0-8|Glyburide|drug
+DDI-DrugBank.d761.s6|187-195|glyburide|drug
+DDI-DrugBank.d761.s7|0-9|Nifedipine|drug
+DDI-DrugBank.d761.s7|93-99|XENICAL|drug
+DDI-DrugBank.d761.s7|138-144|XENICAL|drug
+DDI-DrugBank.d761.s7|183-192|nifedipine|drug
+DDI-DrugBank.d761.s8|0-18|Oral Contraceptives|group
+DDI-DrugBank.d761.s8|75-81|XENICAL|brand
+DDI-DrugBank.d761.s8|182-200|oral contraceptives|group
+DDI-DrugBank.d761.s9|0-8|Phenytoin|drug
+DDI-DrugBank.d761.s9|50-56|XENICAL|brand
+DDI-DrugBank.d761.s9|95-101|XENICAL|brand
+DDI-DrugBank.d761.s9|165-173|phenytoin|drug
+DDI-DrugBank.d761.s10|0-10|Pravastatin|drug
+DDI-DrugBank.d761.s10|108-114|XENICAL|brand
+DDI-DrugBank.d761.s10|153-159|XENICAL|brand
+DDI-DrugBank.d761.s10|200-210|pravastatin|drug
+DDI-DrugBank.d761.s11|0-7|Warfarin|drug
+DDI-DrugBank.d761.s11|58-64|XENICAL|brand
+DDI-DrugBank.d761.s12|0-6|XENICAL|drug
+DDI-DrugBank.d761.s12|110-116|XENICAL|drug
+DDI-DrugBank.d761.s12|188-194|XENICAL|drug
+DDI-DrugBank.d761.s13|0-6|XENICAL|drug
+DDI-DrugBank.d761.s13|66-72|XENICAL|drug
+DDI-DrugBank.d761.s13|111-118|warfarin|drug
+DDI-DrugBank.d761.s13|139-145|XENICAL|drug
+DDI-DrugBank.d744.s0|0-10|Acromegalic|drug
+DDI-DrugBank.d744.s0|63-69|insulin|drug
+DDI-DrugBank.d744.s0|83-101|hypoglycemic agents|group
+DDI-DrugBank.d744.s0|196-203|SOMAVERT|brand
+DDI-DrugBank.d744.s1|33-39|opioids|drug
+DDI-DrugBank.d744.s1|67-77|pegvisomant|drug_n
+DDI-DrugBank.d744.s1|172-178|opioids|drug
+DDI-DrugBank.d671.s0|0-5|CYLERT|brand
+DDI-DrugBank.d671.s1|27-32|CYLERT|drug
+DDI-DrugBank.d671.s2|0-5|CYLERT|drug
+DDI-DrugBank.d671.s2|121-126|CYLERT|drug
+DDI-DrugBank.d635.s0|0-57|Other short-acting beta adrenergic aerosol bronchodilators|group
+DDI-DrugBank.d635.s0|97-112|MAXAIR AUTOHALER|brand
+DDI-DrugBank.d622.s0|0-7|Atropine|drug
+DDI-DrugBank.d622.s0|197-23||drug
+DDI-DrugBank.d622.s1|45-52|atropine|drug
+DDI-DrugBank.d622.s1|95-105|pralidoxime|drug
+DDI-DrugBank.d622.s2|0-10|pralidoxime|drug
+DDI-DrugBank.d622.s2|46-24||drug
+DDI-DrugBank.d622.s2|89-51||drug
+DDI-DrugBank.d622.s3|0-7|morphine|drug
+DDI-DrugBank.d622.s3|37-21||drug
+DDI-DrugBank.d622.s3|52-36||drug
+DDI-DrugBank.d622.s3|69-53||drug
+DDI-DrugBank.d622.s3|84-115|phenothiazine-type tranquilizers|group
+DDI-DrugBank.d737.s0|0-17|Carbidopa/Levodopa|drug_n
+DDI-DrugBank.d737.s0|99-109|pramipexole|drug
+DDI-DrugBank.d737.s2|0-9|Selegiline|drug
+DDI-DrugBank.d737.s2|43-52|selegiline|drug
+DDI-DrugBank.d737.s2|96-106|pramipexole|drug
+DDI-DrugBank.d737.s3|0-9|Amantadine|drug
+DDI-DrugBank.d737.s3|62-71|amantadine|drug
+DDI-DrugBank.d737.s3|116-126|pramipexole|drug
+DDI-DrugBank.d737.s4|0-9|Cimetidine|drug
+DDI-DrugBank.d737.s4|159-21||drug
+DDI-DrugBank.d737.s5|0-9|Probenecid|drug
+DDI-DrugBank.d737.s5|157-21||drug
+DDI-DrugBank.d737.s6|0-41|Other drugs eliminated via renal secretion|group
+DDI-DrugBank.d737.s6|178-187|cimetidine|drug
+DDI-DrugBank.d737.s6|215-199||drug
+DDI-DrugBank.d737.s6|226-210||drug
+DDI-DrugBank.d737.s6|239-223||drug
+DDI-DrugBank.d737.s6|250-234||drug
+DDI-DrugBank.d737.s6|265-245||drug
+DDI-DrugBank.d737.s6|306-258||drug
+DDI-DrugBank.d737.s6|392-405|cephalosporins|group
+DDI-DrugBank.d737.s6|436-303||drug
+DDI-DrugBank.d737.s6|450-434||drug
+DDI-DrugBank.d737.s6|475-455||drug
+DDI-DrugBank.d737.s6|549-475||drug
+DDI-DrugBank.d737.s7|0-2|CYP|drug
+DDI-DrugBank.d737.s7|88-98|pramipexole|drug
+DDI-DrugBank.d737.s7|120-130|pramipexole|drug
+DDI-DrugBank.d737.s8|0-10|Pramipexole|drug
+DDI-DrugBank.d737.s9|0-10|pramipexole|drug
+DDI-DrugBank.d737.s10|0-19|Dopamine antagonists|group
+DDI-DrugBank.d737.s10|28-38|pramipexole|drug
+DDI-DrugBank.d737.s10|83-102|dopamine antagonists|group
+DDI-DrugBank.d737.s10|181-194|metoclopramide|drug
+DDI-DrugBank.d737.s11|0-6|MIRAPEX|drug
+DDI-DrugBank.d737.s11|48-54|MIRAPEX|drug
+DDI-DrugBank.d632.s0|150-171|anticholinergic agents|drug
+DDI-DrugBank.d632.s0|181-188|atropine|drug
+DDI-DrugBank.d632.s0|258-285|alpha glucosidase inhibitors|drug
+DDI-DrugBank.d632.s1|0-10|these drugs|drug
+DDI-DrugBank.d632.s2|0-5|SYMLIN|brand
+DDI-DrugBank.d632.s3|116-125|analgesics|drug
+DDI-DrugBank.d632.s4|114-119|SYMLIN|drug
+DDI-DrugBank.d632.s5|74-79|SYMLIN|drug
+DDI-DrugBank.d632.s5|105-123|antidiabetic agents|group
+DDI-DrugBank.d632.s6|0-5|SYMLIN|drug
+DDI-DrugBank.d632.s6|41-46|SYMLIN|drug
+DDI-DrugBank.d632.s7|0-5|SYMLIN|drug
+DDI-DrugBank.d734.s0|0-17|Thiazide diuretics|group
+DDI-DrugBank.d734.s0|82-95|phenothiazines|group
+DDI-DrugBank.d734.s1|0-23|Antihypertensive effects|group
+DDI-DrugBank.d734.s1|101-114|phenothiazines|group
+DDI-DrugBank.d734.s2|0-10|Propranolol|drug
+DDI-DrugBank.d734.s2|17-30|phenothiazines|group
+DDI-DrugBank.d734.s2|75-79|drugs|group
+DDI-DrugBank.d590.s0|0-5|TRITEC|drug
+DDI-DrugBank.d590.s0|12-25|clarithromycin|drug
+DDI-DrugBank.d590.s0|56-65|ranitidine|drug
+DDI-DrugBank.d590.s0|106-112|bismuth|drug
+DDI-DrugBank.d590.s0|170-183|clarithromycin|drug
+DDI-DrugBank.d590.s1|0-6|Aspirin|drug
+DDI-DrugBank.d590.s2|37-43|antacid|group
+DDI-DrugBank.d590.s2|109-118|ranitidine|drug
+DDI-DrugBank.d590.s2|175-180|TRITEC|brand
+DDI-DrugBank.d590.s4|0-9|ranitidine|drug
+DDI-DrugBank.d590.s4|25-30|ZANTAC|brand
+DDI-DrugBank.d654.s0|0-16|oral ketoconazole|drug
+DDI-DrugBank.d654.s1|0-10|Retapamulin|drug
+DDI-DrugBank.d654.s1|107-117|retapamulin|drug
+DDI-DrugBank.d654.s1|161-177|CYP3A4 inhibitors|group
+DDI-DrugBank.d654.s1|188-199|ketoconazole|drug
+DDI-DrugBank.d654.s2|0-6|ALTABAX|drug
+DDI-DrugBank.d654.s2|139-145|ALTABAX|drug
+DDI-DrugBank.d654.s3|40-46|ALTABAX|brand
+DDI-DrugBank.d124.s0|0-16|DRUG INTERACTIONS|group
+DDI-DrugBank.d124.s1|0-31|Several drug interaction studies|group
+DDI-DrugBank.d124.s1|63-70|INVIRASE|brand
+DDI-DrugBank.d124.s2|0-8|FORTOVASE|drug
+DDI-DrugBank.d124.s2|85-21||drug
+DDI-DrugBank.d124.s2|121-80||drug
+DDI-DrugBank.d124.s3|0-8|Ritonavir|drug
+DDI-DrugBank.d124.s3|112-120|ritonavir|drug
+DDI-DrugBank.d124.s4|0-9|saquinavir|drug
+DDI-DrugBank.d124.s4|74-79|CYP3A4|drug_n
+DDI-DrugBank.d124.s5|0-9|saquinavir|drug
+DDI-DrugBank.d124.s6|0-4|drugs|group
+DDI-DrugBank.d124.s6|18-23|CYP3A4|group
+DDI-DrugBank.d124.s6|32-34|Pgp|group
+DDI-DrugBank.d124.s6|72-81|saquinavir|drug
+DDI-DrugBank.d124.s7|0-9|saquinavir|drug
+DDI-DrugBank.d124.s8|0-4|Drugs|group
+DDI-DrugBank.d124.s8|141-157|CONTRAINDICATIONS|group
+DDI-DrugBank.d124.s9|0-7|INVIRASE|drug
+DDI-DrugBank.d124.s9|105-21||drug
+DDI-DrugBank.d124.s9|118-99||drug
+DDI-DrugBank.d124.s10|42-45|drug|drug
+DDI-DrugBank.d124.s11|10-15|agents|group
+DDI-DrugBank.d124.s12|0-62|Drugs That Should Not Be Coadministered With INVIRASE/Ritonavir|group
+DDI-DrugBank.d124.s13|0-8|Drug Name|drug
+DDI-DrugBank.d124.s14|0-14|Antiarrhythmics|group
+DDI-DrugBank.d124.s14|42-26||drug
+DDI-DrugBank.d124.s14|52-36||drug
+DDI-DrugBank.d124.s14|64-48||drug
+DDI-DrugBank.d124.s14|77-61||drug
+DDI-DrugBank.d124.s15|0-13|Antihistamines|group
+DDI-DrugBank.d124.s15|45-25||drug
+DDI-DrugBank.d124.s16|0-16|Ergot Derivatives|group
+DDI-DrugBank.d124.s16|51-35||drug
+DDI-DrugBank.d124.s16|63-47||drug
+DDI-DrugBank.d124.s16|79-59||drug
+DDI-DrugBank.d124.s17|0-23|Antimycobacterial Agents|group
+DDI-DrugBank.d124.s17|112-33||drug
+DDI-DrugBank.d124.s17|189-108||drug
+DDI-DrugBank.d124.s18|0-5|Garlic|drug_n
+DDI-DrugBank.d124.s18|63-72|saquinavir|drug
+DDI-DrugBank.d124.s18|161-170|saquinavir|drug
+DDI-DrugBank.d124.s19|0-0|N|drug
+DDI-DrugBank.d124.s19|61-69|ritonavir|drug
+DDI-DrugBank.d124.s19|84-92|ritonavir|drug
+DDI-DrugBank.d124.s20|0-8|cisapride|drug
+DDI-DrugBank.d124.s21|0-14|Herbal Products|group
+DDI-DrugBank.d124.s21|47-31||drug
+DDI-DrugBank.d124.s21|160-53||drug
+DDI-DrugBank.d124.s22|0-27|HMG-CoA Reductase Inhibitors|group
+DDI-DrugBank.d124.s22|55-39||drug
+DDI-DrugBank.d124.s23|0-18|Sedatives/Hypnotics|group
+DDI-DrugBank.d124.s23|45-29||drug
+DDI-DrugBank.d124.s25|0-4|Drugs|group
+DDI-DrugBank.d124.s25|37-42|CYP3A4|drug_n
+DDI-DrugBank.d124.s26|397-406|saquinavir|drug
+DDI-DrugBank.d124.s28|0-7|INVIRASE|drug
+DDI-DrugBank.d124.s28|32-40|ritonavir|drug
+DDI-DrugBank.d124.s28|47-55|ritonavir|drug
+DDI-DrugBank.d124.s28|97-101|drugs|drug_n
+DDI-DrugBank.d124.s29|0-17|Inducers of CYP3A4|group
+DDI-DrugBank.d124.s30|72-84|phenobarbital|drug
+DDI-DrugBank.d124.s30|111-95||drug
+DDI-DrugBank.d124.s30|126-110||drug
+DDI-DrugBank.d124.s30|182-125||drug
+DDI-DrugBank.d694.s0|0-6|Digoxin|drug
+DDI-DrugBank.d694.s0|124-130|digoxin|drug
+DDI-DrugBank.d694.s0|169-179|sitagliptin|drug
+DDI-DrugBank.d694.s1|0-6|digoxin|drug
+DDI-DrugBank.d694.s2|0-6|digoxin|drug
+DDI-DrugBank.d65.s0|0-25|Sulfacetamide preparations|group
+DDI-DrugBank.d65.s0|49-67|silver preparations|group
+DDI-DrugBank.d179.s1|0-12|Sulfapyridine|drug
+DDI-DrugBank.d179.s1|56-68|Acetaminophen|drug
+DDI-DrugBank.d179.s1|77-83|Tylenol|brand
+DDI-DrugBank.d179.s2|2-11|Amiodarone|drug
+DDI-DrugBank.d179.s3|2-18|Anabolic steroids|group
+DDI-DrugBank.d179.s3|39-46|Anabolin|brand
+DDI-DrugBank.d179.s3|69-74|Anavar|brand
+DDI-DrugBank.d179.s3|98-104|Anadrol|brand
+DDI-DrugBank.d179.s3|126-133|Winstrol|brand
+DDI-DrugBank.d179.s4|13-25|male hormones|group
+DDI-DrugBank.d179.s5|2-19|Antithyroid agents|group
+DDI-DrugBank.d179.s6|22-29|Tegretol|brand
+DDI-DrugBank.d179.s7|19-23|BiCNU|drug
+DDI-DrugBank.d179.s8|20-25|Aralan|brand
+DDI-DrugBank.d179.s9|14-21|Dantrium|brand
+DDI-DrugBank.d179.s10|2-13|Daunorubicin|drug
+DDI-DrugBank.d179.s11|2-11|Disulfiram|brand
+DDI-DrugBank.d179.s11|20-27|Antabuse|brand
+DDI-DrugBank.d179.s12|13-20|Depakote|brand
+DDI-DrugBank.d179.s13|2-10|Estrogens|group
+DDI-DrugBank.d179.s14|2-11|Etretinate|drug
+DDI-DrugBank.d179.s14|20-26|Tegison|brand
+DDI-DrugBank.d179.s15|36-60| (e.g., gold(I) chloride)|drug
+DDI-DrugBank.d179.s16|27-35|Plaquenil|brand
+DDI-DrugBank.d179.s17|17-26|Purinethol|brand
+DDI-DrugBank.d179.s18|13-18|Trexan|brand
+DDI-DrugBank.d179.s19|2-20|Oral contraceptives|group
+DDI-DrugBank.d179.s19|55-62|estrogen|drug
+DDI-DrugBank.d179.s20|8-22|anti-infectives|group
+DDI-DrugBank.d179.s21|2-15|Phenothiazines|group
+DDI-DrugBank.d179.s22|2-11|Plicamycin|drug
+DDI-DrugBank.d179.s22|20-28|Mithracin|brand
+DDI-DrugBank.d179.s23|2-14|Valproic acid|drug
+DDI-DrugBank.d179.s23|23-30|Depakene|brand
+DDI-DrugBank.d179.s24|2-21|Acetohydroxamic acid|drug
+DDI-DrugBank.d179.s24|30-38|Lithostat|brand
+DDI-DrugBank.d179.s26|15-22|Furoxone|brand
+DDI-DrugBank.d179.s27|17-26|Furadantin|brand
+DDI-DrugBank.d179.s28|2-11|Primaquine|drug
+DDI-DrugBank.d179.s29|2-13|Procainamide|brand
+DDI-DrugBank.d179.s29|22-30|Pronestyl|brand
+DDI-DrugBank.d179.s30|2-10|Quinidine|drug
+DDI-DrugBank.d179.s30|19-26|Quinidex|brand
+DDI-DrugBank.d179.s31|2-8|Quinine|drug
+DDI-DrugBank.d179.s32|18-24|Diasone|brand
+DDI-DrugBank.d179.s33|9-9|K|drug
+DDI-DrugBank.d179.s33|18-29|AquaMEPHYTON|brand
+DDI-DrugBank.d179.s33|58-84| (e.g., <drug>sulfapyridine|drug_n
+DDI-DrugBank.d179.s33|98-110|sulfapyridine|drug
+DDI-DrugBank.d179.s34|2-15|Anticoagulants|group
+DDI-DrugBank.d179.s35|2-8|Etohoin|drug
+DDI-DrugBank.d179.s35|17-24|Peganone|brand
+DDI-DrugBank.d179.s36|2-12|Mephenytoin|drug
+DDI-DrugBank.d179.s36|26-29|toin|drug
+DDI-DrugBank.d179.s36|65-73|medicines|drug_n
+DDI-DrugBank.d179.s36|124-132|medicines|drug_n
+DDI-DrugBank.d179.s37|2-14|Antidiabetics|group
+DDI-DrugBank.d179.s37|72-84|antidiabetics|group
+DDI-DrugBank.d179.s37|197-209|antidiabetics|group
+DDI-DrugBank.d179.s38|2-13|Methotrexate|drug
+DDI-DrugBank.d179.s38|22-27|Mexate|brand
+DDI-DrugBank.d179.s38|41-52|Methotrexate|drug
+DDI-DrugBank.d179.s38|160-171|Methotrexate|drug
+DDI-DrugBank.d179.s39|3-12|Methyldopa|drug
+DDI-DrugBank.d179.s39|21-27|Aldomet|brand
+DDI-DrugBank.d179.s39|41-50|Methyldopa|drug
+DDI-DrugBank.d179.s39|57-69|sulfapyridine|drug
+DDI-DrugBank.d179.s40|2-10|Phenytoin|drug
+DDI-DrugBank.d179.s40|19-26|Dilantin|brand
+DDI-DrugBank.d179.s40|36-44|phenytoin|drug
+DDI-DrugBank.d179.s40|51-63|sulfapyridine|drug
+DDI-DrugBank.d179.s40|152-160|phenytoin|drug
+DDI-DrugBank.d639.s0|0-5|SUTENT|drug
+DDI-DrugBank.d639.s0|29-37|sunitinib|drug
+DDI-DrugBank.d639.s0|255-263|sunitinib|drug
+DDI-DrugBank.d639.s1|0-5|SUTENT|drug
+DDI-DrugBank.d639.s1|50-59|grapefruit|drug
+DDI-DrugBank.d639.s2|0-5|SUTENT|drug
+DDI-DrugBank.d639.s2|47-59|CYP3A4 family|group
+DDI-DrugBank.d639.s2|68-80|dexamethasone|drug
+DDI-DrugBank.d639.s2|107-91||drug
+DDI-DrugBank.d639.s2|122-106||drug
+DDI-DrugBank.d639.s2|132-116||drug
+DDI-DrugBank.d639.s2|143-127||drug
+DDI-DrugBank.d639.s2|155-139||drug
+DDI-DrugBank.d639.s2|170-154||drug
+DDI-DrugBank.d639.s2|201-171||drug
+DDI-DrugBank.d639.s4|0-9|Johns Wort|drug
+DDI-DrugBank.d639.s4|24-29|SUTENT|drug
+DDI-DrugBank.d639.s5|0-5|SUTENT|drug
+DDI-DrugBank.d639.s5|32-34|St.|brand
+DDI-DrugBank.d639.s6|0-2|N/A|drug
+DDI-DrugBank.d639.s7|0-5|SUTENT|drug
+DDI-DrugBank.d639.s7|70-86|CYP3A4 inhibitors|group
+DDI-DrugBank.d723.s0|0-29|Other eye drops or medications|group
+DDI-DrugBank.d723.s0|39-60|acetylcholine chloride|drug
+DDI-DrugBank.d723.s0|91-99|carbachol|drug
+DDI-DrugBank.d723.s0|128-145|Isoproto Carbachol|drug
+DDI-DrugBank.d723.s0|176-194|suprofen ophthalmic|drug
+DDI-DrugBank.d704.s0|0-5|FLOMAX|drug
+DDI-DrugBank.d704.s0|78-83|FLOMAX|drug
+DDI-DrugBank.d704.s0|104-135|alpha-adrenergic blocking agents|group
+DDI-DrugBank.d704.s1|42-47|FLOMAX|brand
+DDI-DrugBank.d704.s1|103-134|alpha-adrenergic blocking agents|group
+DDI-DrugBank.d704.s2|0-9|cimetidine|drug
+DDI-DrugBank.d704.s2|87-96|cimetidine|drug
+DDI-DrugBank.d704.s3|0-13|Tamsulosin HCI|drug
+DDI-DrugBank.d704.s3|59-72|tamsulosin HCI|drug
+DDI-DrugBank.d704.s4|74-83|cimetidine|drug
+DDI-DrugBank.d704.s5|0-13|tamsulosin HCI|drug
+DDI-DrugBank.d704.s5|121-26||drug
+DDI-DrugBank.d704.s5|140-121||drug
+DDI-DrugBank.d704.s6|0-7|warfarin|drug
+DDI-DrugBank.d658.s0|32-43|testolactone|drug
+DDI-DrugBank.d658.s0|78-91|anticoagulants|group
+DDI-DrugBank.d658.s1|0-12|anticoagulant|drug
+DDI-DrugBank.d658.s2|0-11|Testolactone|drug
+DDI-DrugBank.d658.s2|37-48|testolactone|drug
+DDI-DrugBank.d766.s0|0-11|Trimetrexate|drug
+DDI-DrugBank.d766.s0|178-189|trimetrexate|drug
+DDI-DrugBank.d766.s1|0-5|Agents|group
+DDI-DrugBank.d766.s1|41-52|trimetrexate|drug
+DDI-DrugBank.d766.s1|133-144|erythromycin|drug
+DDI-DrugBank.d766.s1|170-154||drug
+DDI-DrugBank.d766.s1|181-165||drug
+DDI-DrugBank.d766.s1|199-179||drug
+DDI-DrugBank.d766.s2|0-9|cimetidine|drug
+DDI-DrugBank.d766.s3|0-35|Nitrogen substituted imidazole drugs|group
+DDI-DrugBank.d766.s4|0-10|these drugs|drug
+DDI-DrugBank.d328.s0|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s0|48-54|prodrug|drug_n
+DDI-DrugBank.d328.s1|46-52|prodrug|drug_n
+DDI-DrugBank.d328.s1|113-122|valdecoxib|drug
+DDI-DrugBank.d328.s2|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s2|23-32|valdecoxib|drug
+DDI-DrugBank.d328.s3|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s4|0-6|Aspirin|drug
+DDI-DrugBank.d328.s4|39-45|aspirin|drug
+DDI-DrugBank.d328.s5|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s5|35-41|aspirin|brand
+DDI-DrugBank.d328.s6|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s6|211-220|valdecoxib|drug
+DDI-DrugBank.d328.s7|0-11|Methotrexate|drug
+DDI-DrugBank.d328.s7|114-125|methotrexate|drug
+DDI-DrugBank.d328.s8|0-13|ACE-inhibitors|group
+DDI-DrugBank.d328.s8|88-101|ACE-inhibitors|group
+DDI-DrugBank.d328.s9|66-71|BEXTRA|brand
+DDI-DrugBank.d328.s10|0-9|Furosemide|drug
+DDI-DrugBank.d328.s10|130-139|furosemide|drug
+DDI-DrugBank.d328.s12|0-14|Anticonvulsants|group
+DDI-DrugBank.d328.s12|191-199|phenytoin|drug
+DDI-DrugBank.d328.s13|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s13|70-23||drug
+DDI-DrugBank.d328.s13|142-66||drug
+DDI-DrugBank.d328.s14|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s14|86-94|phenytoin|drug
+DDI-DrugBank.d328.s14|126-105||group
+DDI-DrugBank.d328.s15|0-23|Drug interaction studies|group
+DDI-DrugBank.d328.s15|36-50|anticonvulsants|group
+DDI-DrugBank.d328.s16|0-5|BEXTRA|drug
+DDI-DrugBank.d328.s16|64-69|BEXTRA|drug
+DDI-DrugBank.d328.s16|122-143|anticonvulsant therapy|group
+DDI-DrugBank.d328.s17|0-15|Dextromethorphan|drug
+DDI-DrugBank.d328.s17|63-69|CYP 2D6|group
+DDI-DrugBank.d328.s17|97-99|3A4|group
+DDI-DrugBank.d328.s18|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s18|136-145|valdecoxib|drug
+DDI-DrugBank.d328.s18|170-172|2D6|drug_n
+DDI-DrugBank.d328.s19|0-15|dextromethorphan|drug
+DDI-DrugBank.d328.s20|0-6|Lithium|drug
+DDI-DrugBank.d328.s20|75-81|lithium|drug
+DDI-DrugBank.d328.s20|176-182|lithium|drug
+DDI-DrugBank.d328.s21|0-6|Lithium|drug
+DDI-DrugBank.d328.s21|98-103|BEXTRA|brand
+DDI-DrugBank.d328.s21|127-133|Lithium|drug
+DDI-DrugBank.d328.s22|0-16|Lithium carbonate|drug
+DDI-DrugBank.d328.s23|0-7|Warfarin|drug
+DDI-DrugBank.d328.s23|66-73|warfarin|drug
+DDI-DrugBank.d328.s23|145-150|BEXTRA|brand
+DDI-DrugBank.d328.s24|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s24|78-87|R-warfarin|drug
+DDI-DrugBank.d328.s25|76-85|valdecoxib|drug
+DDI-DrugBank.d328.s26|0-20|Anticoagulant therapy|group
+DDI-DrugBank.d328.s26|114-119|BEXTRA|brand
+DDI-DrugBank.d328.s26|163-168|agents|group
+DDI-DrugBank.d328.s27|0-10|Fluconazole|group
+DDI-DrugBank.d328.s27|45-56|Ketoconazole|drug
+DDI-DrugBank.d328.s27|105-27||group
+DDI-DrugBank.d328.s27|117-96||group
+DDI-DrugBank.d328.s28|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s28|96-26||drug
+DDI-DrugBank.d328.s28|136-92||drug
+DDI-DrugBank.d328.s28|153-134||drug
+DDI-DrugBank.d328.s28|212-150||drug
+DDI-DrugBank.d328.s29|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s29|76-86|fluconazole|drug
+DDI-DrugBank.d328.s29|121-132|ketoconazole|drug
+DDI-DrugBank.d328.s30|0-8|Glyburide|drug
+DDI-DrugBank.d328.s31|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s31|39-47|glyburide|drug
+DDI-DrugBank.d328.s31|122-130|glyburide|drug
+DDI-DrugBank.d328.s32|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s32|60-68|glyburide|drug
+DDI-DrugBank.d328.s32|196-204|glyburide|drug
+DDI-DrugBank.d328.s33|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s33|60-68|glyburide|drug
+DDI-DrugBank.d328.s33|120-128|glyburide|drug
+DDI-DrugBank.d328.s33|160-168|glyburide|drug
+DDI-DrugBank.d328.s33|204-210|glucose|drug
+DDI-DrugBank.d328.s34|0-6|Insulin|drug
+DDI-DrugBank.d328.s35|0-9|valdecoxib|drug
+DDI-DrugBank.d328.s35|110-23||drug
+DDI-DrugBank.d328.s35|260-106||drug
+DDI-DrugBank.d328.s35|275-255||drug
+DDI-DrugBank.d328.s36|0-8|Glyburide|drug
+DDI-DrugBank.d328.s36|39-48|valdecoxib|drug
+DDI-DrugBank.d328.s37|0-9|Omeprazole|drug
+DDI-DrugBank.d328.s37|41-47|CYP 3A4|group
+DDI-DrugBank.d328.s37|63-70|CYP 2C19|group
+DDI-DrugBank.d328.s38|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s38|113-122|omeprazole|drug
+DDI-DrugBank.d328.s39|0-31|Coadministration with valdecoxib|drug
+DDI-DrugBank.d328.s39|55-64|omeprazole|drug
+DDI-DrugBank.d328.s40|0-4|Drugs|group
+DDI-DrugBank.d328.s40|102-111|omeprazole|drug
+DDI-DrugBank.d328.s41|0-9|omeprazole|drug
+DDI-DrugBank.d328.s41|63-72|omeprazole|drug
+DDI-DrugBank.d328.s41|147-156|omeprazole|drug
+DDI-DrugBank.d328.s42|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s42|60-69|omeprazole|drug
+DDI-DrugBank.d328.s43|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s43|60-89|combination oral contraceptive|group
+DDI-DrugBank.d328.s43|150-165|Ortho-Novum 1/35|brand
+DDI-DrugBank.d328.s44|0-9|Valdecoxib|drug
+DDI-DrugBank.d328.s44|73-85|norethindrone|drug
+DDI-DrugBank.d328.s46|29-41|norethindrone|drug
+DDI-DrugBank.d328.s46|167-63||drug
+DDI-DrugBank.d328.s47|0-7|Diazepam|drug
+DDI-DrugBank.d328.s47|35-41|CYP 3A4|group
+DDI-DrugBank.d328.s48|0-7|diazepam|drug
+DDI-DrugBank.d328.s48|70-79|valdecoxib|drug
+DDI-DrugBank.d328.s48|131-140|valdecoxib|drug
+DDI-DrugBank.d328.s48|214-221|diazepam|drug
+DDI-DrugBank.d328.s49|0-7|diazepam|drug
+DDI-DrugBank.d328.s49|75-22||drug
+DDI-DrugBank.d328.s49|274-69||drug
+DDI-DrugBank.d328.s50|147-159|motor vehicle|drug
+DDI-DrugBank.d782.s0|0-8|Vindesine|drug
+DDI-DrugBank.d782.s0|319-327|Phenytoin|drug
+DDI-DrugBank.d759.s0|0-12|Ascorbic acid|drug
+DDI-DrugBank.d759.s0|68-85|bishydroxycoumarin|drug
